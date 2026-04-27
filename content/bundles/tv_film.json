@@ -1,0 +1,39 @@
+{
+  "id": "tv_film",
+  "version": 1,
+  "questions": [
+    {
+      "id": "tv_film_0001",
+      "difficulty": "easy",
+      "question": "Which show features the character Eleven?",
+      "correctAnswer": "Stranger Things",
+      "wrongAnswers": [
+        "Dark",
+        "The OA",
+        "Lost"
+      ]
+    },
+    {
+      "id": "tv_film_0002",
+      "difficulty": "easy",
+      "question": "Who directed 'Titanic'?",
+      "correctAnswer": "James Cameron",
+      "wrongAnswers": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Ridley Scott"
+      ]
+    },
+    {
+      "id": "tv_film_0003",
+      "difficulty": "medium",
+      "question": "Which movie won Best Picture in 2020?",
+      "correctAnswer": "Parasite",
+      "wrongAnswers": [
+        "1917",
+        "Joker",
+        "Ford v Ferrari"
+      ]
+    }
+  ]
+}
