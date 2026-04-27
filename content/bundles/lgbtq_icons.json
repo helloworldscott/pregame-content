@@ -1,0 +1,39 @@
+{
+  "id": "lgbtq_icons",
+  "version": 1,
+  "questions": [
+    {
+      "id": "lgbtq_icons_0001",
+      "difficulty": "easy",
+      "question": "Which drag superstar hosted 'RuPaul's Drag Race'?",
+      "correctAnswer": "RuPaul",
+      "wrongAnswers": [
+        "Trixie Mattel",
+        "Bianca Del Rio",
+        "Bob the Drag Queen"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0002",
+      "difficulty": "easy",
+      "question": "Which singer released the album 'Chromatica'?",
+      "correctAnswer": "Lady Gaga",
+      "wrongAnswers": [
+        "Dua Lipa",
+        "Ariana Grande",
+        "Katy Perry"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0003",
+      "difficulty": "medium",
+      "question": "Which show features the ballroom scene and houses?",
+      "correctAnswer": "Pose",
+      "wrongAnswers": [
+        "Euphoria",
+        "Glee",
+        "Empire"
+      ]
+    }
+  ]
+}
