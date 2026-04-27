@@ -1,0 +1,13 @@
+{
+  "id": "music_pop",
+  "version": 1,
+  "questions": [
+    {
+      "id": "music_pop_0001",
+      "difficulty": "easy",
+      "question": "Who is the Queen of Pop?",
+      "correctAnswer": "Madonna",
+      "wrongAnswers": ["Lady Gaga", "Beyonce", "Rihanna"]
+    }
+  ]
+}
