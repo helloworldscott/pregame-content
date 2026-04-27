@@ -5,9 +5,35 @@
     {
       "id": "music_pop_0001",
       "difficulty": "easy",
-      "question": "Who is the Queen of Pop?",
+      "question": "Who is known as the 'Queen of Pop'?",
       "correctAnswer": "Madonna",
-      "wrongAnswers": ["Lady Gaga", "Beyonce", "Rihanna"]
+      "wrongAnswers": [
+        "Lady Gaga",
+        "Britney Spears",
+        "Beyonc?"
+      ]
+    },
+    {
+      "id": "music_pop_0002",
+      "difficulty": "easy",
+      "question": "Which artist sings 'Bad Romance'?",
+      "correctAnswer": "Lady Gaga",
+      "wrongAnswers": [
+        "Rihanna",
+        "Katy Perry",
+        "Dua Lipa"
+      ]
+    },
+    {
+      "id": "music_pop_0003",
+      "difficulty": "medium",
+      "question": "Which Beyonc? album features 'Break My Soul'?",
+      "correctAnswer": "Renaissance",
+      "wrongAnswers": [
+        "Lemonade",
+        "4",
+        "B'Day"
+      ]
     }
   ]
 }
