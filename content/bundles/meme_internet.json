@@ -1,0 +1,446 @@
+{
+  "id": "meme_internet",
+  "version": 1,
+  "questions": [
+    {
+      "id": "memes_001",
+      "difficulty": "easy",
+      "question": "Finish the meme phrase: \"It's me ____\"",
+      "correctAnswer": "Hi",
+      "wrongAnswers": [
+        "Hello",
+        "Again",
+        "Back"
+      ]
+    },
+    {
+      "id": "memes_002",
+      "difficulty": "easy",
+      "question": "What does \"LOL\" stand for?",
+      "correctAnswer": "Laugh Out Loud",
+      "wrongAnswers": [
+        "Lot of Love",
+        "Live Online Laugh",
+        "Long Old Laugh"
+      ]
+    },
+    {
+      "id": "memes_003",
+      "difficulty": "easy",
+      "question": "What does \"BRB\" mean?",
+      "correctAnswer": "Be Right Back",
+      "wrongAnswers": [
+        "Bring Right Back",
+        "Be Ready Bro",
+        "Break Right Now"
+      ]
+    },
+    {
+      "id": "memes_004",
+      "difficulty": "easy",
+      "question": "What does \"viral\" mean online?",
+      "correctAnswer": "Spreads quickly",
+      "wrongAnswers": [
+        "Gets deleted",
+        "Becomes private",
+        "Stops working"
+      ]
+    },
+    {
+      "id": "memes_005",
+      "difficulty": "easy",
+      "question": "Finish the meme: \"This is fine\" refers to?",
+      "correctAnswer": "A burning room",
+      "wrongAnswers": [
+        "A party",
+        "A happy place",
+        "A quiet room"
+      ]
+    },
+    {
+      "id": "memes_006",
+      "difficulty": "easy",
+      "question": "What platform popularized short viral dances?",
+      "correctAnswer": "TikTok",
+      "wrongAnswers": [
+        "Facebook",
+        "LinkedIn",
+        "Reddit"
+      ]
+    },
+    {
+      "id": "memes_007",
+      "difficulty": "easy",
+      "question": "What does \"DM\" mean?",
+      "correctAnswer": "Direct Message",
+      "wrongAnswers": [
+        "Delete Message",
+        "Digital Mode",
+        "Daily Message"
+      ]
+    },
+    {
+      "id": "memes_008",
+      "difficulty": "easy",
+      "question": "Finish the meme: \"Nobody: ____\"",
+      "correctAnswer": "Silence",
+      "wrongAnswers": [
+        "Everyone",
+        "Me",
+        "Something"
+      ]
+    },
+    {
+      "id": "memes_009",
+      "difficulty": "easy",
+      "question": "What does \"FOMO\" mean?",
+      "correctAnswer": "Fear Of Missing Out",
+      "wrongAnswers": [
+        "Feeling Of More Options",
+        "Fun Online Mode",
+        "Fast Online Movement"
+      ]
+    },
+    {
+      "id": "memes_010",
+      "difficulty": "easy",
+      "question": "What does \"meme\" refer to?",
+      "correctAnswer": "Funny viral content",
+      "wrongAnswers": [
+        "Music file",
+        "Game mode",
+        "Chat room"
+      ]
+    },
+    {
+      "id": "memes_011",
+      "difficulty": "medium",
+      "question": "What does \"GOAT\" mean?",
+      "correctAnswer": "Greatest Of All Time",
+      "wrongAnswers": [
+        "Go Over A Thing",
+        "Game Of All Time",
+        "Group Of All Teams"
+      ]
+    },
+    {
+      "id": "memes_012",
+      "difficulty": "medium",
+      "question": "What does \"sus\" mean?",
+      "correctAnswer": "Suspicious",
+      "wrongAnswers": [
+        "Serious",
+        "Smart",
+        "Silent"
+      ]
+    },
+    {
+      "id": "memes_013",
+      "difficulty": "medium",
+      "question": "What does \"cap\" mean?",
+      "correctAnswer": "Lie",
+      "wrongAnswers": [
+        "Truth",
+        "Story",
+        "Game"
+      ]
+    },
+    {
+      "id": "memes_014",
+      "difficulty": "medium",
+      "question": "What does \"no cap\" mean?",
+      "correctAnswer": "No lie",
+      "wrongAnswers": [
+        "No hat",
+        "No stop",
+        "No game"
+      ]
+    },
+    {
+      "id": "memes_015",
+      "difficulty": "medium",
+      "question": "What does \"ratio\" mean online?",
+      "correctAnswer": "More replies than likes",
+      "wrongAnswers": [
+        "More likes than views",
+        "Delete post",
+        "Follow someone"
+      ]
+    },
+    {
+      "id": "memes_016",
+      "difficulty": "medium",
+      "question": "What does \"stan\" mean?",
+      "correctAnswer": "Obsessive fan",
+      "wrongAnswers": [
+        "Hater",
+        "Singer",
+        "Dancer"
+      ]
+    },
+    {
+      "id": "memes_017",
+      "difficulty": "medium",
+      "question": "What does \"main character energy\" mean?",
+      "correctAnswer": "Confident presence",
+      "wrongAnswers": [
+        "Background role",
+        "Sad mood",
+        "Quiet person"
+      ]
+    },
+    {
+      "id": "memes_018",
+      "difficulty": "medium",
+      "question": "What does \"it's giving\" mean?",
+      "correctAnswer": "Describing vibe",
+      "wrongAnswers": [
+        "Ending convo",
+        "Rejecting someone",
+        "Singing loudly"
+      ]
+    },
+    {
+      "id": "memes_019",
+      "difficulty": "medium",
+      "question": "What does \"ate\" mean in slang?",
+      "correctAnswer": "Did very well",
+      "wrongAnswers": [
+        "Failed",
+        "Sang loudly",
+        "Danced poorly"
+      ]
+    },
+    {
+      "id": "memes_020",
+      "difficulty": "medium",
+      "question": "What does \"mid\" mean?",
+      "correctAnswer": "Average",
+      "wrongAnswers": [
+        "Bad",
+        "Great",
+        "Fast"
+      ]
+    },
+    {
+      "id": "memes_021",
+      "difficulty": "hard",
+      "question": "What does \"chronically online\" mean?",
+      "correctAnswer": "Always online",
+      "wrongAnswers": [
+        "Rarely online",
+        "Offline often",
+        "No internet"
+      ]
+    },
+    {
+      "id": "memes_022",
+      "difficulty": "hard",
+      "question": "What does \"touch grass\" mean?",
+      "correctAnswer": "Go outside",
+      "wrongAnswers": [
+        "Stay inside",
+        "Play game",
+        "Sleep more"
+      ]
+    },
+    {
+      "id": "memes_023",
+      "difficulty": "hard",
+      "question": "What does \"NPC energy\" mean?",
+      "correctAnswer": "Acting basic",
+      "wrongAnswers": [
+        "Very smart",
+        "Creative",
+        "Funny"
+      ]
+    },
+    {
+      "id": "memes_024",
+      "difficulty": "hard",
+      "question": "What does \"delulu\" mean?",
+      "correctAnswer": "Delusional",
+      "wrongAnswers": [
+        "Smart",
+        "Funny",
+        "Fast"
+      ]
+    },
+    {
+      "id": "memes_025",
+      "difficulty": "hard",
+      "question": "What does \"rizz\" mean?",
+      "correctAnswer": "Charm",
+      "wrongAnswers": [
+        "Anger",
+        "Sadness",
+        "Speed"
+      ]
+    },
+    {
+      "id": "memes_026",
+      "difficulty": "hard",
+      "question": "What does \"based\" mean?",
+      "correctAnswer": "Agreeable opinion",
+      "wrongAnswers": [
+        "Bad opinion",
+        "Funny moment",
+        "Random post"
+      ]
+    },
+    {
+      "id": "memes_027",
+      "difficulty": "hard",
+      "question": "What does \"simp\" mean?",
+      "correctAnswer": "Overly devoted person",
+      "wrongAnswers": [
+        "Smart person",
+        "Funny person",
+        "Fast person"
+      ]
+    },
+    {
+      "id": "memes_028",
+      "difficulty": "hard",
+      "question": "What does \"doomscrolling\" mean?",
+      "correctAnswer": "Endless scrolling",
+      "wrongAnswers": [
+        "Sleeping",
+        "Watching TV",
+        "Playing games"
+      ]
+    },
+    {
+      "id": "memes_029",
+      "difficulty": "hard",
+      "question": "What does \"ratioed\" mean?",
+      "correctAnswer": "Outnumbered replies",
+      "wrongAnswers": [
+        "Deleted post",
+        "Trending post",
+        "Blocked user"
+      ]
+    },
+    {
+      "id": "memes_030",
+      "difficulty": "hard",
+      "question": "What does \"vibe check\" mean?",
+      "correctAnswer": "Assess mood",
+      "wrongAnswers": [
+        "Check time",
+        "Sing loudly",
+        "Dance move"
+      ]
+    },
+    {
+      "id": "memes_031",
+      "difficulty": "easy",
+      "question": "What does \"viral video\" mean?",
+      "correctAnswer": "Popular video",
+      "wrongAnswers": [
+        "Deleted video",
+        "Private video",
+        "Old video"
+      ]
+    },
+    {
+      "id": "memes_032",
+      "difficulty": "easy",
+      "question": "What does \"GIF\" refer to?",
+      "correctAnswer": "Animated image",
+      "wrongAnswers": [
+        "Photo file",
+        "Video game",
+        "Chat app"
+      ]
+    },
+    {
+      "id": "memes_033",
+      "difficulty": "medium",
+      "question": "What does \"trend\" mean online?",
+      "correctAnswer": "Popular topic",
+      "wrongAnswers": [
+        "Old topic",
+        "Private topic",
+        "Deleted topic"
+      ]
+    },
+    {
+      "id": "memes_034",
+      "difficulty": "medium",
+      "question": "What does \"hashtag\" do?",
+      "correctAnswer": "Categorizes content",
+      "wrongAnswers": [
+        "Deletes post",
+        "Blocks user",
+        "Sends message"
+      ]
+    },
+    {
+      "id": "memes_035",
+      "difficulty": "medium",
+      "question": "What does \"streamer\" refer to?",
+      "correctAnswer": "Online broadcaster",
+      "wrongAnswers": [
+        "Singer",
+        "Actor",
+        "Dancer"
+      ]
+    },
+    {
+      "id": "memes_036",
+      "difficulty": "hard",
+      "question": "What does \"algorithm\" control?",
+      "correctAnswer": "Content visibility",
+      "wrongAnswers": [
+        "User login",
+        "Music playback",
+        "Game speed"
+      ]
+    },
+    {
+      "id": "memes_037",
+      "difficulty": "hard",
+      "question": "What does \"shadowban\" mean?",
+      "correctAnswer": "Hidden content",
+      "wrongAnswers": [
+        "Deleted account",
+        "Blocked user",
+        "Private profile"
+      ]
+    },
+    {
+      "id": "memes_038",
+      "difficulty": "easy",
+      "question": "What does \"comment section\" refer to?",
+      "correctAnswer": "User replies",
+      "wrongAnswers": [
+        "Main post",
+        "Profile page",
+        "Inbox"
+      ]
+    },
+    {
+      "id": "memes_039",
+      "difficulty": "medium",
+      "question": "What does \"engagement\" mean online?",
+      "correctAnswer": "Interaction level",
+      "wrongAnswers": [
+        "Delete rate",
+        "Speed",
+        "Sound"
+      ]
+    },
+    {
+      "id": "memes_040",
+      "difficulty": "hard",
+      "question": "What does \"going viral\" usually result in?",
+      "correctAnswer": "Mass exposure",
+      "wrongAnswers": [
+        "Account deletion",
+        "Private mode",
+        "No views"
+      ]
+    }
+  ]
+}
