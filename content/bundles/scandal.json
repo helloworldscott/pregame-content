@@ -1,0 +1,446 @@
+{
+  "id": "scandal",
+  "version": 1,
+  "questions": [
+    {
+      "id": "scandal_001",
+      "difficulty": "easy",
+      "question": "Which artist famously said \"I'mma let you finish\" at an awards show?",
+      "correctAnswer": "Kanye West",
+      "wrongAnswers": [
+        "Drake",
+        "Jay-Z",
+        "Justin Bieber"
+      ]
+    },
+    {
+      "id": "scandal_002",
+      "difficulty": "easy",
+      "question": "Which celebrity wore a meat dress to an awards show?",
+      "correctAnswer": "Lady Gaga",
+      "wrongAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Katy Perry"
+      ]
+    },
+    {
+      "id": "scandal_003",
+      "difficulty": "easy",
+      "question": "Which celebrity couple was nicknamed \"Brangelina\"?",
+      "correctAnswer": "Brad Pitt & Angelina Jolie",
+      "wrongAnswers": [
+        "Kim & Kanye",
+        "Beyonce & Jay-Z",
+        "Tom & Katie"
+      ]
+    },
+    {
+      "id": "scandal_004",
+      "difficulty": "easy",
+      "question": "Which artist sparked controversy with the song \"WAP\"?",
+      "correctAnswer": "Cardi B & Megan Thee Stallion",
+      "wrongAnswers": [
+        "Nicki Minaj & Doja Cat",
+        "Rihanna & Beyonce",
+        "Ariana & SZA"
+      ]
+    },
+    {
+      "id": "scandal_005",
+      "difficulty": "easy",
+      "question": "Which celebrity shaved her head in 2007?",
+      "correctAnswer": "Britney Spears",
+      "wrongAnswers": [
+        "Lindsay Lohan",
+        "Miley Cyrus",
+        "Paris Hilton"
+      ]
+    },
+    {
+      "id": "scandal_006",
+      "difficulty": "medium",
+      "question": "Which celebrity couple had a highly publicized split in 2016 dubbed \"Brangelina breakup\"?",
+      "correctAnswer": "Brad Pitt & Angelina Jolie",
+      "wrongAnswers": [
+        "Kim & Kanye",
+        "Beyonce & Jay-Z",
+        "Justin & Selena"
+      ]
+    },
+    {
+      "id": "scandal_007",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a viral Oscars envelope mix-up?",
+      "correctAnswer": "Best Picture mix-up",
+      "wrongAnswers": [
+        "Best Actor error",
+        "Wrong host",
+        "Stage collapse"
+      ]
+    },
+    {
+      "id": "scandal_008",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a red carpet elevator incident discussion?",
+      "correctAnswer": "Solange & Jay-Z elevator",
+      "wrongAnswers": [
+        "Kim & Kanye fight",
+        "Rihanna drama",
+        "Drake feud"
+      ]
+    },
+    {
+      "id": "scandal_009",
+      "difficulty": "medium",
+      "question": "Which celebrity posted a viral snake emoji response during a feud?",
+      "correctAnswer": "Kim Kardashian",
+      "wrongAnswers": [
+        "Taylor Swift",
+        "Beyonce",
+        "Rihanna"
+      ]
+    },
+    {
+      "id": "scandal_010",
+      "difficulty": "medium",
+      "question": "Which artist deleted social media posts during a public feud in 2016?",
+      "correctAnswer": "Taylor Swift",
+      "wrongAnswers": [
+        "Katy Perry",
+        "Rihanna",
+        "Ariana Grande"
+      ]
+    },
+    {
+      "id": "scandal_011",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a viral red dress dubbed \"the internet debate dress\"?",
+      "correctAnswer": "Blue/Black vs White/Gold dress",
+      "wrongAnswers": [
+        "Met Gala look",
+        "Oscars gown",
+        "Grammys outfit"
+      ]
+    },
+    {
+      "id": "scandal_012",
+      "difficulty": "medium",
+      "question": "Which artist sparked debate with the song \"Blurred Lines\"?",
+      "correctAnswer": "Robin Thicke",
+      "wrongAnswers": [
+        "Pharrell",
+        "Drake",
+        "Ed Sheeran"
+      ]
+    },
+    {
+      "id": "scandal_013",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a reality TV family dominating headlines?",
+      "correctAnswer": "Kardashians",
+      "wrongAnswers": [
+        "Jenner sisters",
+        "Paris Hilton",
+        "Lohan family"
+      ]
+    },
+    {
+      "id": "scandal_014",
+      "difficulty": "medium",
+      "question": "Which celebrity feud involved backup dancers switching tours?",
+      "correctAnswer": "Taylor Swift & Katy Perry",
+      "wrongAnswers": [
+        "Rihanna & Beyonce",
+        "Ariana & Nicki",
+        "Doja & Cardi"
+      ]
+    },
+    {
+      "id": "scandal_015",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a viral ?wardrobe malfunction? discussion?",
+      "correctAnswer": "Super Bowl performance",
+      "wrongAnswers": [
+        "Grammys outfit",
+        "Oscars dress",
+        "Met Gala look"
+      ]
+    },
+    {
+      "id": "scandal_016",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a famous ?Free ___? campaign by fans?",
+      "correctAnswer": "Britney",
+      "wrongAnswers": [
+        "Paris",
+        "Lindsay",
+        "Miley"
+      ]
+    },
+    {
+      "id": "scandal_017",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a viral courtroom livestream in 2022?",
+      "correctAnswer": "Johnny Depp trial",
+      "wrongAnswers": [
+        "Oscars speech",
+        "Grammys event",
+        "Met Gala appearance"
+      ]
+    },
+    {
+      "id": "scandal_018",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a stage interruption during a VMA speech?",
+      "correctAnswer": "Kanye interruption",
+      "wrongAnswers": [
+        "Drake speech",
+        "Rihanna performance",
+        "Adele speech"
+      ]
+    },
+    {
+      "id": "scandal_019",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a public apology video going viral?",
+      "correctAnswer": "YouTube apology",
+      "wrongAnswers": [
+        "Oscars speech",
+        "Interview clip",
+        "Concert speech"
+      ]
+    },
+    {
+      "id": "scandal_020",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a surprise album drop changing industry norms?",
+      "correctAnswer": "Beyonce 2013",
+      "wrongAnswers": [
+        "Rihanna drop",
+        "Drake drop",
+        "Taylor drop"
+      ]
+    },
+    {
+      "id": "scandal_021",
+      "difficulty": "easy",
+      "question": "Which celebrity is known for ?breaking the internet? headlines?",
+      "correctAnswer": "Kim Kardashian",
+      "wrongAnswers": [
+        "Beyonce",
+        "Rihanna",
+        "Taylor Swift"
+      ]
+    },
+    {
+      "id": "scandal_022",
+      "difficulty": "easy",
+      "question": "Which celebrity feud involved diss tracks in rap culture?",
+      "correctAnswer": "Drake vs Meek Mill",
+      "wrongAnswers": [
+        "Kanye vs Drake",
+        "Jay-Z vs Nas",
+        "Eminem vs MGK"
+      ]
+    },
+    {
+      "id": "scandal_023",
+      "difficulty": "easy",
+      "question": "Which celebrity moment involved a viral crying meme interview?",
+      "correctAnswer": "Kim Kardashian",
+      "wrongAnswers": [
+        "Britney Spears",
+        "Rihanna",
+        "Ariana Grande"
+      ]
+    },
+    {
+      "id": "scandal_024",
+      "difficulty": "easy",
+      "question": "Which celebrity moment involved paparazzi culture criticism?",
+      "correctAnswer": "Britney Spears",
+      "wrongAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Adele"
+      ]
+    },
+    {
+      "id": "scandal_025",
+      "difficulty": "easy",
+      "question": "Which celebrity moment involved a viral Met Gala outfit debate?",
+      "correctAnswer": "Kim Kardashian",
+      "wrongAnswers": [
+        "Rihanna",
+        "Lady Gaga",
+        "Katy Perry"
+      ]
+    },
+    {
+      "id": "scandal_026",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a highly discussed Oscars slap?",
+      "correctAnswer": "Will Smith",
+      "wrongAnswers": [
+        "Chris Rock",
+        "Denzel Washington",
+        "Jamie Foxx"
+      ]
+    },
+    {
+      "id": "scandal_027",
+      "difficulty": "medium",
+      "question": "Which celebrity feud involved Instagram unfollow drama?",
+      "correctAnswer": "Selena Gomez & Hailey Bieber",
+      "wrongAnswers": [
+        "Rihanna & Beyonce",
+        "Ariana & Nicki",
+        "Doja & Cardi"
+      ]
+    },
+    {
+      "id": "scandal_028",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a leaked song becoming viral?",
+      "correctAnswer": "Drake leak",
+      "wrongAnswers": [
+        "Justin Bieber leak",
+        "Taylor Swift leak",
+        "Rihanna leak"
+      ]
+    },
+    {
+      "id": "scandal_029",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a surprise wedding announcement?",
+      "correctAnswer": "Ariana Grande",
+      "wrongAnswers": [
+        "Beyonce",
+        "Rihanna",
+        "Taylor Swift"
+      ]
+    },
+    {
+      "id": "scandal_030",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a controversial fashion show appearance?",
+      "correctAnswer": "Kanye West",
+      "wrongAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Drake"
+      ]
+    },
+    {
+      "id": "scandal_031",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a widely discussed documentary release?",
+      "correctAnswer": "Britney Spears documentary",
+      "wrongAnswers": [
+        "Rihanna doc",
+        "Taylor doc",
+        "Beyonce doc"
+      ]
+    },
+    {
+      "id": "scandal_032",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a viral TikTok exposing industry practices?",
+      "correctAnswer": "Music industry debate",
+      "wrongAnswers": [
+        "Fashion industry",
+        "Film industry",
+        "Sports industry"
+      ]
+    },
+    {
+      "id": "scandal_033",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a public PR relationship rumor cycle?",
+      "correctAnswer": "Multiple celebs",
+      "wrongAnswers": [
+        "Single celeb",
+        "Actors only",
+        "Singers only"
+      ]
+    },
+    {
+      "id": "scandal_034",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved fans decoding hidden messages in posts?",
+      "correctAnswer": "Taylor Swift",
+      "wrongAnswers": [
+        "Beyonce",
+        "Rihanna",
+        "Ariana Grande"
+      ]
+    },
+    {
+      "id": "scandal_035",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a high-profile brand partnership backlash?",
+      "correctAnswer": "Kanye West",
+      "wrongAnswers": [
+        "Rihanna",
+        "Beyonce",
+        "Drake"
+      ]
+    },
+    {
+      "id": "scandal_036",
+      "difficulty": "easy",
+      "question": "Which celebrity moment involved a viral reality TV fight?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Kardashians",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "scandal_037",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a public social media apology?",
+      "correctAnswer": "Influencer apology",
+      "wrongAnswers": [
+        "Actor apology",
+        "Singer apology",
+        "Host apology"
+      ]
+    },
+    {
+      "id": "scandal_038",
+      "difficulty": "medium",
+      "question": "Which celebrity moment involved a controversial awards show speech?",
+      "correctAnswer": "Grammys speech",
+      "wrongAnswers": [
+        "Oscars speech",
+        "VMAs speech",
+        "BET speech"
+      ]
+    },
+    {
+      "id": "scandal_039",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved a viral ?notes app? apology?",
+      "correctAnswer": "Influencers",
+      "wrongAnswers": [
+        "Actors",
+        "Singers",
+        "Hosts"
+      ]
+    },
+    {
+      "id": "scandal_040",
+      "difficulty": "hard",
+      "question": "Which celebrity moment involved fans organizing online campaigns?",
+      "correctAnswer": "Fan movements",
+      "wrongAnswers": [
+        "PR teams",
+        "Media outlets",
+        "Brands"
+      ]
+    }
+  ]
+}
