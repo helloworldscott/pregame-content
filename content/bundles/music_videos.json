@@ -1,0 +1,446 @@
+{
+  "id": "music_videos",
+  "version": 1,
+  "questions": [
+    {
+      "id": "music_videos_001",
+      "difficulty": "easy",
+      "question": "Which music video features Miley Cyrus swinging on a wrecking ball?",
+      "correctAnswer": "Wrecking Ball",
+      "wrongAnswers": [
+        "Blank Space",
+        "Roar",
+        "Into You"
+      ]
+    },
+    {
+      "id": "music_videos_002",
+      "difficulty": "easy",
+      "question": "Which video features Taylor Swift as multiple versions of herself?",
+      "correctAnswer": "Look What You Made Me Do",
+      "wrongAnswers": [
+        "Style",
+        "Love Story",
+        "Cardigan"
+      ]
+    },
+    {
+      "id": "music_videos_003",
+      "difficulty": "easy",
+      "question": "Which video features Ariana Grande recreating Mean Girls scenes?",
+      "correctAnswer": "thank u next",
+      "wrongAnswers": [
+        "7 rings",
+        "Positions",
+        "Into You"
+      ]
+    },
+    {
+      "id": "music_videos_004",
+      "difficulty": "easy",
+      "question": "Which video shows Rihanna dancing in the rain with an umbrella?",
+      "correctAnswer": "Umbrella",
+      "wrongAnswers": [
+        "Diamonds",
+        "Stay",
+        "Work"
+      ]
+    },
+    {
+      "id": "music_videos_005",
+      "difficulty": "easy",
+      "question": "Which video features Britney Spears in a red latex suit in space?",
+      "correctAnswer": "Oops I Did It Again",
+      "wrongAnswers": [
+        "Toxic",
+        "Circus",
+        "Stronger"
+      ]
+    },
+    {
+      "id": "music_videos_006",
+      "difficulty": "easy",
+      "question": "Which video features Lady Gaga in a futuristic bathhouse?",
+      "correctAnswer": "Bad Romance",
+      "wrongAnswers": [
+        "Poker Face",
+        "Applause",
+        "Alejandro"
+      ]
+    },
+    {
+      "id": "music_videos_007",
+      "difficulty": "easy",
+      "question": "Which video features Drake dancing alone in colorful rooms?",
+      "correctAnswer": "Hotline Bling",
+      "wrongAnswers": [
+        "God's Plan",
+        "One Dance",
+        "In My Feelings"
+      ]
+    },
+    {
+      "id": "music_videos_008",
+      "difficulty": "easy",
+      "question": "Which video shows Katy Perry as Cleopatra?",
+      "correctAnswer": "Dark Horse",
+      "wrongAnswers": [
+        "Firework",
+        "Roar",
+        "Teenage Dream"
+      ]
+    },
+    {
+      "id": "music_videos_009",
+      "difficulty": "easy",
+      "question": "Which video features Billie Eilish with black tears?",
+      "correctAnswer": "when the party's over",
+      "wrongAnswers": [
+        "bad guy",
+        "Therefore I Am",
+        "Ocean Eyes"
+      ]
+    },
+    {
+      "id": "music_videos_010",
+      "difficulty": "easy",
+      "question": "Which video shows Lil Nas X sliding down a pole to hell?",
+      "correctAnswer": "Montero",
+      "wrongAnswers": [
+        "Industry Baby",
+        "Old Town Road",
+        "Panini"
+      ]
+    },
+    {
+      "id": "music_videos_011",
+      "difficulty": "medium",
+      "question": "Which video features Beyonc? smashing cars with a bat?",
+      "correctAnswer": "Hold Up",
+      "wrongAnswers": [
+        "Formation",
+        "Run the World",
+        "Crazy in Love"
+      ]
+    },
+    {
+      "id": "music_videos_012",
+      "difficulty": "medium",
+      "question": "Which video features Gaga and Beyonc? in a prison storyline?",
+      "correctAnswer": "Telephone",
+      "wrongAnswers": [
+        "Paparazzi",
+        "Alejandro",
+        "Applause"
+      ]
+    },
+    {
+      "id": "music_videos_013",
+      "difficulty": "medium",
+      "question": "Which video shows Harry Styles eating fruit on a beach?",
+      "correctAnswer": "Watermelon Sugar",
+      "wrongAnswers": [
+        "Golden",
+        "Adore You",
+        "As It Was"
+      ]
+    },
+    {
+      "id": "music_videos_014",
+      "difficulty": "medium",
+      "question": "Which video features Doja Cat dressed as a cow?",
+      "correctAnswer": "Mooo!",
+      "wrongAnswers": [
+        "Say So",
+        "Kiss Me More",
+        "Woman"
+      ]
+    },
+    {
+      "id": "music_videos_015",
+      "difficulty": "medium",
+      "question": "Which video shows Olivia Rodrigo trashing a bedroom at prom?",
+      "correctAnswer": "good 4 u",
+      "wrongAnswers": [
+        "deja vu",
+        "drivers license",
+        "vampire"
+      ]
+    },
+    {
+      "id": "music_videos_016",
+      "difficulty": "medium",
+      "question": "Which video features The Weeknd in a red suit with a bruised face?",
+      "correctAnswer": "Blinding Lights",
+      "wrongAnswers": [
+        "Starboy",
+        "Save Your Tears",
+        "After Hours era"
+      ]
+    },
+    {
+      "id": "music_videos_017",
+      "difficulty": "medium",
+      "question": "Which video shows Sia with Maddie Ziegler dancing in a room?",
+      "correctAnswer": "Chandelier",
+      "wrongAnswers": [
+        "Elastic Heart",
+        "Alive",
+        "Cheap Thrills"
+      ]
+    },
+    {
+      "id": "music_videos_018",
+      "difficulty": "medium",
+      "question": "Which video features Nicki Minaj in a Barbie pink setting?",
+      "correctAnswer": "Super Bass",
+      "wrongAnswers": [
+        "Starships",
+        "Anaconda",
+        "Pound the Alarm"
+      ]
+    },
+    {
+      "id": "music_videos_019",
+      "difficulty": "medium",
+      "question": "Which video features Dua Lipa floating in a retro house?",
+      "correctAnswer": "Levitating",
+      "wrongAnswers": [
+        "Don't Start Now",
+        "Physical",
+        "Hallucinate"
+      ]
+    },
+    {
+      "id": "music_videos_020",
+      "difficulty": "medium",
+      "question": "Which video shows Selena Gomez in a surreal horror-style setting?",
+      "correctAnswer": "Fetish",
+      "wrongAnswers": [
+        "Bad Liar",
+        "Lose You to Love Me",
+        "Hands to Myself"
+      ]
+    },
+    {
+      "id": "music_videos_021",
+      "difficulty": "medium",
+      "question": "Which video features Cardi B and Megan in a colorful mansion?",
+      "correctAnswer": "WAP",
+      "wrongAnswers": [
+        "Up",
+        "Savage",
+        "Bodak Yellow"
+      ]
+    },
+    {
+      "id": "music_videos_022",
+      "difficulty": "medium",
+      "question": "Which video features Troye Sivan at a wild house party?",
+      "correctAnswer": "My My My!",
+      "wrongAnswers": [
+        "Rush",
+        "Bloom",
+        "Youth"
+      ]
+    },
+    {
+      "id": "music_videos_023",
+      "difficulty": "medium",
+      "question": "Which video features BLACKPINK in large cinematic sets?",
+      "correctAnswer": "Kill This Love",
+      "wrongAnswers": [
+        "Pink Venom",
+        "How You Like That",
+        "DDU-DU DDU-DU"
+      ]
+    },
+    {
+      "id": "music_videos_024",
+      "difficulty": "medium",
+      "question": "Which video features Taylor Swift in a mansion destroying a car?",
+      "correctAnswer": "Blank Space",
+      "wrongAnswers": [
+        "Style",
+        "Lover",
+        "Red"
+      ]
+    },
+    {
+      "id": "music_videos_025",
+      "difficulty": "medium",
+      "question": "Which video shows Justin Bieber dancing in a warehouse?",
+      "correctAnswer": "Sorry",
+      "wrongAnswers": [
+        "Baby",
+        "Peaches",
+        "Yummy"
+      ]
+    },
+    {
+      "id": "music_videos_026",
+      "difficulty": "hard",
+      "question": "Which video features Madonna dancing in a black and white ballroom?",
+      "correctAnswer": "Vogue",
+      "wrongAnswers": [
+        "Like a Prayer",
+        "Frozen",
+        "Hung Up"
+      ]
+    },
+    {
+      "id": "music_videos_027",
+      "difficulty": "hard",
+      "question": "Which video features Childish Gambino dancing amid chaos?",
+      "correctAnswer": "This Is America",
+      "wrongAnswers": [
+        "Redbone",
+        3005,
+        "Sober"
+      ]
+    },
+    {
+      "id": "music_videos_028",
+      "difficulty": "hard",
+      "question": "Which video features OK Go performing on treadmills?",
+      "correctAnswer": "Here It Goes Again",
+      "wrongAnswers": [
+        "Upside Down & Inside Out",
+        "White Knuckles",
+        "Needing Getting"
+      ]
+    },
+    {
+      "id": "music_videos_029",
+      "difficulty": "hard",
+      "question": "Which video features a continuous one-shot party scene?",
+      "correctAnswer": "We Found Love",
+      "wrongAnswers": [
+        "Party Rock Anthem",
+        "Turn Down for What",
+        "Closer"
+      ]
+    },
+    {
+      "id": "music_videos_030",
+      "difficulty": "hard",
+      "question": "Which video features a narrative about time loops?",
+      "correctAnswer": "Save Your Tears",
+      "wrongAnswers": [
+        "Blinding Lights",
+        "Take On Me",
+        "Closer"
+      ]
+    },
+    {
+      "id": "music_videos_031",
+      "difficulty": "hard",
+      "question": "Which video features A-ha entering a comic book world?",
+      "correctAnswer": "Take On Me",
+      "wrongAnswers": [
+        "The Sun Always Shines",
+        "Toxic",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "music_videos_032",
+      "difficulty": "hard",
+      "question": "Which video features zombies dancing in sync?",
+      "correctAnswer": "Thriller",
+      "wrongAnswers": [
+        "Ghostbusters",
+        "Beat It",
+        "Bad"
+      ]
+    },
+    {
+      "id": "music_videos_033",
+      "difficulty": "hard",
+      "question": "Which video features a burning house party?",
+      "correctAnswer": "We Can't Stop",
+      "wrongAnswers": [
+        "Wrecking Ball",
+        "Firework",
+        "Teenage Dream"
+      ]
+    },
+    {
+      "id": "music_videos_034",
+      "difficulty": "hard",
+      "question": "Which video features a giant snake transformation?",
+      "correctAnswer": "Look What You Made Me Do",
+      "wrongAnswers": [
+        "Reputation",
+        "Style",
+        "Wildest Dreams"
+      ]
+    },
+    {
+      "id": "music_videos_035",
+      "difficulty": "hard",
+      "question": "Which video features a neon-lit roller rink scene?",
+      "correctAnswer": "Say So",
+      "wrongAnswers": [
+        "Kiss Me More",
+        "Woman",
+        "Juicy"
+      ]
+    },
+    {
+      "id": "music_videos_036",
+      "difficulty": "hard",
+      "question": "Which video features dancers on a moving airplane?",
+      "correctAnswer": "Toxic",
+      "wrongAnswers": [
+        "Circus",
+        "Gimme More",
+        "Piece of Me"
+      ]
+    },
+    {
+      "id": "music_videos_037",
+      "difficulty": "hard",
+      "question": "Which video features a choreographed marching band?",
+      "correctAnswer": "Formation",
+      "wrongAnswers": [
+        "Run the World",
+        "Single Ladies",
+        "Countdown"
+      ]
+    },
+    {
+      "id": "music_videos_038",
+      "difficulty": "hard",
+      "question": "Which video features glowing suits in the dark?",
+      "correctAnswer": "Bad Romance",
+      "wrongAnswers": [
+        "Alejandro",
+        "Applause",
+        "Poker Face"
+      ]
+    },
+    {
+      "id": "music_videos_039",
+      "difficulty": "hard",
+      "question": "Which video features a surreal food fight scene?",
+      "correctAnswer": "Bon App?tit",
+      "wrongAnswers": [
+        "Dark Horse",
+        "Swish Swish",
+        "Roar"
+      ]
+    },
+    {
+      "id": "music_videos_040",
+      "difficulty": "hard",
+      "question": "Which video features a dreamlike underwater sequence?",
+      "correctAnswer": "Diamonds",
+      "wrongAnswers": [
+        "Stay",
+        "Umbrella",
+        "Only Girl"
+      ]
+    }
+  ]
+}
