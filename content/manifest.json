@@ -13,14 +13,105 @@
       "version": 1,
       "path": "bundles/lgbtq_icons.json",
       "sha256": "",
-      "questionCount": 3
+      "questionCount": 40
     },
     {
-      "id": "tv_film",
+      "id": "tv",
       "version": 1,
-      "path": "bundles/tv_film.json",
+      "path": "bundles/tv.json",
       "sha256": "",
-      "questionCount": 3
+      "questionCount": 40
+    },
+    {
+      "id": "lady_gaga",
+      "version": 1,
+      "path": "bundles/lady_gaga.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "drag_race",
+      "version": 1,
+      "path": "bundles/drag_race.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "slang",
+      "version": 1,
+      "path": "bundles/slang.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "meme_internet",
+      "version": 1,
+      "path": "bundles/meme_internet.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "movies",
+      "version": 1,
+      "path": "bundles/movies.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "scandal",
+      "version": 1,
+      "path": "bundles/scandal.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "music_hits",
+      "version": 1,
+      "path": "bundles/music_hits.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "madonna",
+      "version": 1,
+      "path": "bundles/madonna.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "fashion",
+      "version": 1,
+      "path": "bundles/fashion.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "horror",
+      "version": 1,
+      "path": "bundles/horror.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "music_videos",
+      "version": 1,
+      "path": "bundles/music_videos.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "reality",
+      "version": 1,
+      "path": "bundles/reality.json",
+      "sha256": "",
+      "questionCount": 40
+    },
+    {
+      "id": "miley_cyrus",
+      "version": 1,
+      "path": "bundles/miley_cyrus.json",
+      "sha256": "",
+      "questionCount": 40
     }
   ]
 }
