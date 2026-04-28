@@ -1,0 +1,446 @@
+{
+  "id": "reality",
+  "version": 1,
+  "questions": [
+    {
+      "id": "reality_001",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"I said what I ____\"",
+      "correctAnswer": "Said",
+      "wrongAnswers": [
+        "Did",
+        "Meant",
+        "Thought"
+      ]
+    },
+    {
+      "id": "reality_002",
+      "difficulty": "easy",
+      "question": "Which show features the Kardashian family?",
+      "correctAnswer": "Keeping Up with the Kardashians",
+      "wrongAnswers": [
+        "Real Housewives",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "reality_003",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"Don't be ____\"",
+      "correctAnswer": "Tardy",
+      "wrongAnswers": [
+        "Messy",
+        "Late",
+        "Loud"
+      ]
+    },
+    {
+      "id": "reality_004",
+      "difficulty": "easy",
+      "question": "Which show features couples pairing up in a villa?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_005",
+      "difficulty": "easy",
+      "question": "Which show features weekly rose ceremonies?",
+      "correctAnswer": "The Bachelor",
+      "wrongAnswers": [
+        "Love Island",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_006",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"You're such a ____\"",
+      "correctAnswer": "Liar",
+      "wrongAnswers": [
+        "Fake",
+        "Mess",
+        "Snake"
+      ]
+    },
+    {
+      "id": "reality_007",
+      "difficulty": "easy",
+      "question": "Which show features contestants living together and being watched 24/7?",
+      "correctAnswer": "Big Brother",
+      "wrongAnswers": [
+        "Survivor",
+        "Love Island",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_008",
+      "difficulty": "easy",
+      "question": "Which show features influencers living in a house rating each other?",
+      "correctAnswer": "The Circle",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_009",
+      "difficulty": "easy",
+      "question": "Finish the phrase: \"It's giving ____ energy\"",
+      "correctAnswer": "Main character",
+      "wrongAnswers": [
+        "Bad vibes",
+        "Drama",
+        "Chaos"
+      ]
+    },
+    {
+      "id": "reality_010",
+      "difficulty": "easy",
+      "question": "Which show features luxury lifestyles and drama among wealthy women?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Kardashians",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "reality_011",
+      "difficulty": "medium",
+      "question": "Which show features island survival challenges?",
+      "correctAnswer": "Survivor",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_012",
+      "difficulty": "medium",
+      "question": "Which show features no physical contact rules for prize money?",
+      "correctAnswer": "Too Hot To Handle",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_013",
+      "difficulty": "medium",
+      "question": "Which show features contestants creating alliances to win?",
+      "correctAnswer": "Big Brother",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_014",
+      "difficulty": "medium",
+      "question": "Which show features dramatic recoupling ceremonies?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_015",
+      "difficulty": "medium",
+      "question": "Finish the quote: \"I'm not here to make ____\"",
+      "correctAnswer": "Friends",
+      "wrongAnswers": [
+        "Drama",
+        "Enemies",
+        "Mistakes"
+      ]
+    },
+    {
+      "id": "reality_016",
+      "difficulty": "medium",
+      "question": "Which show includes confessionals where cast speak directly to camera?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_017",
+      "difficulty": "medium",
+      "question": "Which show features eliminations via weekly voting?",
+      "correctAnswer": "Big Brother",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_018",
+      "difficulty": "medium",
+      "question": "Which show features dramatic reunion episodes after the season?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_019",
+      "difficulty": "medium",
+      "question": "Which show includes luxury vacations with drama?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_020",
+      "difficulty": "medium",
+      "question": "Finish the quote: \"You're fake ____\"",
+      "correctAnswer": "AF",
+      "wrongAnswers": [
+        "Forever",
+        "Again",
+        "Always"
+      ]
+    },
+    {
+      "id": "reality_021",
+      "difficulty": "hard",
+      "question": "Which show popularized \"table flip\" moments in reality TV?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_022",
+      "difficulty": "hard",
+      "question": "Which show features contestants blocked instead of eliminated?",
+      "correctAnswer": "The Circle",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_023",
+      "difficulty": "hard",
+      "question": "Which show includes dramatic proposal finales?",
+      "correctAnswer": "The Bachelor",
+      "wrongAnswers": [
+        "Love Island",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_024",
+      "difficulty": "hard",
+      "question": "Which show includes \"bombshell\" contestants entering mid-season?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Big Brother",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_025",
+      "difficulty": "hard",
+      "question": "Which show features jury members deciding the winner?",
+      "correctAnswer": "Survivor",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "reality_026",
+      "difficulty": "hard",
+      "question": "Which show includes secret alliances and betrayals as core gameplay?",
+      "correctAnswer": "Big Brother",
+      "wrongAnswers": [
+        "Love Island",
+        "The Bachelor",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_027",
+      "difficulty": "hard",
+      "question": "Which show includes a ?rose ceremony? elimination?",
+      "correctAnswer": "The Bachelor",
+      "wrongAnswers": [
+        "Love Island",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_028",
+      "difficulty": "hard",
+      "question": "Which show features influencers competing for popularity ratings?",
+      "correctAnswer": "The Circle",
+      "wrongAnswers": [
+        "Love Island",
+        "Big Brother",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_029",
+      "difficulty": "hard",
+      "question": "Which show features luxury glam squads and styling drama?",
+      "correctAnswer": "Kardashians",
+      "wrongAnswers": [
+        "Real Housewives",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "reality_030",
+      "difficulty": "hard",
+      "question": "Finish the quote: \"I'm done with this ____\"",
+      "correctAnswer": "Drama",
+      "wrongAnswers": [
+        "Show",
+        "Mess",
+        "Energy"
+      ]
+    },
+    {
+      "id": "reality_031",
+      "difficulty": "easy",
+      "question": "Which show features dramatic breakups and recouplings?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_032",
+      "difficulty": "easy",
+      "question": "Which show features contestants living in a luxury villa?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Big Brother",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_033",
+      "difficulty": "medium",
+      "question": "Which show features high-stakes social gameplay and eviction nights?",
+      "correctAnswer": "Big Brother",
+      "wrongAnswers": [
+        "Love Island",
+        "Survivor",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_034",
+      "difficulty": "medium",
+      "question": "Which show features island tribal councils?",
+      "correctAnswer": "Survivor",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_035",
+      "difficulty": "medium",
+      "question": "Finish the quote: \"This is so ____\"",
+      "correctAnswer": "Messy",
+      "wrongAnswers": [
+        "Fake",
+        "Wild",
+        "Chaotic"
+      ]
+    },
+    {
+      "id": "reality_036",
+      "difficulty": "hard",
+      "question": "Which show features strategic immunity challenges?",
+      "correctAnswer": "Survivor",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "The Circle"
+      ]
+    },
+    {
+      "id": "reality_037",
+      "difficulty": "hard",
+      "question": "Which show features dramatic fashion and lifestyle feuds?",
+      "correctAnswer": "Real Housewives",
+      "wrongAnswers": [
+        "Kardashians",
+        "Love Island",
+        "The Bachelor"
+      ]
+    },
+    {
+      "id": "reality_038",
+      "difficulty": "easy",
+      "question": "Which show includes dramatic dating eliminations?",
+      "correctAnswer": "The Bachelor",
+      "wrongAnswers": [
+        "Love Island",
+        "Too Hot To Handle",
+        "Big Brother"
+      ]
+    },
+    {
+      "id": "reality_039",
+      "difficulty": "medium",
+      "question": "Which show includes cast members rating each other anonymously?",
+      "correctAnswer": "The Circle",
+      "wrongAnswers": [
+        "Big Brother",
+        "Love Island",
+        "Survivor"
+      ]
+    },
+    {
+      "id": "reality_040",
+      "difficulty": "hard",
+      "question": "Which show blends romance",
+      "correctAnswer": "competition",
+      "wrongAnswers": [
+        "and social strategy?",
+        "Love Island",
+        "Big Brother"
+      ]
+    }
+  ]
+}
