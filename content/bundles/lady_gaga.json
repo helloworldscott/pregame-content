@@ -1,0 +1,446 @@
+{
+  "id": "lady_gaga",
+  "version": 1,
+  "questions": [
+    {
+      "id": "lady_gaga_001",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"I'm on the right track baby I was ____\"",
+      "correctAnswer": "Born This Way",
+      "wrongAnswers": [
+        "Fearless",
+        "Unbreakable",
+        "Stronger"
+      ]
+    },
+    {
+      "id": "lady_gaga_002",
+      "difficulty": "easy",
+      "question": "Which album includes \"Poker Face\"?",
+      "correctAnswer": "The Fame",
+      "wrongAnswers": [
+        "The Fame Monster",
+        "Born This Way",
+        "Artpop"
+      ]
+    },
+    {
+      "id": "lady_gaga_003",
+      "difficulty": "easy",
+      "question": "Which artist features on \"Rain On Me\" with Gaga?",
+      "correctAnswer": "Ariana Grande",
+      "wrongAnswers": [
+        "Rihanna",
+        "Dua Lipa",
+        "Nicki Minaj"
+      ]
+    },
+    {
+      "id": "lady_gaga_004",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"Can't read my can't read my no he can't read my ____\"",
+      "correctAnswer": "Poker Face",
+      "wrongAnswers": [
+        "Love game",
+        "Heart beat",
+        "Mind game"
+      ]
+    },
+    {
+      "id": "lady_gaga_005",
+      "difficulty": "easy",
+      "question": "Which album includes \"Bad Romance\"?",
+      "correctAnswer": "The Fame Monster",
+      "wrongAnswers": [
+        "Born This Way",
+        "Artpop",
+        "Chromatica"
+      ]
+    },
+    {
+      "id": "lady_gaga_006",
+      "difficulty": "easy",
+      "question": "Which Gaga era is known for meat dress moment?",
+      "correctAnswer": "The Fame Monster",
+      "wrongAnswers": [
+        "Artpop",
+        "Chromatica",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_007",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"Just dance gonna be okay ____\"",
+      "correctAnswer": "Da da doo doo",
+      "wrongAnswers": [
+        "La la la",
+        "Oh yeah",
+        "All night"
+      ]
+    },
+    {
+      "id": "lady_gaga_008",
+      "difficulty": "easy",
+      "question": "Which album includes \"Telephone\"?",
+      "correctAnswer": "The Fame Monster",
+      "wrongAnswers": [
+        "The Fame",
+        "Artpop",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_009",
+      "difficulty": "easy",
+      "question": "Which film features Gaga performing \"Shallow\"?",
+      "correctAnswer": "A Star Is Born",
+      "wrongAnswers": [
+        "House of Gucci",
+        "American Horror Story",
+        "La La Land"
+      ]
+    },
+    {
+      "id": "lady_gaga_010",
+      "difficulty": "easy",
+      "question": "Which Gaga era features pink desert visuals?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Born This Way",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_011",
+      "difficulty": "medium",
+      "question": "Which Gaga album came first?",
+      "correctAnswer": "The Fame",
+      "wrongAnswers": [
+        "Born This Way",
+        "Artpop",
+        "Chromatica"
+      ]
+    },
+    {
+      "id": "lady_gaga_012",
+      "difficulty": "medium",
+      "question": "Which artist features on \"Telephone\"?",
+      "correctAnswer": "Beyonce",
+      "wrongAnswers": [
+        "Rihanna",
+        "Nicki Minaj",
+        "Dua Lipa"
+      ]
+    },
+    {
+      "id": "lady_gaga_013",
+      "difficulty": "medium",
+      "question": "Which album includes \"Born This Way\"?",
+      "correctAnswer": "Born This Way",
+      "wrongAnswers": [
+        "The Fame Monster",
+        "Artpop",
+        "Chromatica"
+      ]
+    },
+    {
+      "id": "lady_gaga_014",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"Don't be a drag just be a ____\"",
+      "correctAnswer": "Queen",
+      "wrongAnswers": [
+        "Star",
+        "Dream",
+        "Icon"
+      ]
+    },
+    {
+      "id": "lady_gaga_015",
+      "difficulty": "medium",
+      "question": "Which Gaga era is known for futuristic ART visuals?",
+      "correctAnswer": "Artpop",
+      "wrongAnswers": [
+        "Chromatica",
+        "Joanne",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_016",
+      "difficulty": "medium",
+      "question": "Which Gaga performance included a Super Bowl halftime show?",
+      "correctAnswer": "2017 Halftime",
+      "wrongAnswers": [
+        "2015 Grammys",
+        "2012 Olympics",
+        "2010 VMAs"
+      ]
+    },
+    {
+      "id": "lady_gaga_017",
+      "difficulty": "medium",
+      "question": "Which album includes \"Applause\"?",
+      "correctAnswer": "Artpop",
+      "wrongAnswers": [
+        "Born This Way",
+        "Chromatica",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_018",
+      "difficulty": "medium",
+      "question": "Which Gaga album includes \"Stupid Love\"?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Joanne",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_019",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"I live for the ____\"",
+      "correctAnswer": "Applause",
+      "wrongAnswers": [
+        "Music",
+        "Dance",
+        "Fame"
+      ]
+    },
+    {
+      "id": "lady_gaga_020",
+      "difficulty": "medium",
+      "question": "Which Gaga album is country-inspired?",
+      "correctAnswer": "Joanne",
+      "wrongAnswers": [
+        "Chromatica",
+        "Artpop",
+        "The Fame Monster"
+      ]
+    },
+    {
+      "id": "lady_gaga_021",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"911\"?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Born This Way",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_022",
+      "difficulty": "hard",
+      "question": "Which Gaga era features a pink cyberpunk aesthetic?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "The Fame",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_023",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Venus\"?",
+      "correctAnswer": "Artpop",
+      "wrongAnswers": [
+        "Born This Way",
+        "Chromatica",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_024",
+      "difficulty": "hard",
+      "question": "Which Gaga song references Alejandro repeatedly?",
+      "correctAnswer": "Alejandro",
+      "wrongAnswers": [
+        "Paparazzi",
+        "LoveGame",
+        "Applause"
+      ]
+    },
+    {
+      "id": "lady_gaga_025",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Marry The Night\"?",
+      "correctAnswer": "Born This Way",
+      "wrongAnswers": [
+        "Artpop",
+        "Chromatica",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_026",
+      "difficulty": "hard",
+      "question": "Which Gaga performance featured blood during a live show?",
+      "correctAnswer": "Paparazzi VMAs",
+      "wrongAnswers": [
+        "Super Bowl",
+        "Grammys",
+        "Coachella"
+      ]
+    },
+    {
+      "id": "lady_gaga_027",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"G.U.Y.\"?",
+      "correctAnswer": "Artpop",
+      "wrongAnswers": [
+        "Chromatica",
+        "Born This Way",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_028",
+      "difficulty": "hard",
+      "question": "Which Gaga song includes the lyric \"Rah rah ah ah ah\"?",
+      "correctAnswer": "Bad Romance",
+      "wrongAnswers": [
+        "Poker Face",
+        "Applause",
+        "Just Dance"
+      ]
+    },
+    {
+      "id": "lady_gaga_029",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Dance In The Dark\"?",
+      "correctAnswer": "The Fame Monster",
+      "wrongAnswers": [
+        "Artpop",
+        "Born This Way",
+        "Chromatica"
+      ]
+    },
+    {
+      "id": "lady_gaga_030",
+      "difficulty": "hard",
+      "question": "Which Gaga era used disco + house revival?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Joanne",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_031",
+      "difficulty": "easy",
+      "question": "Which Gaga album includes \"Just Dance\"?",
+      "correctAnswer": "The Fame",
+      "wrongAnswers": [
+        "The Fame Monster",
+        "Born This Way",
+        "Artpop"
+      ]
+    },
+    {
+      "id": "lady_gaga_032",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"Baby I was born this ____\"",
+      "correctAnswer": "Way",
+      "wrongAnswers": [
+        "Day",
+        "Life",
+        "Time"
+      ]
+    },
+    {
+      "id": "lady_gaga_033",
+      "difficulty": "medium",
+      "question": "Which Gaga album includes \"Edge of Glory\"?",
+      "correctAnswer": "Born This Way",
+      "wrongAnswers": [
+        "Artpop",
+        "Chromatica",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_034",
+      "difficulty": "medium",
+      "question": "Which Gaga album includes \"Million Reasons\"?",
+      "correctAnswer": "Joanne",
+      "wrongAnswers": [
+        "Chromatica",
+        "Artpop",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_035",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"Take a ride on your ____\"",
+      "correctAnswer": "Disco stick",
+      "wrongAnswers": [
+        "Love train",
+        "Magic ride",
+        "Starship"
+      ]
+    },
+    {
+      "id": "lady_gaga_036",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Aura\"?",
+      "correctAnswer": "Artpop",
+      "wrongAnswers": [
+        "Born This Way",
+        "Chromatica",
+        "Joanne"
+      ]
+    },
+    {
+      "id": "lady_gaga_037",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Replay\"?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Joanne",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_038",
+      "difficulty": "easy",
+      "question": "Which Gaga album includes \"Paparazzi\"?",
+      "correctAnswer": "The Fame",
+      "wrongAnswers": [
+        "Artpop",
+        "Born This Way",
+        "Chromatica"
+      ]
+    },
+    {
+      "id": "lady_gaga_039",
+      "difficulty": "medium",
+      "question": "Which Gaga album includes \"Perfect Illusion\"?",
+      "correctAnswer": "Joanne",
+      "wrongAnswers": [
+        "Chromatica",
+        "Artpop",
+        "Born This Way"
+      ]
+    },
+    {
+      "id": "lady_gaga_040",
+      "difficulty": "hard",
+      "question": "Which Gaga album includes \"Sine From Above\"?",
+      "correctAnswer": "Chromatica",
+      "wrongAnswers": [
+        "Artpop",
+        "Born This Way",
+        "Joanne"
+      ]
+    }
+  ]
+}
