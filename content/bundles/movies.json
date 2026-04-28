@@ -1,0 +1,446 @@
+{
+  "id": "movies",
+  "version": 1,
+  "questions": [
+    {
+      "id": "movies_001",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"On Wednesdays we wear ____\"",
+      "correctAnswer": "Pink",
+      "wrongAnswers": [
+        "Black",
+        "Heels",
+        "Glitter"
+      ]
+    },
+    {
+      "id": "movies_002",
+      "difficulty": "easy",
+      "question": "Which movie features the character Elle Woods?",
+      "correctAnswer": "Legally Blonde",
+      "wrongAnswers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_003",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"That's hot ____\"",
+      "correctAnswer": "Girl",
+      "wrongAnswers": [
+        "Stuff",
+        "Energy",
+        "Look"
+      ]
+    },
+    {
+      "id": "movies_004",
+      "difficulty": "easy",
+      "question": "Which movie features the song \"Shallow\"?",
+      "correctAnswer": "A Star Is Born",
+      "wrongAnswers": [
+        "La La Land",
+        "Mamma Mia",
+        "The Greatest Showman"
+      ]
+    },
+    {
+      "id": "movies_005",
+      "difficulty": "easy",
+      "question": "Which movie features the Plastics?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Heathers",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_006",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"You go Glen ____\"",
+      "correctAnswer": "Coco",
+      "wrongAnswers": [
+        "Queen",
+        "Star",
+        "Babe"
+      ]
+    },
+    {
+      "id": "movies_007",
+      "difficulty": "easy",
+      "question": "Which movie features Regina George?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Heathers",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_008",
+      "difficulty": "easy",
+      "question": "Which movie is set around ABBA songs?",
+      "correctAnswer": "Mamma Mia!",
+      "wrongAnswers": [
+        "La La Land",
+        "Chicago",
+        "Burlesque"
+      ]
+    },
+    {
+      "id": "movies_009",
+      "difficulty": "easy",
+      "question": "Which movie features Cher Horowitz?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Legally Blonde",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_010",
+      "difficulty": "easy",
+      "question": "Finish the quote: \"I'm not like a regular mom",
+      "correctAnswer": "I'm a ____ mom\"",
+      "wrongAnswers": [
+        "Cool",
+        "Hot",
+        "Fun"
+      ]
+    },
+    {
+      "id": "movies_011",
+      "difficulty": "medium",
+      "question": "Which movie features a pink dress court scene?",
+      "correctAnswer": "Legally Blonde",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_012",
+      "difficulty": "medium",
+      "question": "Which movie includes the \"Burn Book\"?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Heathers",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_013",
+      "difficulty": "medium",
+      "question": "Which movie features the line \"You can't sit with us\"?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_014",
+      "difficulty": "medium",
+      "question": "Which movie features a makeover montage in a high school?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Easy A",
+        "Legally Blonde"
+      ]
+    },
+    {
+      "id": "movies_015",
+      "difficulty": "medium",
+      "question": "Which movie features a musical number on a boat in Greece?",
+      "correctAnswer": "Mamma Mia!",
+      "wrongAnswers": [
+        "Chicago",
+        "Burlesque",
+        "La La Land"
+      ]
+    },
+    {
+      "id": "movies_016",
+      "difficulty": "medium",
+      "question": "Which movie features a fake relationship turning real?",
+      "correctAnswer": "To All The Boys",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_017",
+      "difficulty": "medium",
+      "question": "Which movie features a school gossip blog?",
+      "correctAnswer": "Easy A",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_018",
+      "difficulty": "medium",
+      "question": "Which movie includes a pink convertible car?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Legally Blonde",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_019",
+      "difficulty": "medium",
+      "question": "Which movie includes a dramatic prom scene?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Legally Blonde"
+      ]
+    },
+    {
+      "id": "movies_020",
+      "difficulty": "medium",
+      "question": "Which movie features a diary-style narration?",
+      "correctAnswer": "Easy A",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_021",
+      "difficulty": "hard",
+      "question": "Which movie features the character Veronica Sawyer?",
+      "correctAnswer": "Heathers",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_022",
+      "difficulty": "hard",
+      "question": "Which movie includes the song \"Cell Block Tango\"?",
+      "correctAnswer": "Chicago",
+      "wrongAnswers": [
+        "Moulin Rouge",
+        "Burlesque",
+        "Mamma Mia"
+      ]
+    },
+    {
+      "id": "movies_023",
+      "difficulty": "hard",
+      "question": "Which movie features a high school revenge plot involving popularity?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Heathers",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_024",
+      "difficulty": "hard",
+      "question": "Which movie includes a burlesque nightclub setting?",
+      "correctAnswer": "Burlesque",
+      "wrongAnswers": [
+        "Chicago",
+        "Moulin Rouge",
+        "La La Land"
+      ]
+    },
+    {
+      "id": "movies_025",
+      "difficulty": "hard",
+      "question": "Which movie features a journalist uncovering a fashion industry story?",
+      "correctAnswer": "The Devil Wears Prada",
+      "wrongAnswers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_026",
+      "difficulty": "hard",
+      "question": "Which movie includes a makeover into a ?popular girl? trope?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_027",
+      "difficulty": "hard",
+      "question": "Which movie features a toxic best friend dynamic in high school?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Legally Blonde"
+      ]
+    },
+    {
+      "id": "movies_028",
+      "difficulty": "hard",
+      "question": "Which movie includes a diary confession style storytelling?",
+      "correctAnswer": "Easy A",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_029",
+      "difficulty": "hard",
+      "question": "Which movie features a fashion magazine office setting?",
+      "correctAnswer": "The Devil Wears Prada",
+      "wrongAnswers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_030",
+      "difficulty": "hard",
+      "question": "Which movie includes a major glow-up storyline?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_031",
+      "difficulty": "easy",
+      "question": "Which movie features the phrase \"fetch\"?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_032",
+      "difficulty": "easy",
+      "question": "Which movie features a law school setting?",
+      "correctAnswer": "Legally Blonde",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_033",
+      "difficulty": "medium",
+      "question": "Which movie includes a fashion makeover montage?",
+      "correctAnswer": "Clueless",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_034",
+      "difficulty": "medium",
+      "question": "Which movie includes a musical set in Paris?",
+      "correctAnswer": "Moulin Rouge",
+      "wrongAnswers": [
+        "Chicago",
+        "La La Land",
+        "Mamma Mia"
+      ]
+    },
+    {
+      "id": "movies_035",
+      "difficulty": "medium",
+      "question": "Which movie includes a gossip-fueled plotline?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_036",
+      "difficulty": "hard",
+      "question": "Which movie features a satirical take on high school popularity?",
+      "correctAnswer": "Heathers",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_037",
+      "difficulty": "hard",
+      "question": "Which movie includes a workplace power dynamic in fashion?",
+      "correctAnswer": "The Devil Wears Prada",
+      "wrongAnswers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A"
+      ]
+    },
+    {
+      "id": "movies_038",
+      "difficulty": "easy",
+      "question": "Which movie features a cheerleader clique?",
+      "correctAnswer": "Mean Girls",
+      "wrongAnswers": [
+        "Clueless",
+        "Easy A",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_039",
+      "difficulty": "medium",
+      "question": "Which movie includes a viral school rumor storyline?",
+      "correctAnswer": "Easy A",
+      "wrongAnswers": [
+        "Mean Girls",
+        "Clueless",
+        "Heathers"
+      ]
+    },
+    {
+      "id": "movies_040",
+      "difficulty": "hard",
+      "question": "Which movie includes a satirical fashion industry portrayal?",
+      "correctAnswer": "The Devil Wears Prada",
+      "wrongAnswers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A"
+      ]
+    }
+  ]
+}
