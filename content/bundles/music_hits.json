@@ -1,0 +1,446 @@
+{
+  "id": "music_hits",
+  "version": 1,
+  "questions": [
+    {
+      "id": "music_hits_001",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"Cause you know I'm all about that ____\"",
+      "correctAnswer": "Bass",
+      "wrongAnswers": [
+        "Beat",
+        "Money",
+        "Love"
+      ]
+    },
+    {
+      "id": "music_hits_002",
+      "difficulty": "easy",
+      "question": "Which album includes \"Blinding Lights\"?",
+      "correctAnswer": "After Hours",
+      "wrongAnswers": [
+        "Starboy",
+        "Dawn FM",
+        "Beauty Behind the Madness"
+      ]
+    },
+    {
+      "id": "music_hits_003",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"I got a feeling that tonight's gonna be a ____ night\"",
+      "correctAnswer": "Good",
+      "wrongAnswers": [
+        "Wild",
+        "Crazy",
+        "Long"
+      ]
+    },
+    {
+      "id": "music_hits_004",
+      "difficulty": "easy",
+      "question": "Which album includes \"Levitating\"?",
+      "correctAnswer": "Future Nostalgia",
+      "wrongAnswers": [
+        "Confident",
+        1989,
+        "Positions"
+      ]
+    },
+    {
+      "id": "music_hits_005",
+      "difficulty": "easy",
+      "question": "Which artist features on \"Uptown Funk\" with Mark Ronson?",
+      "correctAnswer": "Bruno Mars",
+      "wrongAnswers": [
+        "Pharrell",
+        "Justin Timberlake",
+        "The Weeknd"
+      ]
+    },
+    {
+      "id": "music_hits_006",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"I don't care I love it I don't ____\"",
+      "correctAnswer": "Care",
+      "wrongAnswers": [
+        "Stop",
+        "Think",
+        "Mind"
+      ]
+    },
+    {
+      "id": "music_hits_007",
+      "difficulty": "easy",
+      "question": "Which album includes \"Shape of You\"?",
+      "correctAnswer": "Divide",
+      "wrongAnswers": [
+        "X",
+        "Multiply",
+        "Equals"
+      ]
+    },
+    {
+      "id": "music_hits_008",
+      "difficulty": "easy",
+      "question": "Which artist features on \"Old Town Road (Remix)\"?",
+      "correctAnswer": "Billy Ray Cyrus",
+      "wrongAnswers": [
+        "Drake",
+        "Post Malone",
+        "Travis Scott"
+      ]
+    },
+    {
+      "id": "music_hits_009",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"We could be heroes just for ____\"",
+      "correctAnswer": "One day",
+      "wrongAnswers": [
+        "Forever",
+        "Tonight",
+        "A moment"
+      ]
+    },
+    {
+      "id": "music_hits_010",
+      "difficulty": "easy",
+      "question": "Which album includes \"Bad Guy\"?",
+      "correctAnswer": "When We All Fall Asleep...",
+      "wrongAnswers": [
+        "Happier Than Ever",
+        "Melodrama",
+        "Future Nostalgia"
+      ]
+    },
+    {
+      "id": "music_hits_011",
+      "difficulty": "medium",
+      "question": "Which song broke Spotify streaming records globally?",
+      "correctAnswer": "Blinding Lights",
+      "wrongAnswers": [
+        "Shape of You",
+        "Stay",
+        "Despacito"
+      ]
+    },
+    {
+      "id": "music_hits_012",
+      "difficulty": "medium",
+      "question": "Which album came first?",
+      "correctAnswer": 21,
+      "wrongAnswers": [
+        25,
+        30,
+        19
+      ]
+    },
+    {
+      "id": "music_hits_013",
+      "difficulty": "medium",
+      "question": "Which artist features on \"Se?orita\" with Shawn Mendes?",
+      "correctAnswer": "Camila Cabello",
+      "wrongAnswers": [
+        "Dua Lipa",
+        "Ariana Grande",
+        "SZA"
+      ]
+    },
+    {
+      "id": "music_hits_014",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"I'm on top of the world ____\"",
+      "correctAnswer": "Hey hey hey",
+      "wrongAnswers": [
+        "Right now",
+        "All day",
+        "Feeling great"
+      ]
+    },
+    {
+      "id": "music_hits_015",
+      "difficulty": "medium",
+      "question": "Which album includes \"Rolling in the Deep\"?",
+      "correctAnswer": 21,
+      "wrongAnswers": [
+        25,
+        19,
+        30
+      ]
+    },
+    {
+      "id": "music_hits_016",
+      "difficulty": "medium",
+      "question": "Which artist features on \"Industry Baby\"?",
+      "correctAnswer": "Jack Harlow",
+      "wrongAnswers": [
+        "Drake",
+        "Post Malone",
+        "DaBaby"
+      ]
+    },
+    {
+      "id": "music_hits_017",
+      "difficulty": "medium",
+      "question": "Which album includes \"Firework\"?",
+      "correctAnswer": "Teenage Dream",
+      "wrongAnswers": [
+        "Prism",
+        "Witness",
+        "Smile"
+      ]
+    },
+    {
+      "id": "music_hits_018",
+      "difficulty": "medium",
+      "question": "Which artist features on \"Say So (Remix)\"?",
+      "correctAnswer": "Nicki Minaj",
+      "wrongAnswers": [
+        "Cardi B",
+        "SZA",
+        "Doja Cat"
+      ]
+    },
+    {
+      "id": "music_hits_019",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"I came in like a ____\"",
+      "correctAnswer": "Wrecking ball",
+      "wrongAnswers": [
+        "Firestorm",
+        "Hurricane",
+        "Lightning"
+      ]
+    },
+    {
+      "id": "music_hits_020",
+      "difficulty": "medium",
+      "question": "Which album includes \"Closer\"?",
+      "correctAnswer": "Collage",
+      "wrongAnswers": [
+        "Memories...Do Not Open",
+        "World War Joy",
+        "Single only"
+      ]
+    },
+    {
+      "id": "music_hits_021",
+      "difficulty": "hard",
+      "question": "Which song dominated charts for 16+ weeks?",
+      "correctAnswer": "Old Town Road",
+      "wrongAnswers": [
+        "Blinding Lights",
+        "Despacito",
+        "Stay"
+      ]
+    },
+    {
+      "id": "music_hits_022",
+      "difficulty": "hard",
+      "question": "Which album includes \"Royals\"?",
+      "correctAnswer": "Pure Heroine",
+      "wrongAnswers": [
+        "Melodrama",
+        "Solar Power",
+        "Future Nostalgia"
+      ]
+    },
+    {
+      "id": "music_hits_023",
+      "difficulty": "hard",
+      "question": "Which artist features on \"Cold Heart\" with Elton John?",
+      "correctAnswer": "Dua Lipa",
+      "wrongAnswers": [
+        "Lady Gaga",
+        "Ariana Grande",
+        "Kylie Minogue"
+      ]
+    },
+    {
+      "id": "music_hits_024",
+      "difficulty": "hard",
+      "question": "Finish the lyric: \"I'm feeling myself I'm feeling ____\"",
+      "correctAnswer": "Myself again",
+      "wrongAnswers": [
+        "So fly",
+        "My vibe",
+        "My energy"
+      ]
+    },
+    {
+      "id": "music_hits_025",
+      "difficulty": "hard",
+      "question": "Which album includes \"Electric Feel\"?",
+      "correctAnswer": "Oracular Spectacular",
+      "wrongAnswers": [
+        "Currents",
+        "Hot Fuss",
+        "Plastic Beach"
+      ]
+    },
+    {
+      "id": "music_hits_026",
+      "difficulty": "hard",
+      "question": "Which artist features on \"Savage Remix\"?",
+      "correctAnswer": "Beyonce",
+      "wrongAnswers": [
+        "Nicki Minaj",
+        "Rihanna",
+        "SZA"
+      ]
+    },
+    {
+      "id": "music_hits_027",
+      "difficulty": "hard",
+      "question": "Which album includes \"Habits (Stay High)\"?",
+      "correctAnswer": "Queen of the Clouds",
+      "wrongAnswers": [
+        "Sunshine Kitty",
+        "SOUR",
+        "Future Nostalgia"
+      ]
+    },
+    {
+      "id": "music_hits_028",
+      "difficulty": "hard",
+      "question": "Which artist features on \"Scream & Shout\"?",
+      "correctAnswer": "Britney Spears",
+      "wrongAnswers": [
+        "Nicki Minaj",
+        "Rihanna",
+        "Doja Cat"
+      ]
+    },
+    {
+      "id": "music_hits_029",
+      "difficulty": "hard",
+      "question": "Finish the lyric: \"I'm bringing sexy ____\"",
+      "correctAnswer": "Back",
+      "wrongAnswers": [
+        "Up",
+        "Now",
+        "Again"
+      ]
+    },
+    {
+      "id": "music_hits_030",
+      "difficulty": "hard",
+      "question": "Which album includes \"Primadonna\"?",
+      "correctAnswer": "Electra Heart",
+      "wrongAnswers": [
+        "Froot",
+        "Love + Fear",
+        "Melodrama"
+      ]
+    },
+    {
+      "id": "music_hits_031",
+      "difficulty": "easy",
+      "question": "Which album includes \"Roar\"?",
+      "correctAnswer": "Prism",
+      "wrongAnswers": [
+        "Teenage Dream",
+        "Witness",
+        "Smile"
+      ]
+    },
+    {
+      "id": "music_hits_032",
+      "difficulty": "easy",
+      "question": "Finish the lyric: \"Hit me baby one more ____\"",
+      "correctAnswer": "Time",
+      "wrongAnswers": [
+        "Call",
+        "Night",
+        "Try"
+      ]
+    },
+    {
+      "id": "music_hits_033",
+      "difficulty": "medium",
+      "question": "Which album includes \"Umbrella\"?",
+      "correctAnswer": "Good Girl Gone Bad",
+      "wrongAnswers": [
+        "Rated R",
+        "Loud",
+        "Anti"
+      ]
+    },
+    {
+      "id": "music_hits_034",
+      "difficulty": "medium",
+      "question": "Which artist features on \"Shallow\"?",
+      "correctAnswer": "Bradley Cooper",
+      "wrongAnswers": [
+        "Ed Sheeran",
+        "Drake",
+        "Harry Styles"
+      ]
+    },
+    {
+      "id": "music_hits_035",
+      "difficulty": "medium",
+      "question": "Finish the lyric: \"Cause I'm ____ and I'm feeling good\"",
+      "correctAnswer": "Alive",
+      "wrongAnswers": [
+        "Free",
+        "Happy",
+        "Strong"
+      ]
+    },
+    {
+      "id": "music_hits_036",
+      "difficulty": "hard",
+      "question": "Which album includes \"Genesis\"?",
+      "correctAnswer": "Visions",
+      "wrongAnswers": [
+        "Art Angels",
+        "Melodrama",
+        "Pop 2"
+      ]
+    },
+    {
+      "id": "music_hits_037",
+      "difficulty": "hard",
+      "question": "Which artist features on \"Fancy\"?",
+      "correctAnswer": "Charli XCX",
+      "wrongAnswers": [
+        "SZA",
+        "Doja Cat",
+        "Rina Sawayama"
+      ]
+    },
+    {
+      "id": "music_hits_038",
+      "difficulty": "easy",
+      "question": "Which album includes \"Single Ladies\"?",
+      "correctAnswer": "I Am Sasha Fierce",
+      "wrongAnswers": [
+        4,
+        "Lemonade",
+        "BDay"
+      ]
+    },
+    {
+      "id": "music_hits_039",
+      "difficulty": "medium",
+      "question": "Which album includes \"New Rules\"?",
+      "correctAnswer": "Dua Lipa",
+      "wrongAnswers": [
+        "Future Nostalgia",
+        "Confident",
+        "Positions"
+      ]
+    },
+    {
+      "id": "music_hits_040",
+      "difficulty": "hard",
+      "question": "Which album includes \"Vroom Vroom\"?",
+      "correctAnswer": "Vroom Vroom EP",
+      "wrongAnswers": [
+        "Charli",
+        "Pop 2",
+        "Crash"
+      ]
+    }
+  ]
+}
