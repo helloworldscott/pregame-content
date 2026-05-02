@@ -3,9 +3,9 @@
   "version": 1,
   "questions": [
     {
-      "id": "scandal_001",
+      "id": "scandal_0001",
       "difficulty": "easy",
-      "question": "Which artist famously said \"I'mma let you finish\" at an awards show?",
+      "question": "Who interrupted Taylor Swift at the 2009 VMAs?",
       "correctAnswer": "Kanye West",
       "wrongAnswers": [
         "Drake",
@@ -14,432 +14,322 @@
       ]
     },
     {
-      "id": "scandal_002",
+      "id": "scandal_0002",
       "difficulty": "easy",
-      "question": "Which celebrity wore a meat dress to an awards show?",
-      "correctAnswer": "Lady Gaga",
+      "question": "Which 2016 election scandal involved leaked DNC emails?",
+      "correctAnswer": "WikiLeaks DNC release",
       "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Katy Perry"
+        "Pizzagate",
+        "Cambridge Analytica",
+        "Russiagate"
       ]
     },
     {
-      "id": "scandal_003",
+      "id": "scandal_0003",
       "difficulty": "easy",
-      "question": "Which celebrity couple was nicknamed \"Brangelina\"?",
+      "question": "Who is the central figure in the 2017 Hollywood reckoning?",
+      "correctAnswer": "Harvey Weinstein",
+      "wrongAnswers": [
+        "Bill Cosby",
+        "Kevin Spacey",
+        "Louis C.K."
+      ]
+    },
+    {
+      "id": "scandal_0004",
+      "difficulty": "easy",
+      "question": "Which couple was nicknamed 'Brangelina'?",
       "correctAnswer": "Brad Pitt & Angelina Jolie",
       "wrongAnswers": [
+        "Tom & Katie",
         "Kim & Kanye",
-        "Beyonce & Jay-Z",
-        "Tom & Katie"
+        "Beyonc? & Jay-Z"
       ]
     },
     {
-      "id": "scandal_004",
+      "id": "scandal_0005",
       "difficulty": "easy",
-      "question": "Which artist sparked controversy with the song \"WAP\"?",
-      "correctAnswer": "Cardi B & Megan Thee Stallion",
+      "question": "Who slapped Chris Rock at the 2022 Oscars?",
+      "correctAnswer": "Will Smith",
       "wrongAnswers": [
-        "Nicki Minaj & Doja Cat",
-        "Rihanna & Beyonce",
-        "Ariana & SZA"
+        "Denzel Washington",
+        "Bradley Cooper",
+        "Daniel Kaluuya"
       ]
     },
     {
-      "id": "scandal_005",
+      "id": "scandal_0006",
       "difficulty": "easy",
-      "question": "Which celebrity shaved her head in 2007?",
+      "question": "Which 'WAP' artist released the 2020 controversy track?",
+      "correctAnswer": "Cardi B",
+      "wrongAnswers": [
+        "Megan Thee Stallion",
+        "Both",
+        "Nicki Minaj"
+      ]
+    },
+    {
+      "id": "scandal_0007",
+      "difficulty": "easy",
+      "question": "What 2010 outfit drew most attention at the VMAs?",
+      "correctAnswer": "Lady Gaga's meat dress",
+      "wrongAnswers": [
+        "Cher's Bob Mackie",
+        "Madonna's cone bra",
+        "Britney's snake"
+      ]
+    },
+    {
+      "id": "scandal_0008",
+      "difficulty": "easy",
+      "question": "Which singer shaved her head in 2007?",
       "correctAnswer": "Britney Spears",
       "wrongAnswers": [
-        "Lindsay Lohan",
-        "Miley Cyrus",
-        "Paris Hilton"
+        "Christina Aguilera",
+        "Kelly Clarkson",
+        "Jessica Simpson"
       ]
     },
     {
-      "id": "scandal_006",
-      "difficulty": "medium",
-      "question": "Which celebrity couple had a highly publicized split in 2016 dubbed \"Brangelina breakup\"?",
-      "correctAnswer": "Brad Pitt & Angelina Jolie",
+      "id": "scandal_0009",
+      "difficulty": "easy",
+      "question": "Who is 'Kim K's friend' in the Ray J tape scandal?",
+      "correctAnswer": "Kim Kardashian (the tape was hers)",
       "wrongAnswers": [
-        "Kim & Kanye",
-        "Beyonce & Jay-Z",
-        "Justin & Selena"
+        "Paris Hilton",
+        "Khlo? Kardashian",
+        "Jessica Simpson"
       ]
     },
     {
-      "id": "scandal_007",
-      "difficulty": "medium",
-      "question": "Which celebrity moment involved a viral Oscars envelope mix-up?",
-      "correctAnswer": "Best Picture mix-up",
+      "id": "scandal_0010",
+      "difficulty": "easy",
+      "question": "Which 2014 NFL scandal involved deflated footballs?",
+      "correctAnswer": "Deflategate",
       "wrongAnswers": [
-        "Best Actor error",
-        "Wrong host",
-        "Stage collapse"
+        "Spygate",
+        "Bountygate",
+        "Saintsgate"
       ]
     },
     {
-      "id": "scandal_008",
-      "difficulty": "medium",
-      "question": "Which celebrity moment involved a red carpet elevator incident discussion?",
-      "correctAnswer": "Solange & Jay-Z elevator",
+      "id": "scandal_0011",
+      "difficulty": "easy",
+      "question": "Which Disney star's 2013 VMAs caused outrage?",
+      "correctAnswer": "Miley Cyrus",
       "wrongAnswers": [
-        "Kim & Kanye fight",
-        "Rihanna drama",
-        "Drake feud"
+        "Selena Gomez",
+        "Demi Lovato",
+        "Vanessa Hudgens"
       ]
     },
     {
-      "id": "scandal_009",
-      "difficulty": "medium",
-      "question": "Which celebrity posted a viral snake emoji response during a feud?",
-      "correctAnswer": "Kim Kardashian",
+      "id": "scandal_0012",
+      "difficulty": "easy",
+      "question": "Which TV chef was canceled in 2013 over old language?",
+      "correctAnswer": "Paula Deen",
+      "wrongAnswers": [
+        "Bobby Flay",
+        "Rachael Ray",
+        "Sandra Lee"
+      ]
+    },
+    {
+      "id": "scandal_0013",
+      "difficulty": "easy",
+      "question": "Which couple's 2022 trial was livestreamed daily?",
+      "correctAnswer": "Johnny Depp & Amber Heard",
+      "wrongAnswers": [
+        "Britney & Kevin Federline",
+        "Tom Brady & Gisele",
+        "Brad & Angelina"
+      ]
+    },
+    {
+      "id": "scandal_0014",
+      "difficulty": "easy",
+      "question": "Who infamously hosted The Apprentice before 2016?",
+      "correctAnswer": "Donald Trump",
+      "wrongAnswers": [
+        "Mark Cuban",
+        "Bill Belichick",
+        "Tony Blair"
+      ]
+    },
+    {
+      "id": "scandal_0015",
+      "difficulty": "easy",
+      "question": "Which singer's 2023 'Renaissance' tour set records?",
+      "correctAnswer": "Beyonc?",
       "wrongAnswers": [
         "Taylor Swift",
-        "Beyonce",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "scandal_010",
-      "difficulty": "medium",
-      "question": "Which artist deleted social media posts during a public feud in 2016?",
-      "correctAnswer": "Taylor Swift",
-      "wrongAnswers": [
-        "Katy Perry",
-        "Rihanna",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "scandal_011",
-      "difficulty": "medium",
-      "question": "Which celebrity moment involved a viral red dress dubbed \"the internet debate dress\"?",
-      "correctAnswer": "Blue/Black vs White/Gold dress",
-      "wrongAnswers": [
-        "Met Gala look",
-        "Oscars gown",
-        "Grammys outfit"
-      ]
-    },
-    {
-      "id": "scandal_012",
-      "difficulty": "medium",
-      "question": "Which artist sparked debate with the song \"Blurred Lines\"?",
-      "correctAnswer": "Robin Thicke",
-      "wrongAnswers": [
-        "Pharrell",
-        "Drake",
-        "Ed Sheeran"
-      ]
-    },
-    {
-      "id": "scandal_013",
-      "difficulty": "medium",
-      "question": "Which celebrity moment involved a reality TV family dominating headlines?",
-      "correctAnswer": "Kardashians",
-      "wrongAnswers": [
-        "Jenner sisters",
-        "Paris Hilton",
-        "Lohan family"
-      ]
-    },
-    {
-      "id": "scandal_014",
-      "difficulty": "medium",
-      "question": "Which celebrity feud involved backup dancers switching tours?",
-      "correctAnswer": "Taylor Swift & Katy Perry",
-      "wrongAnswers": [
-        "Rihanna & Beyonce",
-        "Ariana & Nicki",
-        "Doja & Cardi"
-      ]
-    },
-    {
-      "id": "scandal_015",
-      "difficulty": "medium",
-      "question": "Which celebrity moment involved a viral ?wardrobe malfunction? discussion?",
-      "correctAnswer": "Super Bowl performance",
-      "wrongAnswers": [
-        "Grammys outfit",
-        "Oscars dress",
-        "Met Gala look"
-      ]
-    },
-    {
-      "id": "scandal_016",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a famous ?Free ___? campaign by fans?",
-      "correctAnswer": "Britney",
-      "wrongAnswers": [
-        "Paris",
-        "Lindsay",
-        "Miley"
-      ]
-    },
-    {
-      "id": "scandal_017",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a viral courtroom livestream in 2022?",
-      "correctAnswer": "Johnny Depp trial",
-      "wrongAnswers": [
-        "Oscars speech",
-        "Grammys event",
-        "Met Gala appearance"
-      ]
-    },
-    {
-      "id": "scandal_018",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a stage interruption during a VMA speech?",
-      "correctAnswer": "Kanye interruption",
-      "wrongAnswers": [
-        "Drake speech",
-        "Rihanna performance",
-        "Adele speech"
-      ]
-    },
-    {
-      "id": "scandal_019",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a public apology video going viral?",
-      "correctAnswer": "YouTube apology",
-      "wrongAnswers": [
-        "Oscars speech",
-        "Interview clip",
-        "Concert speech"
-      ]
-    },
-    {
-      "id": "scandal_020",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a surprise album drop changing industry norms?",
-      "correctAnswer": "Beyonce 2013",
-      "wrongAnswers": [
-        "Rihanna drop",
-        "Drake drop",
-        "Taylor drop"
-      ]
-    },
-    {
-      "id": "scandal_021",
-      "difficulty": "easy",
-      "question": "Which celebrity is known for ?breaking the internet? headlines?",
-      "correctAnswer": "Kim Kardashian",
-      "wrongAnswers": [
-        "Beyonce",
-        "Rihanna",
-        "Taylor Swift"
-      ]
-    },
-    {
-      "id": "scandal_022",
-      "difficulty": "easy",
-      "question": "Which celebrity feud involved diss tracks in rap culture?",
-      "correctAnswer": "Drake vs Meek Mill",
-      "wrongAnswers": [
-        "Kanye vs Drake",
-        "Jay-Z vs Nas",
-        "Eminem vs MGK"
-      ]
-    },
-    {
-      "id": "scandal_023",
-      "difficulty": "easy",
-      "question": "Which celebrity moment involved a viral crying meme interview?",
-      "correctAnswer": "Kim Kardashian",
-      "wrongAnswers": [
-        "Britney Spears",
-        "Rihanna",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "scandal_024",
-      "difficulty": "easy",
-      "question": "Which celebrity moment involved paparazzi culture criticism?",
-      "correctAnswer": "Britney Spears",
-      "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
+        "Madonna",
         "Adele"
       ]
     },
     {
-      "id": "scandal_025",
-      "difficulty": "easy",
-      "question": "Which celebrity moment involved a viral Met Gala outfit debate?",
-      "correctAnswer": "Kim Kardashian",
-      "wrongAnswers": [
-        "Rihanna",
-        "Lady Gaga",
-        "Katy Perry"
-      ]
-    },
-    {
-      "id": "scandal_026",
+      "id": "scandal_0016",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a highly discussed Oscars slap?",
-      "correctAnswer": "Will Smith",
+      "question": "Which cyclist confessed to doping on Oprah in 2013?",
+      "correctAnswer": "Lance Armstrong",
       "wrongAnswers": [
-        "Chris Rock",
-        "Denzel Washington",
-        "Jamie Foxx"
+        "Floyd Landis",
+        "Tyler Hamilton",
+        "Alberto Contador"
       ]
     },
     {
-      "id": "scandal_027",
+      "id": "scandal_0017",
       "difficulty": "medium",
-      "question": "Which celebrity feud involved Instagram unfollow drama?",
-      "correctAnswer": "Selena Gomez & Hailey Bieber",
+      "question": "Which couple's 2018 split came amid 'Borderline' tour drama?",
+      "correctAnswer": "Ariana Grande & Pete Davidson",
       "wrongAnswers": [
-        "Rihanna & Beyonce",
-        "Ariana & Nicki",
-        "Doja & Cardi"
+        "Justin & Selena",
+        "Pete Davidson & Kate Beckinsale",
+        "Miley & Liam"
       ]
     },
     {
-      "id": "scandal_028",
+      "id": "scandal_0018",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a leaked song becoming viral?",
-      "correctAnswer": "Drake leak",
+      "question": "What was the 'Free Britney' movement?",
+      "correctAnswer": "End of Britney Spears's 13-year conservatorship",
       "wrongAnswers": [
-        "Justin Bieber leak",
-        "Taylor Swift leak",
-        "Rihanna leak"
+        "A music boycott",
+        "A documentary tour",
+        "An album release"
       ]
     },
     {
-      "id": "scandal_029",
+      "id": "scandal_0019",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a surprise wedding announcement?",
-      "correctAnswer": "Ariana Grande",
+      "question": "Which 2014 scandal exposed FIFA corruption?",
+      "correctAnswer": "FIFA bribery indictments",
       "wrongAnswers": [
-        "Beyonce",
-        "Rihanna",
-        "Taylor Swift"
+        "Lance Armstrong's confession",
+        "Madoff investigation",
+        "Volkswagen emissions"
       ]
     },
     {
-      "id": "scandal_030",
+      "id": "scandal_0020",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a controversial fashion show appearance?",
-      "correctAnswer": "Kanye West",
+      "question": "Which 2021 HBO docuseries investigated QAnon?",
+      "correctAnswer": "Q: Into the Storm",
       "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Drake"
+        "The Conspiracy Show",
+        "After Truth",
+        "QAnon Now"
       ]
     },
     {
-      "id": "scandal_031",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a widely discussed documentary release?",
-      "correctAnswer": "Britney Spears documentary",
-      "wrongAnswers": [
-        "Rihanna doc",
-        "Taylor doc",
-        "Beyonce doc"
-      ]
-    },
-    {
-      "id": "scandal_032",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a viral TikTok exposing industry practices?",
-      "correctAnswer": "Music industry debate",
-      "wrongAnswers": [
-        "Fashion industry",
-        "Film industry",
-        "Sports industry"
-      ]
-    },
-    {
-      "id": "scandal_033",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a public PR relationship rumor cycle?",
-      "correctAnswer": "Multiple celebs",
-      "wrongAnswers": [
-        "Single celeb",
-        "Actors only",
-        "Singers only"
-      ]
-    },
-    {
-      "id": "scandal_034",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved fans decoding hidden messages in posts?",
-      "correctAnswer": "Taylor Swift",
-      "wrongAnswers": [
-        "Beyonce",
-        "Rihanna",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "scandal_035",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a high-profile brand partnership backlash?",
-      "correctAnswer": "Kanye West",
-      "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Drake"
-      ]
-    },
-    {
-      "id": "scandal_036",
-      "difficulty": "easy",
-      "question": "Which celebrity moment involved a viral reality TV fight?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Kardashians",
-        "Love Island",
-        "The Bachelor"
-      ]
-    },
-    {
-      "id": "scandal_037",
+      "id": "scandal_0021",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a public social media apology?",
-      "correctAnswer": "Influencer apology",
+      "question": "Which 2015 scandal hit Volkswagen?",
+      "correctAnswer": "Diesel emissions cheating",
       "wrongAnswers": [
-        "Actor apology",
-        "Singer apology",
-        "Host apology"
+        "Battery fires",
+        "Steering failure",
+        "Airbag recall"
       ]
     },
     {
-      "id": "scandal_038",
+      "id": "scandal_0022",
       "difficulty": "medium",
-      "question": "Which celebrity moment involved a controversial awards show speech?",
-      "correctAnswer": "Grammys speech",
+      "question": "Who fired Don Imus in 2007?",
+      "correctAnswer": "MSNBC + CBS Radio",
       "wrongAnswers": [
-        "Oscars speech",
-        "VMAs speech",
-        "BET speech"
+        "NBC Sports",
+        "ESPN",
+        "ABC News"
       ]
     },
     {
-      "id": "scandal_039",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved a viral ?notes app? apology?",
-      "correctAnswer": "Influencers",
+      "id": "scandal_0023",
+      "difficulty": "medium",
+      "question": "Which CEO walked out of WeWork's failed IPO in 2019?",
+      "correctAnswer": "Adam Neumann",
       "wrongAnswers": [
-        "Actors",
-        "Singers",
-        "Hosts"
+        "Travis Kalanick",
+        "Elon Musk",
+        "Mark Zuckerberg"
       ]
     },
     {
-      "id": "scandal_040",
-      "difficulty": "hard",
-      "question": "Which celebrity moment involved fans organizing online campaigns?",
-      "correctAnswer": "Fan movements",
+      "id": "scandal_0024",
+      "difficulty": "medium",
+      "question": "Which celebrity gossip site did Mario Lavandeira launch in 2004?",
+      "correctAnswer": "Perez Hilton",
       "wrongAnswers": [
-        "PR teams",
-        "Media outlets",
-        "Brands"
+        "TMZ",
+        "Page Six",
+        "Lainey Gossip"
+      ]
+    },
+    {
+      "id": "scandal_0025",
+      "difficulty": "medium",
+      "question": "Who replaced Roseanne after her 2018 firing?",
+      "correctAnswer": "(her show was rebooted as The Conners)",
+      "wrongAnswers": [
+        "Roseanne Barr's daughter",
+        "John Goodman",
+        "Sara Gilbert"
+      ]
+    },
+    {
+      "id": "scandal_0026",
+      "difficulty": "hard",
+      "question": "Which 1986 Iran-Contra figure was convicted then pardoned?",
+      "correctAnswer": "Oliver North",
+      "wrongAnswers": [
+        "John Poindexter",
+        "Caspar Weinberger",
+        "Manuel Noriega"
+      ]
+    },
+    {
+      "id": "scandal_0027",
+      "difficulty": "hard",
+      "question": "Which 2003 NYT scandal led to Howell Raines's resignation?",
+      "correctAnswer": "Jayson Blair fabrications",
+      "wrongAnswers": [
+        "Judith Miller WMD reporting",
+        "Stephen Glass story",
+        "Janet Cooke story"
+      ]
+    },
+    {
+      "id": "scandal_0028",
+      "difficulty": "hard",
+      "question": "Which Vatican scandal led to a 2002 Boston Globe Spotlight investigation?",
+      "correctAnswer": "Catholic Church abuse cover-up",
+      "wrongAnswers": [
+        "Vatican Bank fraud",
+        "Pope succession",
+        "John Paul II archives"
+      ]
+    },
+    {
+      "id": "scandal_0029",
+      "difficulty": "hard",
+      "question": "Which CEO went down with Theranos?",
+      "correctAnswer": "Elizabeth Holmes",
+      "wrongAnswers": [
+        "Sunny Balwani",
+        "Both",
+        "Tim Draper"
+      ]
+    },
+    {
+      "id": "scandal_0030",
+      "difficulty": "hard",
+      "question": "Which 1972 break-in led to a presidential resignation?",
+      "correctAnswer": "Watergate",
+      "wrongAnswers": [
+        "Iran-Contra",
+        "Pentagon Papers",
+        "Whitewater"
       ]
     }
   ]
