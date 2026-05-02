@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "lgbtq_slang_001",
+      "id": "slang_0001",
       "difficulty": "easy",
-      "question": "What does \"slay\" mean?",
-      "correctAnswer": "Do amazing",
+      "question": "What does 'slay' mean?",
+      "correctAnswer": "Do amazingly well",
       "wrongAnswers": [
-        "Fail badly",
-        "Leave early",
-        "Sing loudly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_002",
-      "difficulty": "easy",
-      "question": "What does \"shade\" mean?",
-      "correctAnswer": "Subtle insult",
-      "wrongAnswers": [
-        "Big compliment",
-        "Singing loudly",
-        "Dancing badly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_003",
-      "difficulty": "easy",
-      "question": "What does \"reading\" mean?",
-      "correctAnswer": "Playful insult",
-      "wrongAnswers": [
-        "Reading a book",
-        "Singing",
-        "Dancing"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_004",
-      "difficulty": "easy",
-      "question": "What does \"werk\" mean?",
-      "correctAnswer": "Do well",
-      "wrongAnswers": [
-        "Stop working",
-        "Leave",
-        "Sing"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_005",
-      "difficulty": "easy",
-      "question": "What does \"snatched\" mean?",
-      "correctAnswer": "Looking amazing",
-      "wrongAnswers": [
-        "Looking tired",
-        "Singing loudly",
-        "Dancing badly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_006",
-      "difficulty": "easy",
-      "question": "What does \"tea\" mean?",
-      "correctAnswer": "Gossip",
-      "wrongAnswers": [
-        "Drink",
-        "Food",
-        "Clothes"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_007",
-      "difficulty": "easy",
-      "question": "What does \"serve\" mean?",
-      "correctAnswer": "Deliver a strong look",
-      "wrongAnswers": [
+        "Stay still",
         "Quit",
-        "Fail",
-        "Sing loudly"
+        "Cry"
       ]
     },
     {
-      "id": "lgbtq_slang_008",
+      "id": "slang_0002",
       "difficulty": "easy",
-      "question": "What does \"gagged\" mean?",
-      "correctAnswer": "Shocked",
+      "question": "What does 'shade' mean?",
+      "correctAnswer": "A subtle insult",
       "wrongAnswers": [
-        "Happy",
-        "Angry",
-        "Confused"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_009",
-      "difficulty": "easy",
-      "question": "What does \"camp\" mean?",
-      "correctAnswer": "Over-the-top style",
-      "wrongAnswers": [
-        "Serious tone",
-        "Boring look",
-        "Minimalist style"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_010",
-      "difficulty": "easy",
-      "question": "What does \"trade\" mean?",
-      "correctAnswer": "Attractive person",
-      "wrongAnswers": [
-        "Shop owner",
-        "Judge",
-        "Singer"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_011",
-      "difficulty": "medium",
-      "question": "What does \"fishy\" mean?",
-      "correctAnswer": "Very feminine",
-      "wrongAnswers": [
-        "Very masculine",
-        "Bad singing",
-        "Bad dancing"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_012",
-      "difficulty": "medium",
-      "question": "What does \"clocked\" mean?",
-      "correctAnswer": "Called out",
-      "wrongAnswers": [
-        "Time check",
-        "Sing loudly",
-        "Leave early"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_013",
-      "difficulty": "medium",
-      "question": "What does \"spill the tea\" mean?",
-      "correctAnswer": "Share gossip",
-      "wrongAnswers": [
-        "Drink tea",
-        "Cook food",
-        "Sing loudly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_014",
-      "difficulty": "medium",
-      "question": "What does \"throw shade\" mean?",
-      "correctAnswer": "Subtle insult",
-      "wrongAnswers": [
+        "Sun protection",
         "Big compliment",
-        "Help someone",
-        "Sing loudly"
+        "Confusion"
       ]
     },
     {
-      "id": "lgbtq_slang_015",
-      "difficulty": "medium",
-      "question": "What does \"kiki\" mean?",
-      "correctAnswer": "Casual hangout",
-      "wrongAnswers": [
-        "Fight",
-        "Concert",
-        "Runway"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_016",
-      "difficulty": "medium",
-      "question": "What does \"serve face\" mean?",
-      "correctAnswer": "Strong facial expression",
-      "wrongAnswers": [
-        "Sing loudly",
-        "Dance well",
-        "Walk fast"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_017",
-      "difficulty": "medium",
-      "question": "What does \"beat face\" mean?",
-      "correctAnswer": "Perfect makeup",
-      "wrongAnswers": [
-        "Bad makeup",
-        "Singing loudly",
-        "Dancing badly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_018",
-      "difficulty": "medium",
-      "question": "What does \"extra\" mean?",
-      "correctAnswer": "Over the top",
-      "wrongAnswers": [
-        "Boring",
-        "Quiet",
-        "Simple"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_019",
-      "difficulty": "medium",
-      "question": "What does \"yas\" mean?",
-      "correctAnswer": "Strong approval",
-      "wrongAnswers": [
-        "No",
-        "Maybe",
-        "Leave"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_020",
-      "difficulty": "medium",
-      "question": "What does \"boot\" mean?",
-      "correctAnswer": "Bad look",
-      "wrongAnswers": [
-        "Great outfit",
-        "Singing well",
-        "Dancing well"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_021",
-      "difficulty": "hard",
-      "question": "What does \"realness\" mean?",
-      "correctAnswer": "Convincing illusion",
-      "wrongAnswers": [
-        "Reality show",
-        "Singing style",
-        "Dance move"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_022",
-      "difficulty": "hard",
-      "question": "What does \"legendary\" mean in ballroom?",
-      "correctAnswer": "Top status",
-      "wrongAnswers": [
-        "Beginner",
-        "Judge",
-        "Singer"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_023",
-      "difficulty": "hard",
-      "question": "What does \"house\" mean in ballroom?",
-      "correctAnswer": "Chosen family",
-      "wrongAnswers": [
-        "Building",
-        "Club",
-        "Stage"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_024",
-      "difficulty": "hard",
-      "question": "What does \"dip\" mean?",
-      "correctAnswer": "Drop to floor move",
-      "wrongAnswers": [
-        "Sing loudly",
-        "Run away",
-        "Clap hands"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_025",
-      "difficulty": "hard",
-      "question": "What does \"serve body\" mean?",
-      "correctAnswer": "Show off physique",
-      "wrongAnswers": [
-        "Sing loudly",
-        "Dance poorly",
-        "Walk fast"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_026",
-      "difficulty": "hard",
-      "question": "What does \"opulence\" imply?",
-      "correctAnswer": "Luxury & excess",
-      "wrongAnswers": [
-        "Sadness",
-        "Minimalism",
-        "Quiet style"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_027",
-      "difficulty": "hard",
-      "question": "What does \"no tea no shade\" mean?",
-      "correctAnswer": "No offense intended",
-      "wrongAnswers": [
-        "Spill gossip",
-        "Big insult",
-        "Compliment"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_028",
-      "difficulty": "hard",
-      "question": "What does \"it?s giving\" mean?",
-      "correctAnswer": "Describing vibe",
-      "wrongAnswers": [
-        "Ending conversation",
-        "Rejecting someone",
-        "Singing loudly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_029",
-      "difficulty": "hard",
-      "question": "What does \"main character energy\" mean?",
-      "correctAnswer": "Confident presence",
-      "wrongAnswers": [
-        "Background role",
-        "Sad mood",
-        "Quiet vibe"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_030",
-      "difficulty": "hard",
-      "question": "What does \"ate\" mean?",
-      "correctAnswer": "Did very well",
-      "wrongAnswers": [
-        "Failed badly",
-        "Sing loudly",
-        "Dance poorly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_031",
+      "id": "slang_0003",
       "difficulty": "easy",
-      "question": "What does \"queen\" mean?",
-      "correctAnswer": "Confident person",
+      "question": "What does 'tea' mean as slang?",
+      "correctAnswer": "Gossip / truth",
       "wrongAnswers": [
-        "Judge",
-        "Singer",
-        "Dancer"
+        "A meal",
+        "An apology",
+        "A goodbye"
       ]
     },
     {
-      "id": "lgbtq_slang_032",
+      "id": "slang_0004",
       "difficulty": "easy",
-      "question": "What does \"iconic\" mean?",
-      "correctAnswer": "Memorable",
+      "question": "What does 'reading' mean?",
+      "correctAnswer": "Witty insulting",
       "wrongAnswers": [
-        "Forgettable",
-        "Boring",
-        "Quiet"
+        "Studying for exams",
+        "Watching TV",
+        "Whispering"
       ]
     },
     {
-      "id": "lgbtq_slang_033",
-      "difficulty": "medium",
-      "question": "What does \"fierce\" mean?",
-      "correctAnswer": "Confident & bold",
-      "wrongAnswers": [
-        "Weak",
-        "Sad",
-        "Quiet"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_034",
-      "difficulty": "medium",
-      "question": "What does \"serve looks\" mean?",
-      "correctAnswer": "Present fashion well",
-      "wrongAnswers": [
-        "Fail outfit",
-        "Sing loudly",
-        "Dance badly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_035",
-      "difficulty": "medium",
-      "question": "What does \"dead\" mean in slang?",
-      "correctAnswer": "Something is hilarious",
-      "wrongAnswers": [
-        "Sad moment",
-        "Quiet mood",
-        "Singing well"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_036",
-      "difficulty": "hard",
-      "question": "What does \"clock the tea\" mean?",
-      "correctAnswer": "Notice truth",
-      "wrongAnswers": [
-        "Drink tea",
-        "Ignore",
-        "Sing loudly"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_037",
-      "difficulty": "hard",
-      "question": "What does \"body-ody-ody\" imply?",
-      "correctAnswer": "Confidence in body",
-      "wrongAnswers": [
-        "Sadness",
-        "Quietness",
-        "Singing ability"
-      ]
-    },
-    {
-      "id": "lgbtq_slang_038",
+      "id": "slang_0005",
       "difficulty": "easy",
-      "question": "What does \"vibe\" mean?",
-      "correctAnswer": "Energy/feeling",
+      "question": "What does 'YAS queen' mean?",
+      "correctAnswer": "Enthusiastic affirmation",
       "wrongAnswers": [
-        "Song",
-        "Dance",
-        "Outfit"
+        "A coronation",
+        "A protest",
+        "A demand"
       ]
     },
     {
-      "id": "lgbtq_slang_039",
+      "id": "slang_0006",
+      "difficulty": "easy",
+      "question": "What does 'serve' mean?",
+      "correctAnswer": "Deliver an iconic look or moment",
+      "wrongAnswers": [
+        "Wait tables",
+        "Hit a tennis ball",
+        "Volunteer"
+      ]
+    },
+    {
+      "id": "slang_0007",
+      "difficulty": "easy",
+      "question": "What does 'werk' mean?",
+      "correctAnswer": "Do excellent work / strut",
+      "wrongAnswers": [
+        "Be early to a job",
+        "Refuse to perform",
+        "Sit down"
+      ]
+    },
+    {
+      "id": "slang_0008",
+      "difficulty": "easy",
+      "question": "What does 'period' mean as a punctuation slang?",
+      "correctAnswer": "End of statement; final word",
+      "wrongAnswers": [
+        "A grammar mark",
+        "A historical era",
+        "A class break"
+      ]
+    },
+    {
+      "id": "slang_0009",
+      "difficulty": "easy",
+      "question": "What does 'main character' mean as slang?",
+      "correctAnswer": "Acting like the world revolves around you",
+      "wrongAnswers": [
+        "A book hero",
+        "A series protagonist",
+        "A villain"
+      ]
+    },
+    {
+      "id": "slang_0010",
+      "difficulty": "easy",
+      "question": "What does 'bussin'' mean?",
+      "correctAnswer": "Really good (esp. food)",
+      "wrongAnswers": [
+        "Crowded",
+        "Late",
+        "Boring"
+      ]
+    },
+    {
+      "id": "slang_0011",
+      "difficulty": "easy",
+      "question": "What does 'no cap' mean?",
+      "correctAnswer": "No lie / for real",
+      "wrongAnswers": [
+        "No hat",
+        "Without a limit",
+        "Open container"
+      ]
+    },
+    {
+      "id": "slang_0012",
+      "difficulty": "easy",
+      "question": "What does 'GOAT' stand for?",
+      "correctAnswer": "Greatest of All Time",
+      "wrongAnswers": [
+        "Get Out a Thing",
+        "General Order Action Team",
+        "Going on at Times"
+      ]
+    },
+    {
+      "id": "slang_0013",
+      "difficulty": "easy",
+      "question": "What does 'snatched' mean?",
+      "correctAnswer": "Looking incredible",
+      "wrongAnswers": [
+        "Stolen",
+        "Hungry",
+        "Snatched up by police"
+      ]
+    },
+    {
+      "id": "slang_0014",
+      "difficulty": "easy",
+      "question": "What does 'salty' mean?",
+      "correctAnswer": "Bitter / annoyed",
+      "wrongAnswers": [
+        "Sweaty",
+        "Hungry",
+        "Sleepy"
+      ]
+    },
+    {
+      "id": "slang_0015",
+      "difficulty": "easy",
+      "question": "What does 'flex' mean as slang?",
+      "correctAnswer": "Show off",
+      "wrongAnswers": [
+        "A muscle exercise",
+        "Take a break",
+        "Bend"
+      ]
+    },
+    {
+      "id": "slang_0016",
       "difficulty": "medium",
-      "question": "What does \"pressed\" mean?",
-      "correctAnswer": "Upset",
+      "question": "What does 'kiki' mean?",
+      "correctAnswer": "A fun/gossip-filled gathering",
       "wrongAnswers": [
-        "Happy",
-        "Singing",
-        "Dancing"
+        "A stern lecture",
+        "A formal ceremony",
+        "A protest march"
       ]
     },
     {
-      "id": "lgbtq_slang_040",
-      "difficulty": "hard",
-      "question": "What does \"serve cunt\" mean?",
-      "correctAnswer": "Powerful confidence",
+      "id": "slang_0017",
+      "difficulty": "medium",
+      "question": "What does 'gagged' mean?",
+      "correctAnswer": "Shocked / impressed",
       "wrongAnswers": [
-        "Sing loudly",
-        "Dance poorly",
-        "Leave stage"
+        "Silenced",
+        "Choked on food",
+        "Bored"
+      ]
+    },
+    {
+      "id": "slang_0018",
+      "difficulty": "medium",
+      "question": "What does 'mother' mean in queer context?",
+      "correctAnswer": "Iconic figure / mentor",
+      "wrongAnswers": [
+        "A literal parent",
+        "A boss",
+        "An owner"
+      ]
+    },
+    {
+      "id": "slang_0019",
+      "difficulty": "medium",
+      "question": "What does 'ate (and left no crumbs)' mean?",
+      "correctAnswer": "Perfectly executed",
+      "wrongAnswers": [
+        "Was hungry",
+        "Caused damage",
+        "Was rude"
+      ]
+    },
+    {
+      "id": "slang_0020",
+      "difficulty": "medium",
+      "question": "What does 'understood the assignment' mean?",
+      "correctAnswer": "Nailed the task",
+      "wrongAnswers": [
+        "Studied the syllabus",
+        "Failed the test",
+        "Missed the point"
+      ]
+    },
+    {
+      "id": "slang_0021",
+      "difficulty": "medium",
+      "question": "What does 'iykyk' stand for?",
+      "correctAnswer": "If you know you know",
+      "wrongAnswers": [
+        "I'll know you keep yelling",
+        "I yell, you yelp, kid",
+        "Internet you, kid you, kid"
+      ]
+    },
+    {
+      "id": "slang_0022",
+      "difficulty": "medium",
+      "question": "What does 'vibe check' mean?",
+      "correctAnswer": "Reading the room",
+      "wrongAnswers": [
+        "A medical exam",
+        "A chord-tuning",
+        "A police stop"
+      ]
+    },
+    {
+      "id": "slang_0023",
+      "difficulty": "medium",
+      "question": "What does 'cheugy' mean?",
+      "correctAnswer": "Out of fashion / try-hard",
+      "wrongAnswers": [
+        "Affordable",
+        "Brand new",
+        "Sustainable"
+      ]
+    },
+    {
+      "id": "slang_0024",
+      "difficulty": "medium",
+      "question": "What does 'gas' mean as a verb (slang)?",
+      "correctAnswer": "Hype up / encourage",
+      "wrongAnswers": [
+        "Refuel",
+        "Interrogate",
+        "Disappear"
+      ]
+    },
+    {
+      "id": "slang_0025",
+      "difficulty": "medium",
+      "question": "What does 'ick' mean?",
+      "correctAnswer": "A sudden turn-off",
+      "wrongAnswers": [
+        "A sickness",
+        "A sneeze",
+        "A small bite"
+      ]
+    },
+    {
+      "id": "slang_0026",
+      "difficulty": "hard",
+      "question": "What does 'C.U.N.T.' stand for in drag (RuPaul's framework)?",
+      "correctAnswer": "Charisma, Uniqueness, Nerve, Talent",
+      "wrongAnswers": [
+        "Comedy, Uniqueness, Niceness, Tact",
+        "Camp, Unbothered, Naughty, Tense",
+        "Couture, Unison, Nation, Trade"
+      ]
+    },
+    {
+      "id": "slang_0027",
+      "difficulty": "hard",
+      "question": "What does 'mawmaw' mean in queer Southern slang?",
+      "correctAnswer": "Grandmother",
+      "wrongAnswers": [
+        "Aunt",
+        "Best friend",
+        "Childhood crush"
+      ]
+    },
+    {
+      "id": "slang_0028",
+      "difficulty": "hard",
+      "question": "What does 'opp' mean?",
+      "correctAnswer": "Opposition / enemy",
+      "wrongAnswers": [
+        "Operation",
+        "Optical illusion",
+        "Opportunity"
+      ]
+    },
+    {
+      "id": "slang_0029",
+      "difficulty": "hard",
+      "question": "What does 'beat for filth' mean in drag culture?",
+      "correctAnswer": "Flawlessly made up",
+      "wrongAnswers": [
+        "Hit very hard",
+        "Insulted harshly",
+        "Walking with attitude"
+      ]
+    },
+    {
+      "id": "slang_0030",
+      "difficulty": "hard",
+      "question": "What is 'doge' speak in early-2010s memes?",
+      "correctAnswer": "Shibe broken English ('much wow')",
+      "wrongAnswers": [
+        "Mock Spanish",
+        "Mock French",
+        "Mock Italian"
       ]
     }
   ]
