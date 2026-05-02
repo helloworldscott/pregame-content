@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "tv_001",
+      "id": "tv_0001",
       "difficulty": "easy",
-      "question": "Finish the quote: \"How you doin' ____\"",
-      "correctAnswer": "?",
+      "question": "Who hosts RuPaul's Drag Race?",
+      "correctAnswer": "RuPaul",
       "wrongAnswers": [
-        "!",
-        "Hey",
-        "Now"
+        "Michelle Visage",
+        "Trixie Mattel",
+        "Bianca Del Rio"
       ]
     },
     {
-      "id": "tv_002",
+      "id": "tv_0002",
       "difficulty": "easy",
-      "question": "Which show features the character Blair Waldorf?",
-      "correctAnswer": "Gossip Girl",
+      "question": "Which 2017 film starred Timoth?e Chalamet in 1980s Italy?",
+      "correctAnswer": "Call Me by Your Name",
       "wrongAnswers": [
-        "Sex and the City",
-        "Pretty Little Liars",
-        "The OC"
+        "Moonlight",
+        "God's Own Country",
+        "Brokeback Mountain"
       ]
     },
     {
-      "id": "tv_003",
+      "id": "tv_0003",
       "difficulty": "easy",
-      "question": "Finish the quote: \"XOXO ____\"",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "Upper East Side",
-        "New York",
-        "Blair"
-      ]
-    },
-    {
-      "id": "tv_004",
-      "difficulty": "easy",
-      "question": "Which show features Carrie Bradshaw?",
-      "correctAnswer": "Sex and the City",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "The Bold Type",
-        "Euphoria"
-      ]
-    },
-    {
-      "id": "tv_005",
-      "difficulty": "easy",
-      "question": "Which show features Rue Bennett?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "PLL",
-        "Skins"
-      ]
-    },
-    {
-      "id": "tv_006",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"We were on a ____\"",
-      "correctAnswer": "Break",
-      "wrongAnswers": [
-        "Trip",
-        "Date",
-        "Pause"
-      ]
-    },
-    {
-      "id": "tv_007",
-      "difficulty": "easy",
-      "question": "Which show features Emily Cooper?",
-      "correctAnswer": "Emily in Paris",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Sex and the City",
-        "The Bold Type"
-      ]
-    },
-    {
-      "id": "tv_008",
-      "difficulty": "easy",
-      "question": "Which show features the character Maddy Perez?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "Skins",
-        "Gossip Girl",
-        "PLL"
-      ]
-    },
-    {
-      "id": "tv_009",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"You know you love me ____\"",
-      "correctAnswer": "XOXO",
-      "wrongAnswers": [
-        "Hey girl",
-        "Bye babe",
-        "See you"
-      ]
-    },
-    {
-      "id": "tv_010",
-      "difficulty": "easy",
-      "question": "Which show features the character Rachel Green?",
-      "correctAnswer": "Friends",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "The OC",
-        "PLL"
-      ]
-    },
-    {
-      "id": "tv_011",
-      "difficulty": "medium",
-      "question": "Which show features a mysterious blogger exposing secrets?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_012",
-      "difficulty": "medium",
-      "question": "Which show features a group of girls threatened by \"A\"?",
-      "correctAnswer": "Pretty Little Liars",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_013",
-      "difficulty": "medium",
-      "question": "Which show includes a high school party gone wrong opening?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "PLL",
-        "Gossip Girl",
-        "Skins"
-      ]
-    },
-    {
-      "id": "tv_014",
-      "difficulty": "medium",
-      "question": "Which show focuses on fashion careers in NYC?",
-      "correctAnswer": "The Bold Type",
-      "wrongAnswers": [
-        "Sex and the City",
-        "Gossip Girl",
-        "Emily in Paris"
-      ]
-    },
-    {
-      "id": "tv_015",
-      "difficulty": "medium",
-      "question": "Which show includes a character writing a relationship column?",
-      "correctAnswer": "Sex and the City",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Emily in Paris",
-        "PLL"
-      ]
-    },
-    {
-      "id": "tv_016",
-      "difficulty": "medium",
-      "question": "Which show includes a Paris marketing storyline?",
-      "correctAnswer": "Emily in Paris",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Sex and the City",
-        "The Bold Type"
-      ]
-    },
-    {
-      "id": "tv_017",
-      "difficulty": "medium",
-      "question": "Which show features constant texting drama in high school?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_018",
-      "difficulty": "medium",
-      "question": "Which show includes a toxic high school friend group dynamic?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "PLL",
-        "Gossip Girl",
-        "Skins"
-      ]
-    },
-    {
-      "id": "tv_019",
-      "difficulty": "medium",
-      "question": "Which show includes a secret identity reveal in later seasons?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_020",
-      "difficulty": "medium",
-      "question": "Which show includes a dramatic prom or dance episode?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_021",
-      "difficulty": "hard",
-      "question": "Which show features the character Nate Archibald?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_022",
-      "difficulty": "hard",
-      "question": "Which show includes narration from an anonymous voice?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_023",
-      "difficulty": "hard",
-      "question": "Which show includes a central theme of addiction and trauma?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "Skins",
-        "PLL",
-        "Gossip Girl"
-      ]
-    },
-    {
-      "id": "tv_024",
-      "difficulty": "hard",
-      "question": "Which show includes fashion as a central storytelling element?",
-      "correctAnswer": "Sex and the City",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "The Bold Type",
-        "Emily in Paris"
-      ]
-    },
-    {
-      "id": "tv_025",
-      "difficulty": "hard",
-      "question": "Which show features a main character navigating scandal and power?",
-      "correctAnswer": "Scandal",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "PLL",
-        "Euphoria"
-      ]
-    },
-    {
-      "id": "tv_026",
-      "difficulty": "hard",
-      "question": "Which show includes a workplace boss with extreme standards?",
-      "correctAnswer": "The Devil Wears Prada TV??",
-      "wrongAnswers": [
-        "The Bold Type",
-        "Gossip Girl",
-        "Emily in Paris"
-      ]
-    },
-    {
-      "id": "tv_027",
-      "difficulty": "hard",
-      "question": "Which show includes a core mystery of \"who is A\"?",
-      "correctAnswer": "Pretty Little Liars",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_028",
-      "difficulty": "hard",
-      "question": "Which show includes a dramatic school rumor culture?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_029",
-      "difficulty": "hard",
-      "question": "Which show features a blend of music and teen drama themes?",
-      "correctAnswer": "Euphoria",
-      "wrongAnswers": [
-        "Skins",
-        "Gossip Girl",
-        "PLL"
-      ]
-    },
-    {
-      "id": "tv_030",
-      "difficulty": "hard",
-      "question": "Which show includes a high-fashion NYC setting?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "Sex and the City",
-        "The Bold Type",
-        "Emily in Paris"
-      ]
-    },
-    {
-      "id": "tv_031",
-      "difficulty": "easy",
-      "question": "Which show features Central Perk?",
-      "correctAnswer": "Friends",
-      "wrongAnswers": [
-        "Seinfeld",
-        "Gossip Girl",
-        "PLL"
-      ]
-    },
-    {
-      "id": "tv_032",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"Could I BE any more ____\"",
-      "correctAnswer": "Excited",
-      "wrongAnswers": [
-        "Annoying",
-        "Funny",
-        "Serious"
-      ]
-    },
-    {
-      "id": "tv_033",
-      "difficulty": "medium",
-      "question": "Which show includes a character moving to NYC for work?",
-      "correctAnswer": "Sex and the City",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Emily in Paris",
-        "The Bold Type"
-      ]
-    },
-    {
-      "id": "tv_034",
-      "difficulty": "medium",
-      "question": "Which show includes a dramatic friend betrayal storyline?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_035",
-      "difficulty": "medium",
-      "question": "Which show includes a strong focus on female friendships?",
-      "correctAnswer": "Sex and the City",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "PLL",
-        "The Bold Type"
-      ]
-    },
-    {
-      "id": "tv_036",
-      "difficulty": "hard",
-      "question": "Which show includes an anonymous gossip platform driving the story?",
-      "correctAnswer": "Gossip Girl",
-      "wrongAnswers": [
-        "PLL",
-        "Euphoria",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_037",
-      "difficulty": "hard",
-      "question": "Which show includes a fashion magazine workplace setting?",
-      "correctAnswer": "The Bold Type",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "Sex and the City",
-        "Emily in Paris"
-      ]
-    },
-    {
-      "id": "tv_038",
-      "difficulty": "easy",
-      "question": "Which show features Monica Geller?",
-      "correctAnswer": "Friends",
-      "wrongAnswers": [
-        "Gossip Girl",
-        "PLL",
-        "The OC"
-      ]
-    },
-    {
-      "id": "tv_039",
-      "difficulty": "medium",
-      "question": "Which show includes a group of friends navigating NYC life?",
-      "correctAnswer": "Sex and the City",
+      "question": "Which sitcom centers on Jack, Karen, Will, and Grace?",
+      "correctAnswer": "Will & Grace",
       "wrongAnswers": [
         "Friends",
-        "Gossip Girl",
-        "The Bold Type"
+        "Frasier",
+        "Seinfeld"
       ]
     },
     {
-      "id": "tv_040",
-      "difficulty": "hard",
-      "question": "Which show includes layered storytelling with multiple timelines?",
-      "correctAnswer": "Euphoria",
+      "id": "tv_0004",
+      "difficulty": "easy",
+      "question": "Who plays Carrie Bradshaw on Sex and the City?",
+      "correctAnswer": "Sarah Jessica Parker",
       "wrongAnswers": [
-        "PLL",
-        "Gossip Girl",
-        "Skins"
+        "Kim Cattrall",
+        "Cynthia Nixon",
+        "Kristin Davis"
+      ]
+    },
+    {
+      "id": "tv_0005",
+      "difficulty": "easy",
+      "question": "Which HBO series follows Issa Rae's character in LA?",
+      "correctAnswer": "Insecure",
+      "wrongAnswers": [
+        "Atlanta",
+        "Master of None",
+        "Random Acts of Flyness"
+      ]
+    },
+    {
+      "id": "tv_0006",
+      "difficulty": "easy",
+      "question": "Which 2019 film won Best Picture for a non-English language?",
+      "correctAnswer": "Parasite",
+      "wrongAnswers": [
+        "Roma",
+        "Drive My Car",
+        "1917"
+      ]
+    },
+    {
+      "id": "tv_0007",
+      "difficulty": "easy",
+      "question": "Who plays Eleven on Stranger Things?",
+      "correctAnswer": "Millie Bobby Brown",
+      "wrongAnswers": [
+        "Sadie Sink",
+        "Natalia Dyer",
+        "Maya Hawke"
+      ]
+    },
+    {
+      "id": "tv_0008",
+      "difficulty": "easy",
+      "question": "Which show features Hannah Horvath, Marnie, Jessa, and Shoshanna?",
+      "correctAnswer": "Girls",
+      "wrongAnswers": [
+        "Sex and the City",
+        "Broad City",
+        "Insecure"
+      ]
+    },
+    {
+      "id": "tv_0009",
+      "difficulty": "easy",
+      "question": "Which film features the line 'I see dead people'?",
+      "correctAnswer": "The Sixth Sense",
+      "wrongAnswers": [
+        "The Others",
+        "Sixth Sense Returns",
+        "The Ring"
+      ]
+    },
+    {
+      "id": "tv_0010",
+      "difficulty": "easy",
+      "question": "Who plays Walter White in Breaking Bad?",
+      "correctAnswer": "Bryan Cranston",
+      "wrongAnswers": [
+        "Aaron Paul",
+        "Bob Odenkirk",
+        "Giancarlo Esposito"
+      ]
+    },
+    {
+      "id": "tv_0011",
+      "difficulty": "easy",
+      "question": "Which 90s sitcom had the catchphrase 'Did I do that?'",
+      "correctAnswer": "Family Matters",
+      "wrongAnswers": [
+        "Full House",
+        "Saved by the Bell",
+        "Fresh Prince"
+      ]
+    },
+    {
+      "id": "tv_0012",
+      "difficulty": "easy",
+      "question": "Which Netflix show stars Wednesday Addams as a teen detective?",
+      "correctAnswer": "Wednesday",
+      "wrongAnswers": [
+        "Sabrina",
+        "Stranger Things",
+        "Outer Banks"
+      ]
+    },
+    {
+      "id": "tv_0013",
+      "difficulty": "easy",
+      "question": "Who voiced Mufasa in The Lion King (1994)?",
+      "correctAnswer": "James Earl Jones",
+      "wrongAnswers": [
+        "Morgan Freeman",
+        "Samuel L. Jackson",
+        "Forest Whitaker"
+      ]
+    },
+    {
+      "id": "tv_0014",
+      "difficulty": "easy",
+      "question": "Who plays Daenerys on Game of Thrones?",
+      "correctAnswer": "Emilia Clarke",
+      "wrongAnswers": [
+        "Lena Headey",
+        "Maisie Williams",
+        "Sophie Turner"
+      ]
+    },
+    {
+      "id": "tv_0015",
+      "difficulty": "easy",
+      "question": "Which film features the song \"Let It Go\"?",
+      "correctAnswer": "Frozen",
+      "wrongAnswers": [
+        "Tangled",
+        "Brave",
+        "Moana"
+      ]
+    },
+    {
+      "id": "tv_0016",
+      "difficulty": "medium",
+      "question": "Who directed Moonlight (2016)?",
+      "correctAnswer": "Barry Jenkins",
+      "wrongAnswers": [
+        "Jordan Peele",
+        "Steve McQueen",
+        "Spike Lee"
+      ]
+    },
+    {
+      "id": "tv_0017",
+      "difficulty": "medium",
+      "question": "Which actor created and stars in Atlanta?",
+      "correctAnswer": "Donald Glover",
+      "wrongAnswers": [
+        "Childish Gambino",
+        "Issa Rae",
+        "Lakeith Stanfield"
+      ]
+    },
+    {
+      "id": "tv_0018",
+      "difficulty": "medium",
+      "question": "Who created Pose for FX?",
+      "correctAnswer": "Ryan Murphy",
+      "wrongAnswers": [
+        "Lena Waithe",
+        "Janet Mock",
+        "Steven Canals"
+      ]
+    },
+    {
+      "id": "tv_0019",
+      "difficulty": "medium",
+      "question": "Which 2005 film starred Heath Ledger as a sheepherder?",
+      "correctAnswer": "Brokeback Mountain",
+      "wrongAnswers": [
+        "The Assassination of Jesse James",
+        "Capote",
+        "Crash"
+      ]
+    },
+    {
+      "id": "tv_0020",
+      "difficulty": "medium",
+      "question": "Who hosts 'The Daily Show' since 2024 (Mondays)?",
+      "correctAnswer": "Jon Stewart",
+      "wrongAnswers": [
+        "Trevor Noah",
+        "Jordan Klepper",
+        "Hasan Minhaj"
+      ]
+    },
+    {
+      "id": "tv_0021",
+      "difficulty": "medium",
+      "question": "Who plays Beth Harmon in The Queen's Gambit?",
+      "correctAnswer": "Anya Taylor-Joy",
+      "wrongAnswers": [
+        "Florence Pugh",
+        "Saoirse Ronan",
+        "Jessie Buckley"
+      ]
+    },
+    {
+      "id": "tv_0022",
+      "difficulty": "medium",
+      "question": "Which 1999 cult film opens with 'I am Jack's complete lack of surprise'?",
+      "correctAnswer": "Fight Club",
+      "wrongAnswers": [
+        "American Beauty",
+        "Magnolia",
+        "Being John Malkovich"
+      ]
+    },
+    {
+      "id": "tv_0023",
+      "difficulty": "medium",
+      "question": "Which musical features \"Defying Gravity\"?",
+      "correctAnswer": "Wicked",
+      "wrongAnswers": [
+        "Rent",
+        "Hamilton",
+        "Dear Evan Hansen"
+      ]
+    },
+    {
+      "id": "tv_0024",
+      "difficulty": "medium",
+      "question": "Who directed Portrait of a Lady on Fire (2019)?",
+      "correctAnswer": "C?line Sciamma",
+      "wrongAnswers": [
+        "Agn?s Varda",
+        "Alice Rohrwacher",
+        "Mati Diop"
+      ]
+    },
+    {
+      "id": "tv_0025",
+      "difficulty": "medium",
+      "question": "Which sitcom finale aired in 2004 on NBC?",
+      "correctAnswer": "Friends",
+      "wrongAnswers": [
+        "Frasier",
+        "Seinfeld",
+        "Will & Grace"
+      ]
+    },
+    {
+      "id": "tv_0026",
+      "difficulty": "hard",
+      "question": "Which cinematographer shot Portrait of a Lady on Fire?",
+      "correctAnswer": "Claire Mathon",
+      "wrongAnswers": [
+        "H?l?ne Louvart",
+        "Agn?s Godard",
+        "Caroline Champetier"
+      ]
+    },
+    {
+      "id": "tv_0027",
+      "difficulty": "hard",
+      "question": "Who directed 'But I'm a Cheerleader' (1999)?",
+      "correctAnswer": "Jamie Babbit",
+      "wrongAnswers": [
+        "Lisa Cholodenko",
+        "Rose Troche",
+        "Cheryl Dunye"
+      ]
+    },
+    {
+      "id": "tv_0028",
+      "difficulty": "hard",
+      "question": "Which director made 'Tangerine' on iPhones?",
+      "correctAnswer": "Sean Baker",
+      "wrongAnswers": [
+        "Andrea Arnold",
+        "Lynne Ramsay",
+        "Kelly Reichardt"
+      ]
+    },
+    {
+      "id": "tv_0029",
+      "difficulty": "hard",
+      "question": "Who composed the score for Hereditary?",
+      "correctAnswer": "Colin Stetson",
+      "wrongAnswers": [
+        "Mica Levi",
+        "Jonny Greenwood",
+        "Disasterpeace"
+      ]
+    },
+    {
+      "id": "tv_0030",
+      "difficulty": "hard",
+      "question": "Which 1976 film opens with 'I'm as mad as hell'?",
+      "correctAnswer": "Network",
+      "wrongAnswers": [
+        "All the President's Men",
+        "Taxi Driver",
+        "Rocky"
       ]
     }
   ]
