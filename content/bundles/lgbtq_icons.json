@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "lgbtq_icons_001",
+      "id": "lgbtq_icons_0001",
       "difficulty": "easy",
-      "question": "Which artist is known as the \"Queen of Pop\" and a longtime LGBTQ ally?",
-      "correctAnswer": "Madonna",
-      "wrongAnswers": [
-        "Cher",
-        "Lady Gaga",
-        "Kylie Minogue"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_002",
-      "difficulty": "easy",
-      "question": "Which artist created the anthem \"Born This Way\"?",
+      "question": "Who recorded \"Born This Way\" in 2011?",
       "correctAnswer": "Lady Gaga",
       "wrongAnswers": [
         "Madonna",
-        "Beyonce",
+        "Beyonc?",
         "Katy Perry"
       ]
     },
     {
-      "id": "lgbtq_icons_003",
+      "id": "lgbtq_icons_0002",
       "difficulty": "easy",
-      "question": "Which singer is known for the song \"Believe\" and LGBTQ advocacy?",
+      "question": "Who voiced the Genie in 'Aladdin' (1992)?",
+      "correctAnswer": "Robin Williams",
+      "wrongAnswers": [
+        "Eddie Murphy",
+        "Steve Martin",
+        "Mike Myers"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0003",
+      "difficulty": "easy",
+      "question": "Which singer is known as 'The Goddess of Pop'?",
       "correctAnswer": "Cher",
       "wrongAnswers": [
-        "Madonna",
-        "Kylie Minogue",
-        "Lady Gaga"
+        "Donna Summer",
+        "Diana Ross",
+        "Liza Minnelli"
       ]
     },
     {
-      "id": "lgbtq_icons_004",
+      "id": "lgbtq_icons_0004",
       "difficulty": "easy",
-      "question": "Which artist is known for \"Can't Get You Out of My Head\" and queer fanbase?",
-      "correctAnswer": "Kylie Minogue",
+      "question": "Who hosted 'The Ellen DeGeneres Show' for 19 seasons?",
+      "correctAnswer": "Ellen DeGeneres",
       "wrongAnswers": [
-        "Dua Lipa",
-        "Lorde",
-        "Sia"
+        "Wanda Sykes",
+        "Rosie O'Donnell",
+        "Whoopi Goldberg"
       ]
     },
     {
-      "id": "lgbtq_icons_005",
+      "id": "lgbtq_icons_0005",
       "difficulty": "easy",
-      "question": "Which performer is famous for voguing and ballroom culture?",
-      "correctAnswer": "Madonna",
+      "question": "Who sang 'I Will Survive' in 1978?",
+      "correctAnswer": "Gloria Gaynor",
       "wrongAnswers": [
-        "Beyonce",
-        "Rihanna",
-        "Lady Gaga"
+        "Donna Summer",
+        "Diana Ross",
+        "Aretha Franklin"
       ]
     },
     {
-      "id": "lgbtq_icons_006",
-      "difficulty": "medium",
-      "question": "Which artist is known for the album \"Renaissance\" celebrating house music?",
-      "correctAnswer": "Beyonce",
+      "id": "lgbtq_icons_0006",
+      "difficulty": "easy",
+      "question": "Whose stage performances include the song 'Macho Man'?",
+      "correctAnswer": "Village People",
       "wrongAnswers": [
-        "Rihanna",
-        "Ariana Grande",
-        "Lizzo"
+        "The Bee Gees",
+        "ABBA",
+        "Earth Wind & Fire"
       ]
     },
     {
-      "id": "lgbtq_icons_007",
-      "difficulty": "medium",
-      "question": "Which singer came out publicly and released \"Montero\"?",
-      "correctAnswer": "Lil Nas X",
+      "id": "lgbtq_icons_0007",
+      "difficulty": "easy",
+      "question": "Who is the lead singer of Queen?",
+      "correctAnswer": "Freddie Mercury",
       "wrongAnswers": [
-        "Sam Smith",
-        "Frank Ocean",
+        "Brian May",
+        "Roger Taylor",
         "Adam Lambert"
       ]
     },
     {
-      "id": "lgbtq_icons_008",
-      "difficulty": "medium",
-      "question": "Which artist is known for openly discussing bisexuality and fluid identity?",
-      "correctAnswer": "Halsey",
+      "id": "lgbtq_icons_0008",
+      "difficulty": "easy",
+      "question": "Which artist's 1986 'Self Control' video featured S&M imagery?",
+      "correctAnswer": "Laura Branigan",
       "wrongAnswers": [
-        "Lorde",
-        "Billie Eilish",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_009",
-      "difficulty": "medium",
-      "question": "Which artist is known for gender-fluid fashion and \"As It Was\" era?",
-      "correctAnswer": "Harry Styles",
-      "wrongAnswers": [
-        "Shawn Mendes",
-        "Justin Bieber",
-        "The Weeknd"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_010",
-      "difficulty": "medium",
-      "question": "Which artist is known for queer storytelling in \"Call Me By Your Name\" film soundtrack?",
-      "correctAnswer": "Sufjan Stevens",
-      "wrongAnswers": [
-        "Frank Ocean",
-        "Sam Smith",
-        "Troye Sivan"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_011",
-      "difficulty": "medium",
-      "question": "Which artist is known for \"Take Me to Church\" and LGBTQ themes?",
-      "correctAnswer": "Hozier",
-      "wrongAnswers": [
-        "Sam Smith",
-        "Troye Sivan",
-        "Harry Styles"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_012",
-      "difficulty": "medium",
-      "question": "Which artist came out and released the album \"Blonde\"?",
-      "correctAnswer": "Frank Ocean",
-      "wrongAnswers": [
-        "Tyler the Creator",
-        "Drake",
-        "Kendrick Lamar"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_013",
-      "difficulty": "medium",
-      "question": "Which singer is known for \"Youth\" and LGBTQ representation?",
-      "correctAnswer": "Troye Sivan",
-      "wrongAnswers": [
-        "Shawn Mendes",
-        "Harry Styles",
-        "Justin Bieber"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_014",
-      "difficulty": "medium",
-      "question": "Which artist is known for non-binary identity and \"Unholy\"?",
-      "correctAnswer": "Sam Smith",
-      "wrongAnswers": [
-        "Harry Styles",
-        "Frank Ocean",
-        "Lil Nas X"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_015",
-      "difficulty": "medium",
-      "question": "Which performer is known for ballroom culture documentary \"Paris Is Burning\"?",
-      "correctAnswer": "Jennie Livingston",
-      "wrongAnswers": [
-        "RuPaul",
         "Madonna",
-        "Pose cast"
+        "Pat Benatar",
+        "Cyndi Lauper"
       ]
     },
     {
-      "id": "lgbtq_icons_016",
-      "difficulty": "hard",
-      "question": "Which activist is known for the Stonewall uprising?",
-      "correctAnswer": "Marsha P. Johnson",
-      "wrongAnswers": [
-        "Harvey Milk",
-        "James Baldwin",
-        "Audre Lorde"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_017",
-      "difficulty": "hard",
-      "question": "Which political figure was one of the first openly gay elected officials in the US?",
-      "correctAnswer": "Harvey Milk",
-      "wrongAnswers": [
-        "Barney Frank",
-        "Pete Buttigieg",
-        "Ronald Reagan"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_018",
-      "difficulty": "hard",
-      "question": "Which writer is known for LGBTQ essays and \"Notes of a Native Son\"?",
-      "correctAnswer": "James Baldwin",
-      "wrongAnswers": [
-        "Toni Morrison",
-        "Maya Angelou",
-        "Langston Hughes"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_019",
-      "difficulty": "hard",
-      "question": "Which poet is known for \"Sister Outsider\" and activism?",
-      "correctAnswer": "Audre Lorde",
-      "wrongAnswers": [
-        "Maya Angelou",
-        "Toni Morrison",
-        "Bell Hooks"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_020",
-      "difficulty": "hard",
-      "question": "Which figure is known for founding ACT UP activism?",
-      "correctAnswer": "Larry Kramer",
-      "wrongAnswers": [
-        "Harvey Milk",
-        "James Baldwin",
-        "Marsha P. Johnson"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_021",
+      "id": "lgbtq_icons_0009",
       "difficulty": "easy",
-      "question": "Which artist is known for Pride anthems like \"Raise Your Glass\"?",
-      "correctAnswer": "Pink",
-      "wrongAnswers": [
-        "Katy Perry",
-        "Lady Gaga",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_022",
-      "difficulty": "easy",
-      "question": "Which artist is known for \"Firework\" as a Pride anthem?",
-      "correctAnswer": "Katy Perry",
-      "wrongAnswers": [
-        "Lady Gaga",
-        "Pink",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_023",
-      "difficulty": "easy",
-      "question": "Which artist is known for \"Express Yourself\" message?",
+      "question": "Whose 'Vogue' was inspired by Harlem ballroom?",
       "correctAnswer": "Madonna",
       "wrongAnswers": [
-        "Cher",
-        "Kylie Minogue",
-        "Lady Gaga"
+        "Janet Jackson",
+        "Paula Abdul",
+        "Whitney Houston"
       ]
     },
     {
-      "id": "lgbtq_icons_024",
+      "id": "lgbtq_icons_0010",
       "difficulty": "easy",
-      "question": "Which artist is known for \"Good as Hell\" self-love messaging?",
-      "correctAnswer": "Lizzo",
+      "question": "Who is RuPaul's longtime musical collaborator on Drag Race?",
+      "correctAnswer": "Lucian Piane",
       "wrongAnswers": [
-        "Doja Cat",
-        "Ariana Grande",
-        "Rihanna"
+        "Pharrell",
+        "Diplo",
+        "RZA"
       ]
     },
     {
-      "id": "lgbtq_icons_025",
+      "id": "lgbtq_icons_0011",
       "difficulty": "easy",
-      "question": "Which artist is known for \"Truth Hurts\" confidence energy?",
-      "correctAnswer": "Lizzo",
+      "question": "Which icon's catchphrase was 'Live, laugh, lip-sync'?",
+      "correctAnswer": "RuPaul",
       "wrongAnswers": [
-        "Doja Cat",
-        "Ariana Grande",
-        "Rihanna"
+        "Bianca Del Rio",
+        "Trixie Mattel",
+        "Jinkx Monsoon"
       ]
     },
     {
-      "id": "lgbtq_icons_026",
-      "difficulty": "medium",
-      "question": "Which artist is known for \"Pink Pony Club\" queer nightlife themes?",
+      "id": "lgbtq_icons_0012",
+      "difficulty": "easy",
+      "question": "Who portrayed Hedwig on Broadway in 2014?",
+      "correctAnswer": "Neil Patrick Harris",
+      "wrongAnswers": [
+        "John Cameron Mitchell",
+        "Lena Hall",
+        "Andrew Rannells"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0013",
+      "difficulty": "easy",
+      "question": "What 1973 musical features the song 'I Am What I Am'?",
+      "correctAnswer": "La Cage aux Folles",
+      "wrongAnswers": [
+        "Cabaret",
+        "A Chorus Line",
+        "Hairspray"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0014",
+      "difficulty": "easy",
+      "question": "Who is the protagonist of 'Heartstopper'?",
+      "correctAnswer": "Charlie Spring",
+      "wrongAnswers": [
+        "Tao Xu",
+        "Nick Nelson",
+        "Elle Argent"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0015",
+      "difficulty": "easy",
+      "question": "Who released \"Pink Pony Club\" in 2020?",
       "correctAnswer": "Chappell Roan",
       "wrongAnswers": [
-        "Tove Lo",
-        "Charli XCX",
-        "Rina Sawayama"
+        "Renee Rapp",
+        "Maisie Peters",
+        "Rene? Rapp"
       ]
     },
     {
-      "id": "lgbtq_icons_027",
+      "id": "lgbtq_icons_0016",
       "difficulty": "medium",
-      "question": "Which artist blends queer identity with hyperpop sounds?",
-      "correctAnswer": "Rina Sawayama",
+      "question": "Who founded the Trevor Project?",
+      "correctAnswer": "Celeste Lecesne",
       "wrongAnswers": [
-        "Charli XCX",
-        "Grimes",
-        "Lorde"
+        "Dan Savage",
+        "Tim Gunn",
+        "Cyndi Lauper"
       ]
     },
     {
-      "id": "lgbtq_icons_028",
+      "id": "lgbtq_icons_0017",
       "difficulty": "medium",
-      "question": "Which artist is known for experimental pop and LGBTQ fanbase?",
-      "correctAnswer": "Charli XCX",
+      "question": "Which 1969 event sparked modern Pride?",
+      "correctAnswer": "Stonewall riots",
       "wrongAnswers": [
-        "Dua Lipa",
-        "Lorde",
-        "Sia"
+        "Compton's Cafeteria riot",
+        "White Night riots",
+        "AIDS Quilt unveiling"
       ]
     },
     {
-      "id": "lgbtq_icons_029",
+      "id": "lgbtq_icons_0018",
       "difficulty": "medium",
-      "question": "Which artist is known for \"XS\" and commentary on excess?",
-      "correctAnswer": "Rina Sawayama",
+      "question": "Who was the first openly gay member of the US Cabinet?",
+      "correctAnswer": "Pete Buttigieg",
       "wrongAnswers": [
-        "Charli XCX",
-        "Grimes",
-        "Lorde"
+        "Eric Fanning",
+        "Richard Grenell",
+        "Tammy Baldwin"
       ]
     },
     {
-      "id": "lgbtq_icons_030",
+      "id": "lgbtq_icons_0019",
       "difficulty": "medium",
-      "question": "Which artist is known for queer-coded lyrics and \"Royals\"?",
-      "correctAnswer": "Lorde",
+      "question": "Whose 'I Wanna Dance with Somebody' biopic released in 2022?",
+      "correctAnswer": "Whitney Houston",
       "wrongAnswers": [
-        "Billie Eilish",
-        "Lana Del Rey",
-        "Halsey"
+        "Aretha Franklin",
+        "Tina Turner",
+        "Diana Ross"
       ]
     },
     {
-      "id": "lgbtq_icons_031",
-      "difficulty": "hard",
-      "question": "Which ballroom show popularized LGBTQ culture on TV?",
-      "correctAnswer": "Pose",
+      "id": "lgbtq_icons_0020",
+      "difficulty": "medium",
+      "question": "Who painted the original Rainbow Pride flag (1978)?",
+      "correctAnswer": "Gilbert Baker",
       "wrongAnswers": [
-        "Euphoria",
-        "PLL",
-        "Gossip Girl"
+        "Keith Haring",
+        "David Hockney",
+        "Andy Warhol"
       ]
     },
     {
-      "id": "lgbtq_icons_032",
-      "difficulty": "hard",
-      "question": "Which show centers drag competition globally?",
-      "correctAnswer": "RuPaul's Drag Race",
+      "id": "lgbtq_icons_0021",
+      "difficulty": "medium",
+      "question": "Who is the long-time partner of Elton John?",
+      "correctAnswer": "David Furnish",
       "wrongAnswers": [
-        "Project Runway",
-        "The Voice",
-        "America's Got Talent"
+        "David Geffen",
+        "Bernie Taupin",
+        "Bernie Sumner"
       ]
     },
     {
-      "id": "lgbtq_icons_033",
-      "difficulty": "hard",
-      "question": "Which film features LGBTQ activism in the 80s crisis era?",
-      "correctAnswer": "The Normal Heart",
+      "id": "lgbtq_icons_0022",
+      "difficulty": "medium",
+      "question": "Which Tony-winning musical centers on a New York gay romance?",
+      "correctAnswer": "Falsettos",
       "wrongAnswers": [
-        "Philadelphia",
-        "Brokeback Mountain",
-        "Milk"
+        "Rent",
+        "Avenue Q",
+        "Chicago"
       ]
     },
     {
-      "id": "lgbtq_icons_034",
-      "difficulty": "hard",
-      "question": "Which film portrays Harvey Milk?s life?",
-      "correctAnswer": "Milk",
+      "id": "lgbtq_icons_0023",
+      "difficulty": "medium",
+      "question": "Who was the first openly trans Emmy nominee in acting (2014)?",
+      "correctAnswer": "Laverne Cox",
       "wrongAnswers": [
-        "Brokeback Mountain",
-        "Philadelphia",
-        "The Normal Heart"
+        "Mj Rodriguez",
+        "Jamie Clayton",
+        "Trace Lysette"
       ]
     },
     {
-      "id": "lgbtq_icons_035",
+      "id": "lgbtq_icons_0024",
+      "difficulty": "medium",
+      "question": "Who directed \"Tangerine\" (2015) on an iPhone?",
+      "correctAnswer": "Sean Baker",
+      "wrongAnswers": [
+        "Andrew Haigh",
+        "Barry Jenkins",
+        "Lee Daniels"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0025",
+      "difficulty": "medium",
+      "question": "Which RuPaul's Drag Race winner became a Broadway star?",
+      "correctAnswer": "Jinkx Monsoon",
+      "wrongAnswers": [
+        "BenDeLaCreme",
+        "Sasha Velour",
+        "Bianca Del Rio"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0026",
       "difficulty": "hard",
-      "question": "Which documentary explores ballroom culture?",
+      "question": "Who founded ACT UP in 1987?",
+      "correctAnswer": "Larry Kramer",
+      "wrongAnswers": [
+        "Vito Russo",
+        "David Wojnarowicz",
+        "Tony Kushner"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0027",
+      "difficulty": "hard",
+      "question": "Which 1990 documentary captured NYC ballroom culture?",
       "correctAnswer": "Paris Is Burning",
       "wrongAnswers": [
-        "Pose",
-        "Milk",
-        "The Normal Heart"
+        "The Queen",
+        "How Do I Look",
+        "Tongues Untied"
       ]
     },
     {
-      "id": "lgbtq_icons_036",
-      "difficulty": "easy",
-      "question": "Which event celebrates LGBTQ pride globally each year?",
-      "correctAnswer": "Pride Parade",
-      "wrongAnswers": [
-        "Met Gala",
-        "Oscars",
-        "Coachella"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_037",
-      "difficulty": "medium",
-      "question": "Which flag represents LGBTQ pride?",
-      "correctAnswer": "Rainbow flag",
-      "wrongAnswers": [
-        "Blue flag",
-        "Star flag",
-        "Peace flag"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_038",
-      "difficulty": "medium",
-      "question": "Which month is widely recognized as Pride Month?",
-      "correctAnswer": "June",
-      "wrongAnswers": [
-        "May",
-        "July",
-        "April"
-      ]
-    },
-    {
-      "id": "lgbtq_icons_039",
+      "id": "lgbtq_icons_0028",
       "difficulty": "hard",
-      "question": "Which movement advocated for LGBTQ rights in the 80s crisis era?",
-      "correctAnswer": "ACT UP",
+      "question": "Which English actor came out in 1988, paving way for British screen rep?",
+      "correctAnswer": "Ian McKellen",
       "wrongAnswers": [
-        "Black Lives Matter",
-        "Occupy",
-        "Me Too"
+        "Derek Jacobi",
+        "Rupert Everett",
+        "Stephen Fry"
       ]
     },
     {
-      "id": "lgbtq_icons_040",
+      "id": "lgbtq_icons_0029",
       "difficulty": "hard",
-      "question": "Which landmark event in 1969 sparked modern LGBTQ activism?",
-      "correctAnswer": "Stonewall uprising",
+      "question": "Whose memoir is 'I'm Glad My Mom Died'?",
+      "correctAnswer": "Jennette McCurdy",
       "wrongAnswers": [
-        "Woodstock",
-        "March on Washington",
-        "Civil Rights Act"
+        "Lily Allen",
+        "Tegan Quin",
+        "Roxane Gay"
+      ]
+    },
+    {
+      "id": "lgbtq_icons_0030",
+      "difficulty": "hard",
+      "question": "Which choreographer popularized vogueing on the dance world stage?",
+      "correctAnswer": "Willi Ninja",
+      "wrongAnswers": [
+        "Alvin Ailey",
+        "Bob Fosse",
+        "Twyla Tharp"
       ]
     }
   ]
