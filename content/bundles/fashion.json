@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "fashion_001",
+      "id": "fashion_0001",
       "difficulty": "easy",
-      "question": "Which icon is known for the phrase \"little black dress\" style?",
+      "question": "Who founded Chanel?",
       "correctAnswer": "Coco Chanel",
       "wrongAnswers": [
         "Donatella Versace",
-        "Anna Wintour",
-        "Marc Jacobs"
+        "Karl Lagerfeld",
+        "Yves Saint Laurent"
       ]
     },
     {
-      "id": "fashion_002",
+      "id": "fashion_0002",
       "difficulty": "easy",
-      "question": "Which fashion editor is known for her signature bob haircut and sunglasses?",
-      "correctAnswer": "Anna Wintour",
-      "wrongAnswers": [
-        "Carine Roitfeld",
-        "Grace Coddington",
-        "Donatella Versace"
-      ]
-    },
-    {
-      "id": "fashion_003",
-      "difficulty": "easy",
-      "question": "Which designer is known for bold Medusa logos?",
+      "question": "Whose signature pattern is the Medusa head?",
       "correctAnswer": "Versace",
       "wrongAnswers": [
         "Gucci",
         "Prada",
-        "Chanel"
-      ]
-    },
-    {
-      "id": "fashion_004",
-      "difficulty": "easy",
-      "question": "Which brand is known for interlocking \"CC\" logos?",
-      "correctAnswer": "Chanel",
-      "wrongAnswers": [
-        "Gucci",
-        "Prada",
-        "Versace"
-      ]
-    },
-    {
-      "id": "fashion_005",
-      "difficulty": "easy",
-      "question": "Which designer is known for red-soled shoes?",
-      "correctAnswer": "Christian Louboutin",
-      "wrongAnswers": [
-        "Jimmy Choo",
-        "Manolo Blahnik",
-        "Gucci"
-      ]
-    },
-    {
-      "id": "fashion_006",
-      "difficulty": "easy",
-      "question": "Which celebrity is known for iconic Met Gala fashion moments?",
-      "correctAnswer": "Rihanna",
-      "wrongAnswers": [
-        "Lady Gaga",
-        "Beyonce",
-        "Katy Perry"
-      ]
-    },
-    {
-      "id": "fashion_007",
-      "difficulty": "easy",
-      "question": "Which model is known for the term \"supermodel era\" in the 90s?",
-      "correctAnswer": "Naomi Campbell",
-      "wrongAnswers": [
-        "Gigi Hadid",
-        "Bella Hadid",
-        "Kendall Jenner"
-      ]
-    },
-    {
-      "id": "fashion_008",
-      "difficulty": "easy",
-      "question": "Which designer brand is known for a double G logo?",
-      "correctAnswer": "Gucci",
-      "wrongAnswers": [
-        "Chanel",
-        "Prada",
-        "Versace"
-      ]
-    },
-    {
-      "id": "fashion_009",
-      "difficulty": "easy",
-      "question": "Which fashion item is associated with Audrey Hepburn in \"Breakfast at Tiffany's\"?",
-      "correctAnswer": "Black dress",
-      "wrongAnswers": [
-        "Ball gown",
-        "Jeans",
-        "Suit"
-      ]
-    },
-    {
-      "id": "fashion_010",
-      "difficulty": "easy",
-      "question": "Which designer is known for dramatic theatrical runway shows?",
-      "correctAnswer": "Alexander McQueen",
-      "wrongAnswers": [
-        "Tom Ford",
-        "Calvin Klein",
-        "Ralph Lauren"
-      ]
-    },
-    {
-      "id": "fashion_011",
-      "difficulty": "medium",
-      "question": "Which fashion era is known for oversized suits and minimalism?",
-      "correctAnswer": "90s minimalism",
-      "wrongAnswers": [
-        "80s glam",
-        "2000s sparkle",
-        "70s disco"
-      ]
-    },
-    {
-      "id": "fashion_012",
-      "difficulty": "medium",
-      "question": "Which celebrity is known for \"naked dress\" fashion moments?",
-      "correctAnswer": "Kim Kardashian",
-      "wrongAnswers": [
-        "Beyonce",
-        "Rihanna",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "fashion_013",
-      "difficulty": "medium",
-      "question": "Which brand is known for nylon bags and minimalist style?",
-      "correctAnswer": "Prada",
-      "wrongAnswers": [
-        "Gucci",
-        "Versace",
-        "Chanel"
-      ]
-    },
-    {
-      "id": "fashion_014",
-      "difficulty": "medium",
-      "question": "Which fashion house is known for bold prints and baroque style?",
-      "correctAnswer": "Versace",
-      "wrongAnswers": [
-        "Prada",
-        "Chanel",
-        "Gucci"
-      ]
-    },
-    {
-      "id": "fashion_015",
-      "difficulty": "medium",
-      "question": "Which model is known for modern runway dominance and social media presence?",
-      "correctAnswer": "Kendall Jenner",
-      "wrongAnswers": [
-        "Naomi Campbell",
-        "Cindy Crawford",
-        "Twiggy"
-      ]
-    },
-    {
-      "id": "fashion_016",
-      "difficulty": "medium",
-      "question": "Which designer is known for \"New Look\" silhouette in the 1940s?",
-      "correctAnswer": "Christian Dior",
-      "wrongAnswers": [
-        "Yves Saint Laurent",
-        "Chanel",
-        "Versace"
-      ]
-    },
-    {
-      "id": "fashion_017",
-      "difficulty": "medium",
-      "question": "Which celebrity is known for high-fashion street style influence?",
-      "correctAnswer": "Bella Hadid",
-      "wrongAnswers": [
-        "Gigi Hadid",
-        "Kendall Jenner",
-        "Hailey Bieber"
-      ]
-    },
-    {
-      "id": "fashion_018",
-      "difficulty": "medium",
-      "question": "Which brand is known for trench coats and British heritage?",
-      "correctAnswer": "Burberry",
-      "wrongAnswers": [
-        "Gucci",
-        "Prada",
-        "Chanel"
-      ]
-    },
-    {
-      "id": "fashion_019",
-      "difficulty": "medium",
-      "question": "Which fashion role selects outfits for celebrities?",
-      "correctAnswer": "Stylist",
-      "wrongAnswers": [
-        "Designer",
-        "Model",
-        "Editor"
-      ]
-    },
-    {
-      "id": "fashion_020",
-      "difficulty": "medium",
-      "question": "Which event is known as fashion's biggest night?",
-      "correctAnswer": "Met Gala",
-      "wrongAnswers": [
-        "Oscars",
-        "Grammys",
-        "Cannes"
-      ]
-    },
-    {
-      "id": "fashion_021",
-      "difficulty": "hard",
-      "question": "Which designer pioneered gender-fluid fashion in luxury runway?",
-      "correctAnswer": "Alessandro Michele",
-      "wrongAnswers": [
-        "Tom Ford",
-        "Marc Jacobs",
-        "Virgil Abloh"
-      ]
-    },
-    {
-      "id": "fashion_022",
-      "difficulty": "hard",
-      "question": "Which designer founded Off-White and led Louis Vuitton menswear?",
-      "correctAnswer": "Virgil Abloh",
-      "wrongAnswers": [
-        "Tom Ford",
-        "Marc Jacobs",
-        "Alexander Wang"
-      ]
-    },
-    {
-      "id": "fashion_023",
-      "difficulty": "hard",
-      "question": "Which model is known for walking in both couture and Victoria's Secret shows?",
-      "correctAnswer": "Adriana Lima",
-      "wrongAnswers": [
-        "Naomi Campbell",
-        "Bella Hadid",
-        "Kendall Jenner"
-      ]
-    },
-    {
-      "id": "fashion_024",
-      "difficulty": "hard",
-      "question": "Which fashion house is known for minimalist black and white aesthetic?",
-      "correctAnswer": "Chanel",
-      "wrongAnswers": [
-        "Prada",
-        "Gucci",
-        "Versace"
-      ]
-    },
-    {
-      "id": "fashion_025",
-      "difficulty": "hard",
-      "question": "Which designer is known for sharp tailoring and power suits?",
-      "correctAnswer": "Tom Ford",
-      "wrongAnswers": [
-        "Gucci",
-        "Versace",
         "Dior"
       ]
     },
     {
-      "id": "fashion_026",
-      "difficulty": "hard",
-      "question": "Which model became famous through reality TV and fashion crossover?",
-      "correctAnswer": "Kendall Jenner",
+      "id": "fashion_0003",
+      "difficulty": "easy",
+      "question": "Who is Anna Wintour's magazine?",
+      "correctAnswer": "Vogue (US)",
+      "wrongAnswers": [
+        "Vanity Fair",
+        "Harper's Bazaar",
+        "Elle"
+      ]
+    },
+    {
+      "id": "fashion_0004",
+      "difficulty": "easy",
+      "question": "Which Italian designer founded a house in 1921?",
+      "correctAnswer": "Gucci",
+      "wrongAnswers": [
+        "Prada",
+        "Versace",
+        "Armani"
+      ]
+    },
+    {
+      "id": "fashion_0005",
+      "difficulty": "easy",
+      "question": "Which 90s supermodel hosts America's Next Top Model?",
+      "correctAnswer": "Tyra Banks",
       "wrongAnswers": [
         "Naomi Campbell",
-        "Bella Hadid",
-        "Cindy Crawford"
+        "Cindy Crawford",
+        "Linda Evangelista"
       ]
     },
     {
-      "id": "fashion_027",
-      "difficulty": "hard",
-      "question": "Which designer is known for bold red carpet gowns for celebrities?",
-      "correctAnswer": "Zuhair Murad",
+      "id": "fashion_0006",
+      "difficulty": "easy",
+      "question": "Who founded Yves Saint Laurent?",
+      "correctAnswer": "Yves Saint Laurent",
       "wrongAnswers": [
-        "Chanel",
-        "Prada",
-        "Gucci"
+        "Christian Dior",
+        "Hubert de Givenchy",
+        "Pierre Cardin"
       ]
     },
     {
-      "id": "fashion_028",
-      "difficulty": "hard",
-      "question": "Which brand blends streetwear with high fashion collaborations?",
-      "correctAnswer": "Off-White",
+      "id": "fashion_0007",
+      "difficulty": "easy",
+      "question": "Which logo is interlocking 'CC'?",
+      "correctAnswer": "Chanel",
       "wrongAnswers": [
-        "Chanel",
-        "Prada",
-        "Versace"
+        "Calvin Klein",
+        "Carolina Herrera",
+        "Christian Dior"
       ]
     },
     {
-      "id": "fashion_029",
-      "difficulty": "hard",
-      "question": "Which designer brand is known for triangle logo?",
-      "correctAnswer": "Prada",
+      "id": "fashion_0008",
+      "difficulty": "easy",
+      "question": "Who popularized the wrap dress?",
+      "correctAnswer": "Diane von Furstenberg",
+      "wrongAnswers": [
+        "Donna Karan",
+        "Calvin Klein",
+        "Carolina Herrera"
+      ]
+    },
+    {
+      "id": "fashion_0009",
+      "difficulty": "easy",
+      "question": "Which house was Karl Lagerfeld's longest-tenured?",
+      "correctAnswer": "Chanel (1983-2019)",
+      "wrongAnswers": [
+        "Fendi (1965-2019)",
+        "Chlo?",
+        "Herm?s"
+      ]
+    },
+    {
+      "id": "fashion_0010",
+      "difficulty": "easy",
+      "question": "Which designer is known for the 'Trench coat'?",
+      "correctAnswer": "Burberry / Thomas Burberry",
+      "wrongAnswers": [
+        "Herm?s",
+        "Aquascutum",
+        "Mackintosh"
+      ]
+    },
+    {
+      "id": "fashion_0011",
+      "difficulty": "easy",
+      "question": "Who is Riccardo Tisci famous for?",
+      "correctAnswer": "Givenchy 2005-2017, Burberry 2018-2022",
       "wrongAnswers": [
         "Gucci",
+        "Prada",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "id": "fashion_0012",
+      "difficulty": "easy",
+      "question": "Whose runway introduced the 'monster boots'?",
+      "correctAnswer": "Vivienne Westwood",
+      "wrongAnswers": [
+        "Alexander McQueen",
+        "John Galliano",
+        "Stella McCartney"
+      ]
+    },
+    {
+      "id": "fashion_0013",
+      "difficulty": "easy",
+      "question": "Which brand's logo is two interlocking G's?",
+      "correctAnswer": "Gucci",
+      "wrongAnswers": [
+        "Givenchy",
+        "Guess",
+        "Goyard"
+      ]
+    },
+    {
+      "id": "fashion_0014",
+      "difficulty": "easy",
+      "question": "Who is the founder of Off-White?",
+      "correctAnswer": "Virgil Abloh",
+      "wrongAnswers": [
+        "Kanye West",
+        "Pharrell",
+        "Tinker Hatfield"
+      ]
+    },
+    {
+      "id": "fashion_0015",
+      "difficulty": "easy",
+      "question": "Which house's iconic monogram was redesigned by Marc Jacobs?",
+      "correctAnswer": "Louis Vuitton (Murakami collab)",
+      "wrongAnswers": [
+        "Gucci (Tom Ford era)",
+        "Dior (Galliano era)",
+        "Herm?s"
+      ]
+    },
+    {
+      "id": "fashion_0016",
+      "difficulty": "medium",
+      "question": "Who designed Princess Diana's 1981 wedding dress?",
+      "correctAnswer": "David & Elizabeth Emanuel",
+      "wrongAnswers": [
+        "Catherine Walker",
+        "Jacques Azagury",
+        "Christina Stambolian"
+      ]
+    },
+    {
+      "id": "fashion_0017",
+      "difficulty": "medium",
+      "question": "Which designer succeeded Tom Ford at Gucci in 2004?",
+      "correctAnswer": "Frida Giannini (after Alessandra Facchinetti)",
+      "wrongAnswers": [
+        "Stefano Pilati",
+        "Hedi Slimane",
+        "Riccardo Tisci"
+      ]
+    },
+    {
+      "id": "fashion_0018",
+      "difficulty": "medium",
+      "question": "Who designed the iconic 1984 'Body Map' aesthetic?",
+      "correctAnswer": "Body Map (David Holah & Stevie Stewart)",
+      "wrongAnswers": [
+        "Vivienne Westwood",
+        "Jean Paul Gaultier",
+        "Issey Miyake"
+      ]
+    },
+    {
+      "id": "fashion_0019",
+      "difficulty": "medium",
+      "question": "Which brand's Birkin is named for the actress?",
+      "correctAnswer": "Herm?s",
+      "wrongAnswers": [
+        "Chanel",
+        "Goyard",
+        "Loewe"
+      ]
+    },
+    {
+      "id": "fashion_0020",
+      "difficulty": "medium",
+      "question": "Who designed Lady Gaga's meat dress?",
+      "correctAnswer": "Franc Fernandez",
+      "wrongAnswers": [
+        "Jean Paul Gaultier",
+        "Gareth Pugh",
+        "Bea ?kerlund"
+      ]
+    },
+    {
+      "id": "fashion_0021",
+      "difficulty": "medium",
+      "question": "Whose runway show closed with a robotic spray-paint dress?",
+      "correctAnswer": "Alexander McQueen (Spring 1999)",
+      "wrongAnswers": [
+        "John Galliano",
+        "Hussein Chalayan",
+        "Issey Miyake"
+      ]
+    },
+    {
+      "id": "fashion_0022",
+      "difficulty": "medium",
+      "question": "Who designed Beyonc?'s 2016 Lemonade yellow dress?",
+      "correctAnswer": "Roberto Cavalli",
+      "wrongAnswers": [
         "Versace",
-        "Chanel"
+        "Schiaparelli",
+        "Pucci"
       ]
     },
     {
-      "id": "fashion_030",
-      "difficulty": "hard",
-      "question": "Which fashion term refers to a designer's main seasonal show?",
-      "correctAnswer": "Runway show",
-      "wrongAnswers": [
-        "Lookbook",
-        "Collection drop",
-        "Launch"
-      ]
-    },
-    {
-      "id": "fashion_031",
-      "difficulty": "easy",
-      "question": "Which brand is known for luxury handbags like the Birkin?",
-      "correctAnswer": "Hermes",
-      "wrongAnswers": [
-        "Chanel",
-        "Gucci",
-        "Prada"
-      ]
-    },
-    {
-      "id": "fashion_032",
-      "difficulty": "easy",
-      "question": "Which celebrity is known for bold avant-garde fashion?",
-      "correctAnswer": "Lady Gaga",
-      "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Ariana Grande"
-      ]
-    },
-    {
-      "id": "fashion_033",
+      "id": "fashion_0023",
       "difficulty": "medium",
-      "question": "Which fashion capital is known for haute couture?",
-      "correctAnswer": "Paris",
+      "question": "Which designer's 'Skull' scarf is a 2003 mainstay?",
+      "correctAnswer": "Alexander McQueen",
       "wrongAnswers": [
-        "Milan",
-        "New York",
-        "London"
+        "Givenchy",
+        "Burberry",
+        "Pucci"
       ]
     },
     {
-      "id": "fashion_034",
+      "id": "fashion_0024",
       "difficulty": "medium",
-      "question": "Which fashion capital is known for luxury brands like Gucci and Prada?",
-      "correctAnswer": "Milan",
+      "question": "Who succeeded Karl Lagerfeld at Chanel?",
+      "correctAnswer": "Virginie Viard",
       "wrongAnswers": [
-        "Paris",
-        "London",
-        "New York"
+        "Hedi Slimane",
+        "Maria Grazia Chiuri",
+        "Olivier Rousteing"
       ]
     },
     {
-      "id": "fashion_035",
+      "id": "fashion_0025",
       "difficulty": "medium",
-      "question": "Which fashion capital is known for streetwear and modern fashion?",
-      "correctAnswer": "New York",
+      "question": "Which 2018 Met Gala theme drew Catholic-themed looks?",
+      "correctAnswer": "Heavenly Bodies",
       "wrongAnswers": [
-        "Paris",
-        "Milan",
-        "London"
+        "Camp",
+        "China: Through the Looking Glass",
+        "Notes on Fashion"
       ]
     },
     {
-      "id": "fashion_036",
+      "id": "fashion_0026",
       "difficulty": "hard",
-      "question": "Which designer brand is known for bold logos and hype culture?",
-      "correctAnswer": "Supreme",
+      "question": "Which couture house has the Tambour Spin Time watch?",
+      "correctAnswer": "Louis Vuitton",
       "wrongAnswers": [
-        "Chanel",
-        "Prada",
-        "Gucci"
+        "Herm?s",
+        "Cartier",
+        "Bvlgari"
       ]
     },
     {
-      "id": "fashion_037",
+      "id": "fashion_0027",
       "difficulty": "hard",
-      "question": "Which model is known for pioneering diversity in runway shows?",
-      "correctAnswer": "Naomi Campbell",
+      "question": "Which French Vogue editor was famous for 'Carine'?",
+      "correctAnswer": "Carine Roitfeld",
       "wrongAnswers": [
-        "Kendall Jenner",
-        "Gigi Hadid",
-        "Bella Hadid"
+        "Emmanuelle Alt",
+        "Anna Dello Russo",
+        "Suzy Menkes"
       ]
     },
     {
-      "id": "fashion_038",
-      "difficulty": "easy",
-      "question": "Which event showcases celebrity red carpet fashion annually?",
-      "correctAnswer": "Met Gala",
-      "wrongAnswers": [
-        "Oscars",
-        "Grammys",
-        "Cannes"
-      ]
-    },
-    {
-      "id": "fashion_039",
-      "difficulty": "medium",
-      "question": "Which term refers to custom-fitted high-end fashion?",
-      "correctAnswer": "Haute couture",
-      "wrongAnswers": [
-        "Pret-a-porter",
-        "Streetwear",
-        "Fast fashion"
-      ]
-    },
-    {
-      "id": "fashion_040",
+      "id": "fashion_0028",
       "difficulty": "hard",
-      "question": "Which designer is known for dramatic black silhouettes and avant-garde style?",
-      "correctAnswer": "Rick Owens",
+      "question": "Who designed the 'Chador' dress for Hussein Chalayan F/W 1998?",
+      "correctAnswer": "Hussein Chalayan",
       "wrongAnswers": [
-        "Tom Ford",
-        "Marc Jacobs",
-        "Alexander Wang"
+        "Comme des Gar?ons",
+        "Yohji Yamamoto",
+        "Issey Miyake"
+      ]
+    },
+    {
+      "id": "fashion_0029",
+      "difficulty": "hard",
+      "question": "Which designer's 'Bumster' jeans were a 1996 highlight?",
+      "correctAnswer": "Alexander McQueen",
+      "wrongAnswers": [
+        "John Galliano",
+        "Vivienne Westwood",
+        "Helmut Lang"
+      ]
+    },
+    {
+      "id": "fashion_0030",
+      "difficulty": "hard",
+      "question": "Who founded Comme des Gar?ons in 1969?",
+      "correctAnswer": "Rei Kawakubo",
+      "wrongAnswers": [
+        "Yohji Yamamoto",
+        "Issey Miyake",
+        "Junya Watanabe"
       ]
     }
   ]
