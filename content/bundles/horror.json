@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "horror_001",
+      "id": "horror_0001",
       "difficulty": "easy",
-      "question": "Finish the quote: \"Here's ____\"",
-      "correctAnswer": "Johnny",
-      "wrongAnswers": [
-        "Mikey",
-        "Freddy",
-        "Billy"
-      ]
-    },
-    {
-      "id": "horror_002",
-      "difficulty": "easy",
-      "question": "Which movie features a killer in a ghostface mask?",
-      "correctAnswer": "Scream",
-      "wrongAnswers": [
-        "Halloween",
-        "Saw",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_003",
-      "difficulty": "easy",
-      "question": "Which movie features a possessed doll named Chucky?",
-      "correctAnswer": "Child's Play",
-      "wrongAnswers": [
-        "Annabelle",
-        "The Conjuring",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_004",
-      "difficulty": "easy",
-      "question": "Which movie features the clown Pennywise?",
-      "correctAnswer": "It",
-      "wrongAnswers": [
-        "Saw",
-        "Halloween",
-        "The Nun"
-      ]
-    },
-    {
-      "id": "horror_005",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"Do you like ____ movies?\"",
-      "correctAnswer": "Scary",
-      "wrongAnswers": [
-        "Funny",
-        "Action",
-        "Love"
-      ]
-    },
-    {
-      "id": "horror_006",
-      "difficulty": "easy",
-      "question": "Which movie features Michael Myers?",
+      "question": "Which 1978 film features Michael Myers?",
       "correctAnswer": "Halloween",
       "wrongAnswers": [
-        "Scream",
-        "Saw",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_007",
-      "difficulty": "easy",
-      "question": "Which movie features Jigsaw traps?",
-      "correctAnswer": "Saw",
-      "wrongAnswers": [
-        "Hostel",
-        "Scream",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_008",
-      "difficulty": "easy",
-      "question": "Which movie features a haunted videotape curse?",
-      "correctAnswer": "The Ring",
-      "wrongAnswers": [
-        "The Grudge",
-        "It Follows",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_009",
-      "difficulty": "easy",
-      "question": "Which movie features a demonic nun?",
-      "correctAnswer": "The Nun",
-      "wrongAnswers": [
-        "Annabelle",
-        "The Conjuring",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_010",
-      "difficulty": "easy",
-      "question": "Which movie features a haunted doll named Annabelle?",
-      "correctAnswer": "Annabelle",
-      "wrongAnswers": [
-        "Child's Play",
-        "The Nun",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_011",
-      "difficulty": "medium",
-      "question": "Which movie features a family trapped in a haunted hotel?",
-      "correctAnswer": "The Shining",
-      "wrongAnswers": [
-        "Insidious",
-        "The Conjuring",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_012",
-      "difficulty": "medium",
-      "question": "Which movie features a demon named Pazuzu?",
-      "correctAnswer": "The Exorcist",
-      "wrongAnswers": [
-        "The Conjuring",
-        "Insidious",
-        "The Nun"
-      ]
-    },
-    {
-      "id": "horror_013",
-      "difficulty": "medium",
-      "question": "Which movie features a killer in dreams?",
-      "correctAnswer": "A Nightmare on Elm Street",
-      "wrongAnswers": [
-        "It",
-        "Scream",
-        "Saw"
-      ]
-    },
-    {
-      "id": "horror_014",
-      "difficulty": "medium",
-      "question": "Which movie features a cursed house investigated by paranormal experts?",
-      "correctAnswer": "The Conjuring",
-      "wrongAnswers": [
-        "Insidious",
-        "The Nun",
-        "Annabelle"
-      ]
-    },
-    {
-      "id": "horror_015",
-      "difficulty": "medium",
-      "question": "Which movie features teens hunted after passing a curse?",
-      "correctAnswer": "It Follows",
-      "wrongAnswers": [
-        "The Ring",
-        "The Grudge",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_016",
-      "difficulty": "medium",
-      "question": "Which movie features a group staying in a cabin with dark secrets?",
-      "correctAnswer": "Cabin in the Woods",
-      "wrongAnswers": [
-        "Evil Dead",
-        "It",
-        "Scream"
-      ]
-    },
-    {
-      "id": "horror_017",
-      "difficulty": "medium",
-      "question": "Which movie features a possessed girl levitating?",
-      "correctAnswer": "The Exorcist",
-      "wrongAnswers": [
-        "The Nun",
-        "Insidious",
-        "The Conjuring"
-      ]
-    },
-    {
-      "id": "horror_018",
-      "difficulty": "medium",
-      "question": "Which movie features a deadly escape room concept?",
-      "correctAnswer": "Saw",
-      "wrongAnswers": [
-        "Cube",
-        "Escape Room",
-        "Scream"
-      ]
-    },
-    {
-      "id": "horror_019",
-      "difficulty": "medium",
-      "question": "Which movie features a masked killer targeting teens?",
-      "correctAnswer": "Halloween",
-      "wrongAnswers": [
-        "Scream",
         "Friday the 13th",
-        "It"
+        "Black Christmas",
+        "The Shining"
       ]
     },
     {
-      "id": "horror_020",
-      "difficulty": "medium",
-      "question": "Finish the quote: \"We all float ____\"",
-      "correctAnswer": "Down here",
+      "id": "horror_0002",
+      "difficulty": "easy",
+      "question": "Who is the killer in Friday the 13th (1980)?",
+      "correctAnswer": "Pamela Voorhees",
       "wrongAnswers": [
-        "Together",
-        "In here",
-        "Forever"
+        "Jason Voorhees",
+        "Michael Myers",
+        "Freddy Krueger"
       ]
     },
     {
-      "id": "horror_021",
-      "difficulty": "hard",
-      "question": "Which movie features a videotape causing death after 7 days?",
-      "correctAnswer": "The Ring",
+      "id": "horror_0003",
+      "difficulty": "easy",
+      "question": "Which 1973 film features Regan and the demon Pazuzu?",
+      "correctAnswer": "The Exorcist",
       "wrongAnswers": [
-        "The Grudge",
-        "It Follows",
-        "Insidious"
+        "The Omen",
+        "Rosemary's Baby",
+        "Carrie"
       ]
     },
     {
-      "id": "horror_022",
-      "difficulty": "hard",
-      "question": "Which movie features a cursed videotape girl crawling from a TV?",
-      "correctAnswer": "The Ring",
+      "id": "horror_0004",
+      "difficulty": "easy",
+      "question": "Who directed Get Out (2017)?",
+      "correctAnswer": "Jordan Peele",
       "wrongAnswers": [
-        "The Grudge",
-        "Insidious",
-        "The Nun"
+        "Ari Aster",
+        "Robert Eggers",
+        "Mike Flanagan"
       ]
     },
     {
-      "id": "horror_023",
-      "difficulty": "hard",
-      "question": "Which movie features a demon haunting dreams via sleep paralysis?",
-      "correctAnswer": "Insidious",
+      "id": "horror_0005",
+      "difficulty": "easy",
+      "question": "What's the iconic line in The Shining?",
+      "correctAnswer": "Here's Johnny!",
       "wrongAnswers": [
-        "The Conjuring",
-        "The Nun",
-        "It"
+        "Redrum",
+        "Come play with us",
+        "All work and no play"
       ]
     },
     {
-      "id": "horror_024",
-      "difficulty": "hard",
-      "question": "Which movie features a haunted family with a clap game?",
-      "correctAnswer": "The Conjuring",
+      "id": "horror_0006",
+      "difficulty": "easy",
+      "question": "Which clown is in It (Stephen King)?",
+      "correctAnswer": "Pennywise",
       "wrongAnswers": [
-        "Insidious",
-        "The Nun",
-        "Annabelle"
+        "Twisty",
+        "Killer Klown",
+        "Joker"
       ]
     },
     {
-      "id": "horror_025",
-      "difficulty": "hard",
-      "question": "Which movie features a killer using traps to test morality?",
-      "correctAnswer": "Saw",
-      "wrongAnswers": [
-        "Hostel",
-        "Scream",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_026",
-      "difficulty": "hard",
-      "question": "Which movie features a demon disguised as a nun?",
-      "correctAnswer": "The Nun",
-      "wrongAnswers": [
-        "The Conjuring",
-        "Annabelle",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_027",
-      "difficulty": "hard",
-      "question": "Which movie features a cursed mirror causing madness?",
-      "correctAnswer": "Oculus",
-      "wrongAnswers": [
-        "The Ring",
-        "The Grudge",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_028",
-      "difficulty": "hard",
-      "question": "Which movie features possession linked to a music box?",
-      "correctAnswer": "The Conjuring",
-      "wrongAnswers": [
-        "Annabelle",
-        "Insidious",
-        "The Nun"
-      ]
-    },
-    {
-      "id": "horror_029",
-      "difficulty": "hard",
-      "question": "Which movie features a masked killer asking trivia questions?",
+      "id": "horror_0007",
+      "difficulty": "easy",
+      "question": "Which 1996 film features Ghostface?",
       "correctAnswer": "Scream",
       "wrongAnswers": [
-        "Halloween",
-        "Saw",
-        "It"
+        "I Know What You Did Last Summer",
+        "The Faculty",
+        "Final Destination"
       ]
     },
     {
-      "id": "horror_030",
-      "difficulty": "hard",
-      "question": "Which movie features survivors hunted at a summer camp?",
-      "correctAnswer": "Friday the 13th",
-      "wrongAnswers": [
-        "Halloween",
-        "Scream",
-        "It"
-      ]
-    },
-    {
-      "id": "horror_031",
+      "id": "horror_0008",
       "difficulty": "easy",
-      "question": "Which movie features Jason Voorhees?",
-      "correctAnswer": "Friday the 13th",
+      "question": "Who plays Carrie in the 1976 original?",
+      "correctAnswer": "Sissy Spacek",
       "wrongAnswers": [
-        "Halloween",
-        "Scream",
-        "It"
+        "Jodie Foster",
+        "Jamie Lee Curtis",
+        "Linda Blair"
       ]
     },
     {
-      "id": "horror_032",
+      "id": "horror_0009",
       "difficulty": "easy",
-      "question": "Which movie features a haunted house with paranormal investigators?",
-      "correctAnswer": "The Conjuring",
+      "question": "Which 1968 film features Rosemary?",
+      "correctAnswer": "Rosemary's Baby",
       "wrongAnswers": [
-        "Insidious",
-        "The Nun",
-        "Annabelle"
+        "The Birds",
+        "The Omen",
+        "Don't Look Now"
       ]
     },
     {
-      "id": "horror_033",
-      "difficulty": "medium",
-      "question": "Which movie features a cursed videotape passed between victims?",
-      "correctAnswer": "The Ring",
+      "id": "horror_0010",
+      "difficulty": "easy",
+      "question": "Which 2018 film won Toni Collette acclaim?",
+      "correctAnswer": "Hereditary",
       "wrongAnswers": [
-        "The Grudge",
-        "Insidious",
-        "The Nun"
+        "Midsommar",
+        "The Witch",
+        "It Follows"
       ]
     },
     {
-      "id": "horror_034",
-      "difficulty": "medium",
-      "question": "Which movie features a demon hunting via dreams?",
-      "correctAnswer": "Nightmare on Elm Street",
+      "id": "horror_0011",
+      "difficulty": "easy",
+      "question": "Which Stephen King book features twins?",
+      "correctAnswer": "The Shining (the Grady twins)",
       "wrongAnswers": [
-        "It",
-        "Scream",
-        "Saw"
+        "IT (the Losers)",
+        "Pet Sematary",
+        "Misery"
       ]
     },
     {
-      "id": "horror_035",
-      "difficulty": "medium",
-      "question": "Which movie features a haunted doll causing chaos?",
+      "id": "horror_0012",
+      "difficulty": "easy",
+      "question": "Which 1979 film tagline is 'In space no one can hear you scream'?",
+      "correctAnswer": "Alien",
+      "wrongAnswers": [
+        "The Thing",
+        "Aliens",
+        "Predator"
+      ]
+    },
+    {
+      "id": "horror_0013",
+      "difficulty": "easy",
+      "question": "Which doll is the Conjuring Universe's mascot?",
       "correctAnswer": "Annabelle",
       "wrongAnswers": [
-        "Child's Play",
-        "The Nun",
-        "Insidious"
+        "Chucky",
+        "Brahms",
+        "M3GAN"
       ]
     },
     {
-      "id": "horror_036",
-      "difficulty": "hard",
-      "question": "Which movie features a cursed videotape countdown concept?",
-      "correctAnswer": "The Ring",
-      "wrongAnswers": [
-        "The Grudge",
-        "It Follows",
-        "Insidious"
-      ]
-    },
-    {
-      "id": "horror_037",
-      "difficulty": "hard",
-      "question": "Which movie features a family isolated in a snowy hotel?",
+      "id": "horror_0014",
+      "difficulty": "easy",
+      "question": "Which 1981 film stars an ax-wielding ghost?",
       "correctAnswer": "The Shining",
       "wrongAnswers": [
-        "The Conjuring",
-        "Insidious",
-        "The Nun"
+        "The Amityville Horror",
+        "Poltergeist",
+        "An American Werewolf in London"
       ]
     },
     {
-      "id": "horror_038",
+      "id": "horror_0015",
       "difficulty": "easy",
-      "question": "Which movie features a killer clown?",
-      "correctAnswer": "It",
+      "question": "Which 2014 film features the Babadook?",
+      "correctAnswer": "The Babadook",
       "wrongAnswers": [
-        "The Ring",
-        "Scream",
-        "Halloween"
+        "It Follows",
+        "The Witch",
+        "Goodnight Mommy"
       ]
     },
     {
-      "id": "horror_039",
+      "id": "horror_0016",
       "difficulty": "medium",
-      "question": "Which movie features a haunted family moving into a cursed house?",
-      "correctAnswer": "The Conjuring",
+      "question": "Who composed the Halloween (1978) score?",
+      "correctAnswer": "John Carpenter",
       "wrongAnswers": [
-        "Insidious",
-        "The Nun",
-        "Annabelle"
+        "Bernard Herrmann",
+        "Goblin",
+        "Wendy Carlos"
       ]
     },
     {
-      "id": "horror_040",
-      "difficulty": "hard",
-      "question": "Which movie features a supernatural entity following victims relentlessly?",
+      "id": "horror_0017",
+      "difficulty": "medium",
+      "question": "Which 1922 film is the original vampire silent classic?",
+      "correctAnswer": "Nosferatu",
+      "wrongAnswers": [
+        "Dracula",
+        "The Cabinet of Dr. Caligari",
+        "Vampyr"
+      ]
+    },
+    {
+      "id": "horror_0018",
+      "difficulty": "medium",
+      "question": "Which 2014 film by Jennifer Kent features a children's book monster?",
+      "correctAnswer": "The Babadook",
+      "wrongAnswers": [
+        "The Witch",
+        "Goodnight Mommy",
+        "It Follows"
+      ]
+    },
+    {
+      "id": "horror_0019",
+      "difficulty": "medium",
+      "question": "Which Italian giallo director made Suspiria (1977)?",
+      "correctAnswer": "Dario Argento",
+      "wrongAnswers": [
+        "Mario Bava",
+        "Lucio Fulci",
+        "Luigi Cozzi"
+      ]
+    },
+    {
+      "id": "horror_0020",
+      "difficulty": "medium",
+      "question": "Who wrote Frankenstein (1818)?",
+      "correctAnswer": "Mary Shelley",
+      "wrongAnswers": [
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "Robert Louis Stevenson"
+      ]
+    },
+    {
+      "id": "horror_0021",
+      "difficulty": "medium",
+      "question": "Which 2019 film features a malevolent sun cult?",
+      "correctAnswer": "Midsommar",
+      "wrongAnswers": [
+        "The Witch",
+        "Hereditary",
+        "Antichrist"
+      ]
+    },
+    {
+      "id": "horror_0022",
+      "difficulty": "medium",
+      "question": "Which 2014 indie features a sexually-transmitted curse?",
       "correctAnswer": "It Follows",
       "wrongAnswers": [
-        "The Ring",
-        "The Grudge",
-        "Insidious"
+        "The Babadook",
+        "Sinister",
+        "Oculus"
+      ]
+    },
+    {
+      "id": "horror_0023",
+      "difficulty": "medium",
+      "question": "Who shot The Witch (2015)?",
+      "correctAnswer": "Jarin Blaschke",
+      "wrongAnswers": [
+        "Mike Gioulakis",
+        "Lol Crawley",
+        "Robbie Ryan"
+      ]
+    },
+    {
+      "id": "horror_0024",
+      "difficulty": "medium",
+      "question": "Which 1980 film features the Overlook Hotel?",
+      "correctAnswer": "The Shining",
+      "wrongAnswers": [
+        "The Amityville Horror",
+        "Halloween II",
+        "Friday the 13th"
+      ]
+    },
+    {
+      "id": "horror_0025",
+      "difficulty": "medium",
+      "question": "Which 1976 Brian De Palma film opens with shower-room torment?",
+      "correctAnswer": "Carrie",
+      "wrongAnswers": [
+        "Dressed to Kill",
+        "Sisters",
+        "The Fury"
+      ]
+    },
+    {
+      "id": "horror_0026",
+      "difficulty": "hard",
+      "question": "Who composed the Suspiria (1977) score?",
+      "correctAnswer": "Goblin",
+      "wrongAnswers": [
+        "Ennio Morricone",
+        "John Carpenter",
+        "Disasterpeace"
+      ]
+    },
+    {
+      "id": "horror_0027",
+      "difficulty": "hard",
+      "question": "Who edited Texas Chain Saw Massacre (1974)?",
+      "correctAnswer": "J. Larry Carroll",
+      "wrongAnswers": [
+        "Sally Menke",
+        "Walter Murch",
+        "Verna Fields"
+      ]
+    },
+    {
+      "id": "horror_0028",
+      "difficulty": "hard",
+      "question": "Who directed The Wicker Man (1973, original)?",
+      "correctAnswer": "Robin Hardy",
+      "wrongAnswers": [
+        "Donald Cammell",
+        "Nicolas Roeg",
+        "Ken Russell"
+      ]
+    },
+    {
+      "id": "horror_0029",
+      "difficulty": "hard",
+      "question": "Who did Rick Baker design werewolf effects for in An American Werewolf in London (1981)?",
+      "correctAnswer": "John Landis",
+      "wrongAnswers": [
+        "Joe Dante",
+        "Stuart Gordon",
+        "Wes Craven"
+      ]
+    },
+    {
+      "id": "horror_0030",
+      "difficulty": "hard",
+      "question": "Who composed Hereditary's score?",
+      "correctAnswer": "Colin Stetson",
+      "wrongAnswers": [
+        "Mica Levi",
+        "Jonny Greenwood",
+        "Disasterpeace"
       ]
     }
   ]
