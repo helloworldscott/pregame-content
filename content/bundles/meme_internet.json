@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "memes_001",
+      "id": "meme_internet_0001",
       "difficulty": "easy",
-      "question": "Finish the meme phrase: \"It's me ____\"",
-      "correctAnswer": "Hi",
+      "question": "What does 'LOL' stand for?",
+      "correctAnswer": "Laughing Out Loud",
       "wrongAnswers": [
-        "Hello",
-        "Again",
-        "Back"
+        "Lots Of Love",
+        "Lift Or Lay",
+        "Lap Of Lounging"
       ]
     },
     {
-      "id": "memes_002",
+      "id": "meme_internet_0002",
       "difficulty": "easy",
-      "question": "What does \"LOL\" stand for?",
-      "correctAnswer": "Laugh Out Loud",
+      "question": "What does 'TBH' mean?",
+      "correctAnswer": "To Be Honest",
       "wrongAnswers": [
-        "Lot of Love",
-        "Live Online Laugh",
-        "Long Old Laugh"
+        "To Be Heard",
+        "To Bring Hope",
+        "Take Back Home"
       ]
     },
     {
-      "id": "memes_003",
+      "id": "meme_internet_0003",
       "difficulty": "easy",
-      "question": "What does \"BRB\" mean?",
-      "correctAnswer": "Be Right Back",
+      "question": "Which meme features the phrase 'Distracted boyfriend'?",
+      "correctAnswer": "Stock photo of 3 people",
       "wrongAnswers": [
-        "Bring Right Back",
-        "Be Ready Bro",
-        "Break Right Now"
+        "Bernie sitting",
+        "Pepe",
+        "Doge"
       ]
     },
     {
-      "id": "memes_004",
+      "id": "meme_internet_0004",
       "difficulty": "easy",
-      "question": "What does \"viral\" mean online?",
-      "correctAnswer": "Spreads quickly",
+      "question": "Who created the 'Dat Boi' meme?",
+      "correctAnswer": "Anonymous Tumblr user",
       "wrongAnswers": [
-        "Gets deleted",
-        "Becomes private",
-        "Stops working"
+        "Pewdiepie",
+        "Filthy Frank",
+        "Shane Dawson"
       ]
     },
     {
-      "id": "memes_005",
+      "id": "meme_internet_0005",
       "difficulty": "easy",
-      "question": "Finish the meme: \"This is fine\" refers to?",
-      "correctAnswer": "A burning room",
+      "question": "Which 2007 video became 'Charlie Bit My Finger'?",
+      "correctAnswer": "Brothers in UK home video",
       "wrongAnswers": [
-        "A party",
-        "A happy place",
-        "A quiet room"
+        "YouTube prank",
+        "Vine sketch",
+        "America's Funniest Home Videos"
       ]
     },
     {
-      "id": "memes_006",
+      "id": "meme_internet_0006",
       "difficulty": "easy",
-      "question": "What platform popularized short viral dances?",
-      "correctAnswer": "TikTok",
+      "question": "What's the 'Ice Bucket Challenge' for?",
+      "correctAnswer": "ALS awareness/fundraising",
       "wrongAnswers": [
-        "Facebook",
-        "LinkedIn",
-        "Reddit"
+        "Cancer research",
+        "Mental health",
+        "Climate change"
       ]
     },
     {
-      "id": "memes_007",
+      "id": "meme_internet_0007",
       "difficulty": "easy",
-      "question": "What does \"DM\" mean?",
-      "correctAnswer": "Direct Message",
+      "question": "What 2015 dress meme split the internet?",
+      "correctAnswer": "The Dress (blue/black or white/gold)",
       "wrongAnswers": [
-        "Delete Message",
-        "Digital Mode",
-        "Daily Message"
+        "The Llama Drama",
+        "Pizza Rat",
+        "Chewbacca Mom"
       ]
     },
     {
-      "id": "memes_008",
+      "id": "meme_internet_0008",
       "difficulty": "easy",
-      "question": "Finish the meme: \"Nobody: ____\"",
-      "correctAnswer": "Silence",
+      "question": "Which 2020 meme involved Bernie Sanders sitting at the inauguration?",
+      "correctAnswer": "Bernie mittens meme",
       "wrongAnswers": [
-        "Everyone",
-        "Me",
-        "Something"
+        "Bernie typing",
+        "Bernie shrug",
+        "Bernie pointing"
       ]
     },
     {
-      "id": "memes_009",
+      "id": "meme_internet_0009",
       "difficulty": "easy",
-      "question": "What does \"FOMO\" mean?",
-      "correctAnswer": "Fear Of Missing Out",
+      "question": "What does 'NPC' stand for as slang?",
+      "correctAnswer": "Non-Playable Character",
       "wrongAnswers": [
-        "Feeling Of More Options",
-        "Fun Online Mode",
-        "Fast Online Movement"
+        "No Personal Capacity",
+        "New Public Channel",
+        "No Phone Calls"
       ]
     },
     {
-      "id": "memes_010",
+      "id": "meme_internet_0010",
       "difficulty": "easy",
-      "question": "What does \"meme\" refer to?",
-      "correctAnswer": "Funny viral content",
-      "wrongAnswers": [
-        "Music file",
-        "Game mode",
-        "Chat room"
-      ]
-    },
-    {
-      "id": "memes_011",
-      "difficulty": "medium",
-      "question": "What does \"GOAT\" mean?",
-      "correctAnswer": "Greatest Of All Time",
-      "wrongAnswers": [
-        "Go Over A Thing",
-        "Game Of All Time",
-        "Group Of All Teams"
-      ]
-    },
-    {
-      "id": "memes_012",
-      "difficulty": "medium",
-      "question": "What does \"sus\" mean?",
+      "question": "What does 'sus' mean?",
       "correctAnswer": "Suspicious",
       "wrongAnswers": [
-        "Serious",
-        "Smart",
-        "Silent"
+        "Sustainable",
+        "Successful",
+        "Sustained"
       ]
     },
     {
-      "id": "memes_013",
-      "difficulty": "medium",
-      "question": "What does \"cap\" mean?",
-      "correctAnswer": "Lie",
-      "wrongAnswers": [
-        "Truth",
-        "Story",
-        "Game"
-      ]
-    },
-    {
-      "id": "memes_014",
-      "difficulty": "medium",
-      "question": "What does \"no cap\" mean?",
-      "correctAnswer": "No lie",
-      "wrongAnswers": [
-        "No hat",
-        "No stop",
-        "No game"
-      ]
-    },
-    {
-      "id": "memes_015",
-      "difficulty": "medium",
-      "question": "What does \"ratio\" mean online?",
-      "correctAnswer": "More replies than likes",
-      "wrongAnswers": [
-        "More likes than views",
-        "Delete post",
-        "Follow someone"
-      ]
-    },
-    {
-      "id": "memes_016",
-      "difficulty": "medium",
-      "question": "What does \"stan\" mean?",
-      "correctAnswer": "Obsessive fan",
-      "wrongAnswers": [
-        "Hater",
-        "Singer",
-        "Dancer"
-      ]
-    },
-    {
-      "id": "memes_017",
-      "difficulty": "medium",
-      "question": "What does \"main character energy\" mean?",
-      "correctAnswer": "Confident presence",
-      "wrongAnswers": [
-        "Background role",
-        "Sad mood",
-        "Quiet person"
-      ]
-    },
-    {
-      "id": "memes_018",
-      "difficulty": "medium",
-      "question": "What does \"it's giving\" mean?",
-      "correctAnswer": "Describing vibe",
-      "wrongAnswers": [
-        "Ending convo",
-        "Rejecting someone",
-        "Singing loudly"
-      ]
-    },
-    {
-      "id": "memes_019",
-      "difficulty": "medium",
-      "question": "What does \"ate\" mean in slang?",
-      "correctAnswer": "Did very well",
-      "wrongAnswers": [
-        "Failed",
-        "Sang loudly",
-        "Danced poorly"
-      ]
-    },
-    {
-      "id": "memes_020",
-      "difficulty": "medium",
-      "question": "What does \"mid\" mean?",
-      "correctAnswer": "Average",
-      "wrongAnswers": [
-        "Bad",
-        "Great",
-        "Fast"
-      ]
-    },
-    {
-      "id": "memes_021",
-      "difficulty": "hard",
-      "question": "What does \"chronically online\" mean?",
-      "correctAnswer": "Always online",
-      "wrongAnswers": [
-        "Rarely online",
-        "Offline often",
-        "No internet"
-      ]
-    },
-    {
-      "id": "memes_022",
-      "difficulty": "hard",
-      "question": "What does \"touch grass\" mean?",
-      "correctAnswer": "Go outside",
-      "wrongAnswers": [
-        "Stay inside",
-        "Play game",
-        "Sleep more"
-      ]
-    },
-    {
-      "id": "memes_023",
-      "difficulty": "hard",
-      "question": "What does \"NPC energy\" mean?",
-      "correctAnswer": "Acting basic",
-      "wrongAnswers": [
-        "Very smart",
-        "Creative",
-        "Funny"
-      ]
-    },
-    {
-      "id": "memes_024",
-      "difficulty": "hard",
-      "question": "What does \"delulu\" mean?",
-      "correctAnswer": "Delusional",
-      "wrongAnswers": [
-        "Smart",
-        "Funny",
-        "Fast"
-      ]
-    },
-    {
-      "id": "memes_025",
-      "difficulty": "hard",
-      "question": "What does \"rizz\" mean?",
-      "correctAnswer": "Charm",
-      "wrongAnswers": [
-        "Anger",
-        "Sadness",
-        "Speed"
-      ]
-    },
-    {
-      "id": "memes_026",
-      "difficulty": "hard",
-      "question": "What does \"based\" mean?",
-      "correctAnswer": "Agreeable opinion",
-      "wrongAnswers": [
-        "Bad opinion",
-        "Funny moment",
-        "Random post"
-      ]
-    },
-    {
-      "id": "memes_027",
-      "difficulty": "hard",
-      "question": "What does \"simp\" mean?",
-      "correctAnswer": "Overly devoted person",
-      "wrongAnswers": [
-        "Smart person",
-        "Funny person",
-        "Fast person"
-      ]
-    },
-    {
-      "id": "memes_028",
-      "difficulty": "hard",
-      "question": "What does \"doomscrolling\" mean?",
-      "correctAnswer": "Endless scrolling",
-      "wrongAnswers": [
-        "Sleeping",
-        "Watching TV",
-        "Playing games"
-      ]
-    },
-    {
-      "id": "memes_029",
-      "difficulty": "hard",
-      "question": "What does \"ratioed\" mean?",
-      "correctAnswer": "Outnumbered replies",
-      "wrongAnswers": [
-        "Deleted post",
-        "Trending post",
-        "Blocked user"
-      ]
-    },
-    {
-      "id": "memes_030",
-      "difficulty": "hard",
-      "question": "What does \"vibe check\" mean?",
-      "correctAnswer": "Assess mood",
-      "wrongAnswers": [
-        "Check time",
-        "Sing loudly",
-        "Dance move"
-      ]
-    },
-    {
-      "id": "memes_031",
+      "id": "meme_internet_0011",
       "difficulty": "easy",
-      "question": "What does \"viral video\" mean?",
-      "correctAnswer": "Popular video",
+      "question": "Who's the 'Hide the Pain Harold' actual person?",
+      "correctAnswer": "Andr?s Arat?",
       "wrongAnswers": [
-        "Deleted video",
-        "Private video",
-        "Old video"
+        "Wojak",
+        "Pepe",
+        "Bad Luck Brian"
       ]
     },
     {
-      "id": "memes_032",
+      "id": "meme_internet_0012",
       "difficulty": "easy",
-      "question": "What does \"GIF\" refer to?",
-      "correctAnswer": "Animated image",
+      "question": "Which 2004 Tina Fey film features the character Karen Smith?",
+      "correctAnswer": "Mean Girls",
       "wrongAnswers": [
-        "Photo file",
-        "Video game",
-        "Chat app"
+        "Bring It On",
+        "Heathers",
+        "Clueless"
       ]
     },
     {
-      "id": "memes_033",
-      "difficulty": "medium",
-      "question": "What does \"trend\" mean online?",
-      "correctAnswer": "Popular topic",
-      "wrongAnswers": [
-        "Old topic",
-        "Private topic",
-        "Deleted topic"
-      ]
-    },
-    {
-      "id": "memes_034",
-      "difficulty": "medium",
-      "question": "What does \"hashtag\" do?",
-      "correctAnswer": "Categorizes content",
-      "wrongAnswers": [
-        "Deletes post",
-        "Blocks user",
-        "Sends message"
-      ]
-    },
-    {
-      "id": "memes_035",
-      "difficulty": "medium",
-      "question": "What does \"streamer\" refer to?",
-      "correctAnswer": "Online broadcaster",
-      "wrongAnswers": [
-        "Singer",
-        "Actor",
-        "Dancer"
-      ]
-    },
-    {
-      "id": "memes_036",
-      "difficulty": "hard",
-      "question": "What does \"algorithm\" control?",
-      "correctAnswer": "Content visibility",
-      "wrongAnswers": [
-        "User login",
-        "Music playback",
-        "Game speed"
-      ]
-    },
-    {
-      "id": "memes_037",
-      "difficulty": "hard",
-      "question": "What does \"shadowban\" mean?",
-      "correctAnswer": "Hidden content",
-      "wrongAnswers": [
-        "Deleted account",
-        "Blocked user",
-        "Private profile"
-      ]
-    },
-    {
-      "id": "memes_038",
+      "id": "meme_internet_0013",
       "difficulty": "easy",
-      "question": "What does \"comment section\" refer to?",
-      "correctAnswer": "User replies",
+      "question": "What's a 'gif'?",
+      "correctAnswer": "Graphics Interchange Format animation",
       "wrongAnswers": [
-        "Main post",
-        "Profile page",
-        "Inbox"
+        "Generic Image File",
+        "Graphic Imaging Form",
+        "Group Image File"
       ]
     },
     {
-      "id": "memes_039",
+      "id": "meme_internet_0014",
+      "difficulty": "easy",
+      "question": "Which video game spawned 'Doge'?",
+      "correctAnswer": "(not from a game ? a real Shiba Inu photo)",
+      "wrongAnswers": [
+        "Pok?mon",
+        "Super Mario",
+        "Animal Crossing"
+      ]
+    },
+    {
+      "id": "meme_internet_0015",
+      "difficulty": "easy",
+      "question": "What does 'AMA' stand for?",
+      "correctAnswer": "Ask Me Anything",
+      "wrongAnswers": [
+        "All My Answers",
+        "Always Make Affordable",
+        "About My Area"
+      ]
+    },
+    {
+      "id": "meme_internet_0016",
       "difficulty": "medium",
-      "question": "What does \"engagement\" mean online?",
-      "correctAnswer": "Interaction level",
+      "question": "What was Vine?",
+      "correctAnswer": "6-second video app (2013-2017)",
       "wrongAnswers": [
-        "Delete rate",
-        "Speed",
-        "Sound"
+        "A music streaming service",
+        "A photo grid",
+        "A poetry blog"
       ]
     },
     {
-      "id": "memes_040",
-      "difficulty": "hard",
-      "question": "What does \"going viral\" usually result in?",
-      "correctAnswer": "Mass exposure",
+      "id": "meme_internet_0017",
+      "difficulty": "medium",
+      "question": "Who created Pepe the Frog?",
+      "correctAnswer": "Matt Furie",
       "wrongAnswers": [
-        "Account deletion",
-        "Private mode",
-        "No views"
+        "Matt Stone",
+        "Trey Parker",
+        "Mike Judge"
+      ]
+    },
+    {
+      "id": "meme_internet_0018",
+      "difficulty": "medium",
+      "question": "Who designed the 'troll face'?",
+      "correctAnswer": "Whynne (Carlos Ramirez)",
+      "wrongAnswers": [
+        "Pewdiepie",
+        "Steve from Reddit",
+        "An anonymous 4chan user"
+      ]
+    },
+    {
+      "id": "meme_internet_0019",
+      "difficulty": "medium",
+      "question": "What is 'rickrolling'?",
+      "correctAnswer": "Bait-link to Rick Astley's Never Gonna Give You Up",
+      "wrongAnswers": [
+        "Cooking with rice",
+        "A specific dance",
+        "A YouTube ad"
+      ]
+    },
+    {
+      "id": "meme_internet_0020",
+      "difficulty": "medium",
+      "question": "What was 'Numa Numa' (2004)?",
+      "correctAnswer": "Gary Brolsma's webcam video",
+      "wrongAnswers": [
+        "Romanian song",
+        "Both",
+        "A Vine"
+      ]
+    },
+    {
+      "id": "meme_internet_0021",
+      "difficulty": "medium",
+      "question": "Which platform popularized 'OK Boomer' (2019)?",
+      "correctAnswer": "TikTok",
+      "wrongAnswers": [
+        "Twitter",
+        "Reddit",
+        "Instagram"
+      ]
+    },
+    {
+      "id": "meme_internet_0022",
+      "difficulty": "medium",
+      "question": "Who's the Doge dog?",
+      "correctAnswer": "Kabosu (Shiba Inu)",
+      "wrongAnswers": [
+        "Shibi",
+        "Ein",
+        "Bingo"
+      ]
+    },
+    {
+      "id": "meme_internet_0023",
+      "difficulty": "medium",
+      "question": "What's a 'main character' moment?",
+      "correctAnswer": "Acting as if life is centered on you",
+      "wrongAnswers": [
+        "Being voted prom king",
+        "Hosting a show",
+        "Being a celebrity"
+      ]
+    },
+    {
+      "id": "meme_internet_0024",
+      "difficulty": "medium",
+      "question": "Who coined 'on fleek' (2014)?",
+      "correctAnswer": "Kayla Newman (Peaches Monroee)",
+      "wrongAnswers": [
+        "Iggy Azalea",
+        "Cardi B",
+        "Yung Miami"
+      ]
+    },
+    {
+      "id": "meme_internet_0025",
+      "difficulty": "medium",
+      "question": "What does 'TFW' mean?",
+      "correctAnswer": "That Feeling When",
+      "wrongAnswers": [
+        "The Final Word",
+        "To Forward With",
+        "True Family Wisdom"
+      ]
+    },
+    {
+      "id": "meme_internet_0026",
+      "difficulty": "hard",
+      "question": "Who created the Wojak character?",
+      "correctAnswer": "An anonymous Polish 4chan user",
+      "wrongAnswers": [
+        "Matt Furie",
+        "Andy Warhol",
+        "Carlos Ramirez"
+      ]
+    },
+    {
+      "id": "meme_internet_0027",
+      "difficulty": "hard",
+      "question": "Which 2003 site coined the LOLcat format?",
+      "correctAnswer": "Cheezburger (later)",
+      "wrongAnswers": [
+        "LiveJournal",
+        "MySpace",
+        "Friendster"
+      ]
+    },
+    {
+      "id": "meme_internet_0028",
+      "difficulty": "hard",
+      "question": "Which 2019 Storm Area 51 meme inspired a Lil Nas X video?",
+      "correctAnswer": "Storm Area 51, They Can't Stop All of Us",
+      "wrongAnswers": [
+        "Egg Photo Day",
+        "Bird Box Challenge",
+        "10-Year Challenge"
+      ]
+    },
+    {
+      "id": "meme_internet_0029",
+      "difficulty": "hard",
+      "question": "Which Taylor Swift folklore track inspired a TikTok crying-meme trend?",
+      "correctAnswer": "this is me trying",
+      "wrongAnswers": [
+        "cardigan",
+        "exile",
+        "august"
+      ]
+    },
+    {
+      "id": "meme_internet_0030",
+      "difficulty": "hard",
+      "question": "Who shot the 'Distracted Boyfriend' stock photo?",
+      "correctAnswer": "Antonio Guillem",
+      "wrongAnswers": [
+        "Getty Images staff",
+        "Shutterstock house team",
+        "Adobe Stock contributor"
       ]
     }
   ]
