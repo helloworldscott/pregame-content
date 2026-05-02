@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "miley_001",
+      "id": "miley_cyrus_0001",
       "difficulty": "easy",
-      "question": "Which Disney show made Miley Cyrus famous?",
+      "question": "What was Miley's Disney show?",
       "correctAnswer": "Hannah Montana",
       "wrongAnswers": [
         "Wizards of Waverly Place",
-        "Sonny with a Chance",
+        "Sonny With a Chance",
         "That's So Raven"
       ]
     },
     {
-      "id": "miley_002",
+      "id": "miley_cyrus_0002",
       "difficulty": "easy",
-      "question": "What was Miley?s character?s pop star name on TV?",
-      "correctAnswer": "Hannah Montana",
+      "question": "Who is Miley's father?",
+      "correctAnswer": "Billy Ray Cyrus",
       "wrongAnswers": [
-        "Alex Russo",
-        "Sonny Munroe",
-        "Raven Baxter"
+        "Brad Pitt",
+        "Vince Vaughn",
+        "Wynonna Judd's brother"
       ]
     },
     {
-      "id": "miley_003",
+      "id": "miley_cyrus_0003",
       "difficulty": "easy",
-      "question": "Which Miley song features a wrecking ball?",
+      "question": "Which 2013 Miley song features a wrecking ball?",
       "correctAnswer": "Wrecking Ball",
       "wrongAnswers": [
         "We Can't Stop",
-        "Malibu",
-        "Flowers"
+        "Adore You",
+        "Adore"
       ]
     },
     {
-      "id": "miley_004",
+      "id": "miley_cyrus_0004",
       "difficulty": "easy",
-      "question": "Which Miley song includes the lyric ?I can buy myself flowers??",
-      "correctAnswer": "Flowers",
+      "question": "Which 2013 album includes 'We Can't Stop'?",
+      "correctAnswer": "Bangerz",
       "wrongAnswers": [
-        "Malibu",
-        "Midnight Sky",
-        "Party in the USA"
+        "Younger Now",
+        "Plastic Hearts",
+        "Endless Summer Vacation"
       ]
     },
     {
-      "id": "miley_005",
+      "id": "miley_cyrus_0005",
       "difficulty": "easy",
-      "question": "Which Miley song is about partying in LA?",
-      "correctAnswer": "Party in the USA",
+      "question": "Whose 2014 movie was 'LOL'?",
+      "correctAnswer": "Miley Cyrus",
       "wrongAnswers": [
-        "Malibu",
-        "Can't Be Tamed",
-        "7 Things"
+        "Selena Gomez",
+        "Vanessa Hudgens",
+        "Demi Lovato"
       ]
     },
     {
-      "id": "miley_006",
+      "id": "miley_cyrus_0006",
       "difficulty": "easy",
-      "question": "Which Miley song features the lyric ?It's our party we can do what we want??",
-      "correctAnswer": "We Can't Stop",
-      "wrongAnswers": [
-        "Wrecking Ball",
-        "Malibu",
-        "Midnight Sky"
-      ]
-    },
-    {
-      "id": "miley_007",
-      "difficulty": "easy",
-      "question": "Which Miley song has a country-pop beach vibe?",
+      "question": "Which 2017 Miley song was a country pivot?",
       "correctAnswer": "Malibu",
       "wrongAnswers": [
-        "Flowers",
-        "Midnight Sky",
+        "Mother's Daughter",
+        "Plastic Hearts",
         "Slide Away"
       ]
     },
     {
-      "id": "miley_008",
+      "id": "miley_cyrus_0007",
       "difficulty": "easy",
-      "question": "Which Miley song references independence after a breakup?",
-      "correctAnswer": "Flowers",
+      "question": "Which 2023 Grammy did Miley win?",
+      "correctAnswer": "Record of the Year for 'Flowers'",
       "wrongAnswers": [
-        "Wrecking Ball",
-        "Malibu",
-        "7 Things"
+        "Album of the Year",
+        "Best New Artist",
+        "Song of the Year"
       ]
     },
     {
-      "id": "miley_009",
+      "id": "miley_cyrus_0008",
       "difficulty": "easy",
-      "question": "Which Miley song features a disco-inspired sound?",
-      "correctAnswer": "Midnight Sky",
+      "question": "Which Disney movie hosted Hannah Montana on the big screen?",
+      "correctAnswer": "Hannah Montana: The Movie (2009)",
       "wrongAnswers": [
-        "Malibu",
-        "We Can't Stop",
-        "Slide Away"
+        "Wizards of Waverly Place: The Movie",
+        "Camp Rock",
+        "High School Musical 3"
       ]
     },
     {
-      "id": "miley_010",
+      "id": "miley_cyrus_0009",
       "difficulty": "easy",
-      "question": "Which Miley song is about a toxic relationship with a list format?",
-      "correctAnswer": "7 Things",
+      "question": "Whose 2015 album is 'Miley Cyrus & Her Dead Petz'?",
+      "correctAnswer": "Miley Cyrus",
       "wrongAnswers": [
-        "Wrecking Ball",
-        "Malibu",
-        "Flowers"
+        "Wayne Coyne",
+        "Justin Bieber",
+        "Lana Del Rey"
       ]
     },
     {
-      "id": "miley_011",
-      "difficulty": "medium",
-      "question": "Which album includes ?Wrecking Ball??",
-      "correctAnswer": "Bangerz",
-      "wrongAnswers": [
-        "Plastic Hearts",
-        "Younger Now",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_012",
-      "difficulty": "medium",
-      "question": "Which album includes ?Flowers??",
-      "correctAnswer": "Endless Summer Vacation",
-      "wrongAnswers": [
-        "Plastic Hearts",
-        "Bangerz",
-        "Younger Now"
-      ]
-    },
-    {
-      "id": "miley_013",
-      "difficulty": "medium",
-      "question": "Which album includes ?Malibu??",
-      "correctAnswer": "Younger Now",
-      "wrongAnswers": [
-        "Bangerz",
-        "Plastic Hearts",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_014",
-      "difficulty": "medium",
-      "question": "Which Miley era featured a major image shift and controversy?",
-      "correctAnswer": "Bangerz era",
-      "wrongAnswers": [
-        "Hannah Montana era",
-        "Younger Now era",
-        "Plastic Hearts era"
-      ]
-    },
-    {
-      "id": "miley_015",
-      "difficulty": "medium",
-      "question": "Which Miley song includes the lyric ?I came in like a wrecking ball??",
-      "correctAnswer": "Wrecking Ball",
-      "wrongAnswers": [
-        "We Can't Stop",
-        "Malibu",
-        "Slide Away"
-      ]
-    },
-    {
-      "id": "miley_016",
-      "difficulty": "medium",
-      "question": "Which Miley album has a rock-inspired sound?",
+      "id": "miley_cyrus_0010",
+      "difficulty": "easy",
+      "question": "Which 2020 Miley album includes 'Midnight Sky'?",
       "correctAnswer": "Plastic Hearts",
       "wrongAnswers": [
-        "Bangerz",
         "Younger Now",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_017",
-      "difficulty": "medium",
-      "question": "Which Miley song reflects on leaving a relationship?",
-      "correctAnswer": "Slide Away",
-      "wrongAnswers": [
-        "Flowers",
-        "Malibu",
-        "Wrecking Ball"
-      ]
-    },
-    {
-      "id": "miley_018",
-      "difficulty": "medium",
-      "question": "Which Miley song references dancing all night?",
-      "correctAnswer": "Party in the USA",
-      "wrongAnswers": [
-        "Malibu",
-        "Flowers",
-        "Midnight Sky"
-      ]
-    },
-    {
-      "id": "miley_019",
-      "difficulty": "medium",
-      "question": "Which Miley song has a rebellious party theme?",
-      "correctAnswer": "We Can't Stop",
-      "wrongAnswers": [
-        "Malibu",
-        "Flowers",
-        "7 Things"
-      ]
-    },
-    {
-      "id": "miley_020",
-      "difficulty": "medium",
-      "question": "Which Miley song has lyrics about buying your own things?",
-      "correctAnswer": "Flowers",
-      "wrongAnswers": [
-        "Malibu",
-        "Wrecking Ball",
-        "Slide Away"
-      ]
-    },
-    {
-      "id": "miley_021",
-      "difficulty": "hard",
-      "question": "Which Miley album marked her Disney transition into adulthood?",
-      "correctAnswer": "Bangerz",
-      "wrongAnswers": [
-        "Younger Now",
-        "Plastic Hearts",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_022",
-      "difficulty": "hard",
-      "question": "Which Miley album has a strong glam rock influence?",
-      "correctAnswer": "Plastic Hearts",
-      "wrongAnswers": [
-        "Bangerz",
-        "Younger Now",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_023",
-      "difficulty": "hard",
-      "question": "Which Miley song includes the lyric ?I never meant to start a war??",
-      "correctAnswer": "Wrecking Ball",
-      "wrongAnswers": [
-        "Slide Away",
-        "Malibu",
-        "Flowers"
-      ]
-    },
-    {
-      "id": "miley_024",
-      "difficulty": "hard",
-      "question": "Which Miley album includes ?Midnight Sky??",
-      "correctAnswer": "Plastic Hearts",
-      "wrongAnswers": [
         "Endless Summer Vacation",
-        "Bangerz",
-        "Younger Now"
+        "Bangerz"
       ]
     },
     {
-      "id": "miley_025",
-      "difficulty": "hard",
-      "question": "Which Miley song references California lifestyle?",
-      "correctAnswer": "Malibu",
-      "wrongAnswers": [
-        "Flowers",
-        "Slide Away",
-        "Party in the USA"
-      ]
-    },
-    {
-      "id": "miley_026",
-      "difficulty": "hard",
-      "question": "Which Miley era returned to country influences?",
-      "correctAnswer": "Younger Now",
-      "wrongAnswers": [
-        "Bangerz",
-        "Plastic Hearts",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_027",
-      "difficulty": "hard",
-      "question": "Which Miley song features a slow emotional breakup tone?",
-      "correctAnswer": "Slide Away",
-      "wrongAnswers": [
-        "Flowers",
-        "Malibu",
-        "Wrecking Ball"
-      ]
-    },
-    {
-      "id": "miley_028",
-      "difficulty": "hard",
-      "question": "Which Miley album includes ?We Can't Stop??",
-      "correctAnswer": "Bangerz",
-      "wrongAnswers": [
-        "Plastic Hearts",
-        "Younger Now",
-        "Endless Summer Vacation"
-      ]
-    },
-    {
-      "id": "miley_029",
-      "difficulty": "hard",
-      "question": "Which Miley song includes a list of things she hates?",
-      "correctAnswer": "7 Things",
-      "wrongAnswers": [
-        "Malibu",
-        "Flowers",
-        "Slide Away"
-      ]
-    },
-    {
-      "id": "miley_030",
-      "difficulty": "hard",
-      "question": "Which Miley song features disco-pop production?",
-      "correctAnswer": "Midnight Sky",
-      "wrongAnswers": [
-        "Malibu",
-        "Flowers",
-        "Slide Away"
-      ]
-    },
-    {
-      "id": "miley_031",
+      "id": "miley_cyrus_0011",
       "difficulty": "easy",
-      "question": "Which Miley song is about self-love after heartbreak?",
+      "question": "Which Miley song begins 'I can buy myself flowers'?",
       "correctAnswer": "Flowers",
       "wrongAnswers": [
-        "Malibu",
-        "Wrecking Ball",
-        "Slide Away"
+        "Used to Be Young",
+        "River",
+        "Jaded"
       ]
     },
     {
-      "id": "miley_032",
+      "id": "miley_cyrus_0012",
       "difficulty": "easy",
-      "question": "Which Miley song includes the lyric ?Hands up??",
-      "correctAnswer": "Party in the USA",
+      "question": "Which singer is Miley's godmother?",
+      "correctAnswer": "Dolly Parton",
       "wrongAnswers": [
+        "Reba McEntire",
+        "Tanya Tucker",
+        "Wynonna Judd"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0013",
+      "difficulty": "easy",
+      "question": "Which Miley video features her riding a hot dog through the sky?",
+      "correctAnswer": "Mother's Daughter",
+      "wrongAnswers": [
+        "Wrecking Ball",
         "Malibu",
-        "Flowers",
         "Midnight Sky"
       ]
     },
     {
-      "id": "miley_033",
+      "id": "miley_cyrus_0014",
+      "difficulty": "easy",
+      "question": "Which 2009 hit's lyric is 'I'm gonna shake my hips'?",
+      "correctAnswer": "Party in the U.S.A.",
+      "wrongAnswers": [
+        "See You Again",
+        "7 Things",
+        "Best of Both Worlds"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0015",
+      "difficulty": "easy",
+      "question": "Whose 2019 EP is 'She Is Coming'?",
+      "correctAnswer": "Miley Cyrus",
+      "wrongAnswers": [
+        "Demi Lovato",
+        "Rita Ora",
+        "Halsey"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0016",
       "difficulty": "medium",
-      "question": "Which Miley song features a stripped-down beach aesthetic?",
-      "correctAnswer": "Malibu",
+      "question": "Who produced 'Wrecking Ball' (2013)?",
+      "correctAnswer": "Dr. Luke",
       "wrongAnswers": [
-        "Flowers",
-        "Slide Away",
-        "Wrecking Ball"
+        "Mike Will Made-It",
+        "Pharrell",
+        "Diplo"
       ]
     },
     {
-      "id": "miley_034",
+      "id": "miley_cyrus_0017",
       "difficulty": "medium",
-      "question": "Which Miley song includes a strong emotional vocal performance?",
-      "correctAnswer": "Wrecking Ball",
+      "question": "Who hosted SNL with Miley as the musical guest in 2017?",
+      "correctAnswer": "Miley as both host and musical guest (Sept 2017)",
       "wrongAnswers": [
-        "Flowers",
-        "Malibu",
-        "Slide Away"
+        "Tina Fey",
+        "Maya Rudolph",
+        "Kate McKinnon"
       ]
     },
     {
-      "id": "miley_035",
+      "id": "miley_cyrus_0018",
       "difficulty": "medium",
-      "question": "Which Miley album includes ?Slide Away??",
-      "correctAnswer": "Single release",
+      "question": "Which 2010 Miley song was 'Can't Be Tamed'?",
+      "correctAnswer": "Can't Be Tamed",
       "wrongAnswers": [
-        "Plastic Hearts",
-        "Bangerz",
-        "Endless Summer Vacation"
+        "Party in the USA",
+        "When I Look At You",
+        "7 Things"
       ]
     },
     {
-      "id": "miley_036",
-      "difficulty": "hard",
-      "question": "Which Miley era featured bold",
-      "correctAnswer": "rebellious visuals and performances?",
+      "id": "miley_cyrus_0019",
+      "difficulty": "medium",
+      "question": "Which artist remixed 'Midnight Sky' with Miley as 'Edge of Midnight'?",
+      "correctAnswer": "Stevie Nicks",
       "wrongAnswers": [
-        "Bangerz era",
-        "Hannah Montana era",
-        "Younger Now era"
+        "Joan Jett",
+        "Madonna",
+        "Debbie Harry"
       ]
     },
     {
-      "id": "miley_037",
-      "difficulty": "hard",
-      "question": "Which Miley album includes ?Flowers? and ?River??",
+      "id": "miley_cyrus_0020",
+      "difficulty": "medium",
+      "question": "Which 2015 VMA was she host of?",
+      "correctAnswer": "MTV VMAs 2015",
+      "wrongAnswers": [
+        "VMAs 2013",
+        "VMAs 2017",
+        "VMAs 2019"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0021",
+      "difficulty": "medium",
+      "question": "Which Miley single features Future and Mike Will Made-It?",
+      "correctAnswer": "23",
+      "wrongAnswers": [
+        "We Can't Stop",
+        "Adore You",
+        "FU"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0022",
+      "difficulty": "medium",
+      "question": "Who played Lilly Truscott on Hannah Montana?",
+      "correctAnswer": "Emily Osment",
+      "wrongAnswers": [
+        "Selena Gomez",
+        "Demi Lovato",
+        "Mitchel Musso"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0023",
+      "difficulty": "medium",
+      "question": "Which 2023 album includes 'Flowers'?",
       "correctAnswer": "Endless Summer Vacation",
       "wrongAnswers": [
         "Plastic Hearts",
+        "Younger Now",
+        "Bangerz"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0024",
+      "difficulty": "medium",
+      "question": "Which 2017 album features 'Malibu'?",
+      "correctAnswer": "Younger Now",
+      "wrongAnswers": [
+        "Plastic Hearts",
         "Bangerz",
-        "Younger Now"
+        "Endless Summer Vacation"
       ]
     },
     {
-      "id": "miley_038",
-      "difficulty": "hard",
-      "question": "Which Miley song includes a narrative of emotional release?",
-      "correctAnswer": "Wrecking Ball",
+      "id": "miley_cyrus_0025",
+      "difficulty": "medium",
+      "question": "Who duetted with Miley on the 2013 VMAs 'Blurred Lines' performance?",
+      "correctAnswer": "Robin Thicke",
       "wrongAnswers": [
-        "Malibu",
-        "Flowers",
-        "Slide Away"
+        "Pharrell",
+        "T.I.",
+        "Justin Timberlake"
       ]
     },
     {
-      "id": "miley_039",
+      "id": "miley_cyrus_0026",
       "difficulty": "hard",
-      "question": "Which Miley song has strong country-pop crossover roots?",
-      "correctAnswer": "Malibu",
+      "question": "Who edited the 'Wrecking Ball' video?",
+      "correctAnswer": "Eric Holland (Director Terry Richardson)",
       "wrongAnswers": [
-        "Flowers",
-        "Slide Away",
-        "Midnight Sky"
+        "Glen Echo",
+        "Spike Jonze",
+        "Mark Romanek"
       ]
     },
     {
-      "id": "miley_040",
+      "id": "miley_cyrus_0027",
       "difficulty": "hard",
-      "question": "Which Miley era mixes rock",
-      "correctAnswer": "glam",
+      "question": "Whose 2021 cover of 'Heart of Glass' (Blondie) was a viral hit?",
+      "correctAnswer": "Miley Cyrus",
       "wrongAnswers": [
-        "and pop influences?",
-        "Plastic Hearts era",
-        "Bangerz era"
+        "Hayley Williams",
+        "Olivia Rodrigo",
+        "St. Vincent"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0028",
+      "difficulty": "hard",
+      "question": "Which 2014 EP was 'Bangerz Tour'... wait ? pick the right one",
+      "correctAnswer": "Bangerz Tour live recordings",
+      "wrongAnswers": [
+        "Cyrus Skies",
+        "Bangerz Live",
+        "Younger Now Live"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0029",
+      "difficulty": "hard",
+      "question": "Who co-wrote 'Flowers' with Miley?",
+      "correctAnswer": "Gregory Hein, Michael Pollack",
+      "wrongAnswers": [
+        "Mike Will Made-It alone",
+        "Dr. Luke",
+        "Andrew Wyatt"
+      ]
+    },
+    {
+      "id": "miley_cyrus_0030",
+      "difficulty": "hard",
+      "question": "Which Miley album includes the song 'Mother's Daughter'?",
+      "correctAnswer": "She Is Coming",
+      "wrongAnswers": [
+        "Plastic Hearts",
+        "Younger Now",
+        "Bangerz"
       ]
     }
   ]
