@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "movies_001",
+      "id": "movies_0001",
       "difficulty": "easy",
-      "question": "Finish the quote: \"On Wednesdays we wear ____\"",
-      "correctAnswer": "Pink",
-      "wrongAnswers": [
-        "Black",
-        "Heels",
-        "Glitter"
-      ]
-    },
-    {
-      "id": "movies_002",
-      "difficulty": "easy",
-      "question": "Which movie features the character Elle Woods?",
-      "correctAnswer": "Legally Blonde",
-      "wrongAnswers": [
-        "Clueless",
-        "Mean Girls",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_003",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"That's hot ____\"",
-      "correctAnswer": "Girl",
-      "wrongAnswers": [
-        "Stuff",
-        "Energy",
-        "Look"
-      ]
-    },
-    {
-      "id": "movies_004",
-      "difficulty": "easy",
-      "question": "Which movie features the song \"Shallow\"?",
-      "correctAnswer": "A Star Is Born",
+      "question": "Which 2017 film won Best Picture?",
+      "correctAnswer": "Moonlight",
       "wrongAnswers": [
         "La La Land",
-        "Mamma Mia",
-        "The Greatest Showman"
+        "Manchester by the Sea",
+        "Hidden Figures"
       ]
     },
     {
-      "id": "movies_005",
+      "id": "movies_0002",
       "difficulty": "easy",
-      "question": "Which movie features the Plastics?",
-      "correctAnswer": "Mean Girls",
+      "question": "Who directed Pulp Fiction (1994)?",
+      "correctAnswer": "Quentin Tarantino",
       "wrongAnswers": [
-        "Clueless",
-        "Heathers",
-        "Easy A"
+        "Martin Scorsese",
+        "David Fincher",
+        "Spike Lee"
       ]
     },
     {
-      "id": "movies_006",
+      "id": "movies_0003",
       "difficulty": "easy",
-      "question": "Finish the quote: \"You go Glen ____\"",
-      "correctAnswer": "Coco",
+      "question": "Which actor plays the Joker in The Dark Knight (2008)?",
+      "correctAnswer": "Heath Ledger",
       "wrongAnswers": [
-        "Queen",
-        "Star",
-        "Babe"
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
       ]
     },
     {
-      "id": "movies_007",
+      "id": "movies_0004",
       "difficulty": "easy",
-      "question": "Which movie features Regina George?",
-      "correctAnswer": "Mean Girls",
+      "question": "Which 1993 film features a T. rex?",
+      "correctAnswer": "Jurassic Park",
       "wrongAnswers": [
-        "Clueless",
-        "Heathers",
-        "Easy A"
+        "Godzilla",
+        "Jurassic World",
+        "King Kong"
       ]
     },
     {
-      "id": "movies_008",
+      "id": "movies_0005",
       "difficulty": "easy",
-      "question": "Which movie is set around ABBA songs?",
-      "correctAnswer": "Mamma Mia!",
+      "question": "Who directed Lost in Translation (2003)?",
+      "correctAnswer": "Sofia Coppola",
       "wrongAnswers": [
-        "La La Land",
-        "Chicago",
-        "Burlesque"
+        "Wes Anderson",
+        "Spike Jonze",
+        "Greta Gerwig"
       ]
     },
     {
-      "id": "movies_009",
+      "id": "movies_0006",
       "difficulty": "easy",
-      "question": "Which movie features Cher Horowitz?",
-      "correctAnswer": "Clueless",
+      "question": "Which 1972 film opens with a wedding?",
+      "correctAnswer": "The Godfather",
       "wrongAnswers": [
-        "Mean Girls",
-        "Legally Blonde",
-        "Easy A"
+        "The French Connection",
+        "Cabaret",
+        "Deliverance"
       ]
     },
     {
-      "id": "movies_010",
+      "id": "movies_0007",
       "difficulty": "easy",
-      "question": "Finish the quote: \"I'm not like a regular mom",
-      "correctAnswer": "I'm a ____ mom\"",
+      "question": "Who directed Get Out (2017)?",
+      "correctAnswer": "Jordan Peele",
       "wrongAnswers": [
-        "Cool",
-        "Hot",
-        "Fun"
+        "Spike Lee",
+        "Steve McQueen",
+        "Barry Jenkins"
       ]
     },
     {
-      "id": "movies_011",
-      "difficulty": "medium",
-      "question": "Which movie features a pink dress court scene?",
-      "correctAnswer": "Legally Blonde",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_012",
-      "difficulty": "medium",
-      "question": "Which movie includes the \"Burn Book\"?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Clueless",
-        "Heathers",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_013",
-      "difficulty": "medium",
-      "question": "Which movie features the line \"You can't sit with us\"?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_014",
-      "difficulty": "medium",
-      "question": "Which movie features a makeover montage in a high school?",
-      "correctAnswer": "Clueless",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Easy A",
-        "Legally Blonde"
-      ]
-    },
-    {
-      "id": "movies_015",
-      "difficulty": "medium",
-      "question": "Which movie features a musical number on a boat in Greece?",
-      "correctAnswer": "Mamma Mia!",
-      "wrongAnswers": [
-        "Chicago",
-        "Burlesque",
-        "La La Land"
-      ]
-    },
-    {
-      "id": "movies_016",
-      "difficulty": "medium",
-      "question": "Which movie features a fake relationship turning real?",
-      "correctAnswer": "To All The Boys",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_017",
-      "difficulty": "medium",
-      "question": "Which movie features a school gossip blog?",
-      "correctAnswer": "Easy A",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_018",
-      "difficulty": "medium",
-      "question": "Which movie includes a pink convertible car?",
-      "correctAnswer": "Clueless",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Legally Blonde",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_019",
-      "difficulty": "medium",
-      "question": "Which movie includes a dramatic prom scene?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Legally Blonde"
-      ]
-    },
-    {
-      "id": "movies_020",
-      "difficulty": "medium",
-      "question": "Which movie features a diary-style narration?",
-      "correctAnswer": "Easy A",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_021",
-      "difficulty": "hard",
-      "question": "Which movie features the character Veronica Sawyer?",
-      "correctAnswer": "Heathers",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_022",
-      "difficulty": "hard",
-      "question": "Which movie includes the song \"Cell Block Tango\"?",
-      "correctAnswer": "Chicago",
-      "wrongAnswers": [
-        "Moulin Rouge",
-        "Burlesque",
-        "Mamma Mia"
-      ]
-    },
-    {
-      "id": "movies_023",
-      "difficulty": "hard",
-      "question": "Which movie features a high school revenge plot involving popularity?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Heathers",
-        "Clueless",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_024",
-      "difficulty": "hard",
-      "question": "Which movie includes a burlesque nightclub setting?",
-      "correctAnswer": "Burlesque",
-      "wrongAnswers": [
-        "Chicago",
-        "Moulin Rouge",
-        "La La Land"
-      ]
-    },
-    {
-      "id": "movies_025",
-      "difficulty": "hard",
-      "question": "Which movie features a journalist uncovering a fashion industry story?",
-      "correctAnswer": "The Devil Wears Prada",
-      "wrongAnswers": [
-        "Clueless",
-        "Mean Girls",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_026",
-      "difficulty": "hard",
-      "question": "Which movie includes a makeover into a ?popular girl? trope?",
-      "correctAnswer": "Clueless",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Easy A",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_027",
-      "difficulty": "hard",
-      "question": "Which movie features a toxic best friend dynamic in high school?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Legally Blonde"
-      ]
-    },
-    {
-      "id": "movies_028",
-      "difficulty": "hard",
-      "question": "Which movie includes a diary confession style storytelling?",
-      "correctAnswer": "Easy A",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_029",
-      "difficulty": "hard",
-      "question": "Which movie features a fashion magazine office setting?",
-      "correctAnswer": "The Devil Wears Prada",
-      "wrongAnswers": [
-        "Clueless",
-        "Mean Girls",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_030",
-      "difficulty": "hard",
-      "question": "Which movie includes a major glow-up storyline?",
-      "correctAnswer": "Clueless",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Easy A",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_031",
+      "id": "movies_0008",
       "difficulty": "easy",
-      "question": "Which movie features the phrase \"fetch\"?",
-      "correctAnswer": "Mean Girls",
+      "question": "Which film features Andy Dufresne and Red?",
+      "correctAnswer": "The Shawshank Redemption",
       "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Heathers"
+        "The Green Mile",
+        "Cool Hand Luke",
+        "American History X"
       ]
     },
     {
-      "id": "movies_032",
+      "id": "movies_0009",
       "difficulty": "easy",
-      "question": "Which movie features a law school setting?",
-      "correctAnswer": "Legally Blonde",
+      "question": "Who plays Ron Burgundy in Anchorman?",
+      "correctAnswer": "Will Ferrell",
       "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Easy A"
+        "Steve Carell",
+        "Paul Rudd",
+        "Vince Vaughn"
       ]
     },
     {
-      "id": "movies_033",
-      "difficulty": "medium",
-      "question": "Which movie includes a fashion makeover montage?",
-      "correctAnswer": "Clueless",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Easy A",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_034",
-      "difficulty": "medium",
-      "question": "Which movie includes a musical set in Paris?",
-      "correctAnswer": "Moulin Rouge",
-      "wrongAnswers": [
-        "Chicago",
-        "La La Land",
-        "Mamma Mia"
-      ]
-    },
-    {
-      "id": "movies_035",
-      "difficulty": "medium",
-      "question": "Which movie includes a gossip-fueled plotline?",
-      "correctAnswer": "Mean Girls",
-      "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Heathers"
-      ]
-    },
-    {
-      "id": "movies_036",
-      "difficulty": "hard",
-      "question": "Which movie features a satirical take on high school popularity?",
-      "correctAnswer": "Heathers",
-      "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_037",
-      "difficulty": "hard",
-      "question": "Which movie includes a workplace power dynamic in fashion?",
-      "correctAnswer": "The Devil Wears Prada",
-      "wrongAnswers": [
-        "Clueless",
-        "Mean Girls",
-        "Easy A"
-      ]
-    },
-    {
-      "id": "movies_038",
+      "id": "movies_0010",
       "difficulty": "easy",
-      "question": "Which movie features a cheerleader clique?",
-      "correctAnswer": "Mean Girls",
+      "question": "Who directed Parasite (2019)?",
+      "correctAnswer": "Bong Joon-ho",
       "wrongAnswers": [
-        "Clueless",
-        "Easy A",
-        "Heathers"
+        "Park Chan-wook",
+        "Hirokazu Kore-eda",
+        "Lee Chang-dong"
       ]
     },
     {
-      "id": "movies_039",
+      "id": "movies_0011",
+      "difficulty": "easy",
+      "question": "Which film features a kid declaring 'I see dead people'?",
+      "correctAnswer": "The Sixth Sense",
+      "wrongAnswers": [
+        "The Others",
+        "Signs",
+        "Unbreakable"
+      ]
+    },
+    {
+      "id": "movies_0012",
+      "difficulty": "easy",
+      "question": "Who directed Whiplash (2014)?",
+      "correctAnswer": "Damien Chazelle",
+      "wrongAnswers": [
+        "Jason Reitman",
+        "Bennett Miller",
+        "Alejandro I??rritu"
+      ]
+    },
+    {
+      "id": "movies_0013",
+      "difficulty": "easy",
+      "question": "Which 2020 film starred Frances McDormand as a nomad?",
+      "correctAnswer": "Nomadland",
+      "wrongAnswers": [
+        "The Father",
+        "Mank",
+        "Promising Young Woman"
+      ]
+    },
+    {
+      "id": "movies_0014",
+      "difficulty": "easy",
+      "question": "Who plays Forrest Gump?",
+      "correctAnswer": "Tom Hanks",
+      "wrongAnswers": [
+        "Robin Williams",
+        "Bill Murray",
+        "Kevin Costner"
+      ]
+    },
+    {
+      "id": "movies_0015",
+      "difficulty": "easy",
+      "question": "Which 1985 film features Marty McFly?",
+      "correctAnswer": "Back to the Future",
+      "wrongAnswers": [
+        "E.T.",
+        "Ghostbusters",
+        "Top Gun"
+      ]
+    },
+    {
+      "id": "movies_0016",
       "difficulty": "medium",
-      "question": "Which movie includes a viral school rumor storyline?",
-      "correctAnswer": "Easy A",
+      "question": "Which 2002 film stars Audrey Tautou as a Parisian waitress?",
+      "correctAnswer": "Am?lie",
       "wrongAnswers": [
-        "Mean Girls",
-        "Clueless",
-        "Heathers"
+        "The Triplets of Belleville",
+        "Chocolat",
+        "Like Water for Chocolate"
       ]
     },
     {
-      "id": "movies_040",
-      "difficulty": "hard",
-      "question": "Which movie includes a satirical fashion industry portrayal?",
-      "correctAnswer": "The Devil Wears Prada",
+      "id": "movies_0017",
+      "difficulty": "medium",
+      "question": "Who directed Pan's Labyrinth (2006)?",
+      "correctAnswer": "Guillermo del Toro",
       "wrongAnswers": [
-        "Clueless",
-        "Mean Girls",
-        "Easy A"
+        "Alfonso Cuar?n",
+        "Alejandro I??rritu",
+        "Robert Rodriguez"
+      ]
+    },
+    {
+      "id": "movies_0018",
+      "difficulty": "medium",
+      "question": "Which 1994 film features Mia Wallace?",
+      "correctAnswer": "Pulp Fiction",
+      "wrongAnswers": [
+        "Reservoir Dogs",
+        "Jackie Brown",
+        "Kill Bill"
+      ]
+    },
+    {
+      "id": "movies_0019",
+      "difficulty": "medium",
+      "question": "Who directed The Grand Budapest Hotel?",
+      "correctAnswer": "Wes Anderson",
+      "wrongAnswers": [
+        "Edgar Wright",
+        "Yorgos Lanthimos",
+        "Spike Jonze"
+      ]
+    },
+    {
+      "id": "movies_0020",
+      "difficulty": "medium",
+      "question": "Who directed Lady Bird (2017)?",
+      "correctAnswer": "Greta Gerwig",
+      "wrongAnswers": [
+        "Sofia Coppola",
+        "Lulu Wang",
+        "Chlo? Zhao"
+      ]
+    },
+    {
+      "id": "movies_0021",
+      "difficulty": "medium",
+      "question": "Which 2018 film won Best Cinematography for Cuar?n?",
+      "correctAnswer": "Roma",
+      "wrongAnswers": [
+        "Cold War",
+        "If Beale Street Could Talk",
+        "First Man"
+      ]
+    },
+    {
+      "id": "movies_0022",
+      "difficulty": "medium",
+      "question": "Which 1990 film starred Cher and Winona Ryder?",
+      "correctAnswer": "Mermaids",
+      "wrongAnswers": [
+        "Moonstruck",
+        "Mask",
+        "Suspect"
+      ]
+    },
+    {
+      "id": "movies_0023",
+      "difficulty": "medium",
+      "question": "Who plays Andy in The Devil Wears Prada (2006)?",
+      "correctAnswer": "Anne Hathaway",
+      "wrongAnswers": [
+        "Emily Blunt",
+        "Reese Witherspoon",
+        "Sandra Bullock"
+      ]
+    },
+    {
+      "id": "movies_0024",
+      "difficulty": "medium",
+      "question": "Which 1999 film directed by P.T. Anderson features 'Wise Up' montage?",
+      "correctAnswer": "Magnolia",
+      "wrongAnswers": [
+        "Boogie Nights",
+        "Punch-Drunk Love",
+        "There Will Be Blood"
+      ]
+    },
+    {
+      "id": "movies_0025",
+      "difficulty": "medium",
+      "question": "Who composed scores for both Eternal Sunshine and Up?",
+      "correctAnswer": "Michael Giacchino",
+      "wrongAnswers": [
+        "John Williams",
+        "Hans Zimmer",
+        "Alexandre Desplat"
+      ]
+    },
+    {
+      "id": "movies_0026",
+      "difficulty": "hard",
+      "question": "Who edited Bonnie and Clyde (1967), revolutionizing Hollywood?",
+      "correctAnswer": "Dede Allen",
+      "wrongAnswers": [
+        "Walter Murch",
+        "Thelma Schoonmaker",
+        "Verna Fields"
+      ]
+    },
+    {
+      "id": "movies_0027",
+      "difficulty": "hard",
+      "question": "Which 1975 film defines New Hollywood horror commerce?",
+      "correctAnswer": "Jaws",
+      "wrongAnswers": [
+        "The Exorcist",
+        "Halloween",
+        "Carrie"
+      ]
+    },
+    {
+      "id": "movies_0028",
+      "difficulty": "hard",
+      "question": "Who shot In the Mood for Love (2000)?",
+      "correctAnswer": "Christopher Doyle / Mark Lee Ping-Bing",
+      "wrongAnswers": [
+        "Hoyte van Hoytema",
+        "Roger Deakins",
+        "Janusz Kami?ski"
+      ]
+    },
+    {
+      "id": "movies_0029",
+      "difficulty": "hard",
+      "question": "Which Coen Brothers film won Best Picture (2007)?",
+      "correctAnswer": "No Country for Old Men",
+      "wrongAnswers": [
+        "Fargo",
+        "True Grit",
+        "A Serious Man"
+      ]
+    },
+    {
+      "id": "movies_0030",
+      "difficulty": "hard",
+      "question": "Who composed the score for Hereditary (2018)?",
+      "correctAnswer": "Colin Stetson",
+      "wrongAnswers": [
+        "Mica Levi",
+        "Jonny Greenwood",
+        "Disasterpeace"
       ]
     }
   ]
