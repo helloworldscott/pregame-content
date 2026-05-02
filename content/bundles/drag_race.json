@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "drag_001",
+      "id": "drag_race_0001",
       "difficulty": "easy",
-      "question": "Finish the phrase: \"If you can't love yourself how the hell you gonna love ____\"",
-      "correctAnswer": "Somebody else",
+      "question": "Who hosts RuPaul's Drag Race?",
+      "correctAnswer": "RuPaul",
       "wrongAnswers": [
-        "Yourself again",
-        "Another queen",
-        "Anybody else"
+        "Michelle Visage",
+        "Carson Kressley",
+        "Ross Mathews"
       ]
     },
     {
-      "id": "drag_002",
+      "id": "drag_race_0002",
       "difficulty": "easy",
-      "question": "What do queens say before lip syncing?",
-      "correctAnswer": "Shantay you stay",
+      "question": "Who won Drag Race Season 1?",
+      "correctAnswer": "BeBe Zahara Benet",
       "wrongAnswers": [
-        "Sashay away",
-        "Good luck",
-        "Let?s battle"
+        "Nina Flowers",
+        "Ongina",
+        "Shannel"
       ]
     },
     {
-      "id": "drag_003",
+      "id": "drag_race_0003",
       "difficulty": "easy",
-      "question": "What does \"Shantay you stay\" mean?",
-      "correctAnswer": "You are safe",
+      "question": "What does 'Sashay away' mean?",
+      "correctAnswer": "You're eliminated",
+      "wrongAnswers": [
+        "You're safe",
+        "You won the challenge",
+        "Lip sync time"
+      ]
+    },
+    {
+      "id": "drag_race_0004",
+      "difficulty": "easy",
+      "question": "What does 'Shantay you stay' mean?",
+      "correctAnswer": "You survive elimination",
       "wrongAnswers": [
         "You won",
-        "You go home",
-        "You return"
+        "You're safe before lipsync",
+        "You're crowned"
       ]
     },
     {
-      "id": "drag_004",
+      "id": "drag_race_0005",
       "difficulty": "easy",
-      "question": "What does \"Sashay away\" mean?",
-      "correctAnswer": "You are eliminated",
+      "question": "Who is the head judge alongside RuPaul?",
+      "correctAnswer": "Michelle Visage",
       "wrongAnswers": [
-        "You win",
-        "You advance",
-        "You perform again"
+        "Ross Mathews",
+        "Carson Kressley",
+        "Bianca Del Rio"
       ]
     },
     {
-      "id": "drag_005",
+      "id": "drag_race_0006",
       "difficulty": "easy",
-      "question": "What is the final challenge usually called?",
-      "correctAnswer": "Grand Finale",
+      "question": "Which queen is famous for 'Not today, Satan'?",
+      "correctAnswer": "Bianca Del Rio",
       "wrongAnswers": [
-        "Sing-off",
-        "Final Lip Sync",
-        "The Crown"
+        "Sharon Needles",
+        "Trinity the Tuck",
+        "Alaska"
       ]
     },
     {
-      "id": "drag_006",
+      "id": "drag_race_0007",
       "difficulty": "easy",
-      "question": "Which phrase signals the start of a lip sync?",
-      "correctAnswer": "Gentlemen start your engines",
+      "question": "Who won All Stars 2?",
+      "correctAnswer": "Alaska",
       "wrongAnswers": [
-        "Ladies this is your moment",
-        "Time to perform",
-        "Let?s go"
+        "Roxxxy Andrews",
+        "Detox",
+        "Katya"
       ]
     },
     {
-      "id": "drag_007",
+      "id": "drag_race_0008",
       "difficulty": "easy",
-      "question": "What does \"reading\" mean in drag culture?",
-      "correctAnswer": "Playful insults",
+      "question": "What's the show's rotating spinoff in the UK?",
+      "correctAnswer": "Drag Race UK",
       "wrongAnswers": [
-        "Compliments",
-        "Singing",
-        "Dancing"
+        "Drag Race Down Under",
+        "Drag Race Espa?a",
+        "Drag Race Holland"
       ]
     },
     {
-      "id": "drag_008",
+      "id": "drag_race_0009",
       "difficulty": "easy",
-      "question": "Which mini challenge involves insulting others?",
-      "correctAnswer": "Reading challenge",
+      "question": "Who's the resident pit-crew comedian on Untucked?",
+      "correctAnswer": "Jiggly Caliente (varies by season)",
       "wrongAnswers": [
-        "Snatch Game",
-        "Design challenge",
-        "Makeover"
+        "Carson Kressley",
+        "Ross Mathews",
+        "Brad Goreski"
       ]
     },
     {
-      "id": "drag_009",
+      "id": "drag_race_0010",
       "difficulty": "easy",
-      "question": "What is \"Snatch Game\" based on?",
-      "correctAnswer": "Celebrity impersonation",
+      "question": "Who is the Season 9 winner?",
+      "correctAnswer": "Sasha Velour",
       "wrongAnswers": [
-        "Stand-up comedy",
-        "Singing battle",
-        "Dance routine"
+        "Shea Coule?",
+        "Trinity Taylor",
+        "Peppermint"
       ]
     },
     {
-      "id": "drag_010",
+      "id": "drag_race_0011",
       "difficulty": "easy",
-      "question": "What does \"Werkroom\" refer to?",
-      "correctAnswer": "Backstage area",
+      "question": "Who hosted the Trixie & Katya Show on Viceland?",
+      "correctAnswer": "Trixie Mattel",
       "wrongAnswers": [
-        "Runway",
-        "Judges panel",
-        "Audience"
+        "Bianca Del Rio",
+        "Aquaria",
+        "Sasha Velour"
       ]
     },
     {
-      "id": "drag_011",
-      "difficulty": "medium",
-      "question": "Which challenge tests sewing/design skills?",
-      "correctAnswer": "Design challenge",
-      "wrongAnswers": [
-        "Snatch Game",
-        "Makeover",
-        "Lip sync"
-      ]
-    },
-    {
-      "id": "drag_012",
-      "difficulty": "medium",
-      "question": "What is the final lip sync often called?",
-      "correctAnswer": "Lip Sync for the Crown",
-      "wrongAnswers": [
-        "Battle Royale",
-        "Final Showdown",
-        "Ultimate Sync"
-      ]
-    },
-    {
-      "id": "drag_013",
-      "difficulty": "medium",
-      "question": "What is \"Untucked\"?",
-      "correctAnswer": "Behind-the-scenes show",
-      "wrongAnswers": [
-        "Final episode",
-        "Judging panel",
-        "Runway segment"
-      ]
-    },
-    {
-      "id": "drag_014",
-      "difficulty": "medium",
-      "question": "What is the runway theme?",
-      "correctAnswer": "Category for outfits",
-      "wrongAnswers": [
-        "Song choice",
-        "Challenge type",
-        "Judging criteria"
-      ]
-    },
-    {
-      "id": "drag_015",
-      "difficulty": "medium",
-      "question": "What is a \"double shantay\"?",
-      "correctAnswer": "Both queens stay",
-      "wrongAnswers": [
-        "Both eliminated",
-        "One returns",
-        "No winner"
-      ]
-    },
-    {
-      "id": "drag_016",
-      "difficulty": "medium",
-      "question": "What is a \"double sashay\"?",
-      "correctAnswer": "Both queens eliminated",
-      "wrongAnswers": [
-        "Both win",
-        "One returns",
-        "No challenge"
-      ]
-    },
-    {
-      "id": "drag_017",
-      "difficulty": "medium",
-      "question": "What does \"serving\" mean?",
-      "correctAnswer": "Delivering a strong look",
-      "wrongAnswers": [
-        "Failing challenge",
-        "Singing badly",
-        "Dancing poorly"
-      ]
-    },
-    {
-      "id": "drag_018",
-      "difficulty": "medium",
-      "question": "What does \"shade\" mean?",
-      "correctAnswer": "Subtle insult",
-      "wrongAnswers": [
-        "Compliment",
-        "Cheer",
-        "Singing"
-      ]
-    },
-    {
-      "id": "drag_019",
-      "difficulty": "medium",
-      "question": "What does \"trade\" mean in drag slang?",
-      "correctAnswer": "Attractive person",
-      "wrongAnswers": [
-        "Judge",
-        "Winner",
-        "Designer"
-      ]
-    },
-    {
-      "id": "drag_020",
-      "difficulty": "medium",
-      "question": "What is the purpose of Snatch Game?",
-      "correctAnswer": "Comedy impersonation",
-      "wrongAnswers": [
-        "Runway modeling",
-        "Singing",
-        "Dancing"
-      ]
-    },
-    {
-      "id": "drag_021",
-      "difficulty": "hard",
-      "question": "What is a \"lip sync assassin\"?",
-      "correctAnswer": "Strong lip sync performer",
-      "wrongAnswers": [
-        "Judge",
-        "Host",
-        "Designer"
-      ]
-    },
-    {
-      "id": "drag_022",
-      "difficulty": "hard",
-      "question": "What does \"death drop\" refer to?",
-      "correctAnswer": "Dramatic split move",
-      "wrongAnswers": [
-        "Exit stage",
-        "Singing note",
-        "Costume reveal"
-      ]
-    },
-    {
-      "id": "drag_023",
-      "difficulty": "hard",
-      "question": "What is a \"reveal\" in drag performance?",
-      "correctAnswer": "Costume transformation",
-      "wrongAnswers": [
-        "Singing trick",
-        "Dance step",
-        "Makeup change"
-      ]
-    },
-    {
-      "id": "drag_024",
-      "difficulty": "hard",
-      "question": "What is \"ball\" challenge?",
-      "correctAnswer": "Multiple outfit showcase",
-      "wrongAnswers": [
-        "Singing contest",
-        "Comedy set",
-        "Dance off"
-      ]
-    },
-    {
-      "id": "drag_025",
-      "difficulty": "hard",
-      "question": "What is \"reading is fundamental\"?",
-      "correctAnswer": "Insulting humor",
-      "wrongAnswers": [
-        "Compliment session",
-        "Singing battle",
-        "Dance segment"
-      ]
-    },
-    {
-      "id": "drag_026",
-      "difficulty": "hard",
-      "question": "What is the purpose of makeover challenge?",
-      "correctAnswer": "Transform someone",
-      "wrongAnswers": [
-        "Design outfit",
-        "Write song",
-        "Impersonate"
-      ]
-    },
-    {
-      "id": "drag_027",
-      "difficulty": "hard",
-      "question": "What does \"fishy\" mean?",
-      "correctAnswer": "Looking feminine",
-      "wrongAnswers": [
-        "Looking masculine",
-        "Singing well",
-        "Dancing well"
-      ]
-    },
-    {
-      "id": "drag_028",
-      "difficulty": "hard",
-      "question": "What does \"camp\" mean?",
-      "correctAnswer": "Exaggerated style",
-      "wrongAnswers": [
-        "Serious tone",
-        "Minimalism",
-        "Realism"
-      ]
-    },
-    {
-      "id": "drag_029",
-      "difficulty": "hard",
-      "question": "What does \"gagged\" mean?",
-      "correctAnswer": "Shocked",
-      "wrongAnswers": [
-        "Happy",
-        "Angry",
-        "Confused"
-      ]
-    },
-    {
-      "id": "drag_030",
-      "difficulty": "hard",
-      "question": "What is \"lip sync for your life\"?",
-      "correctAnswer": "Elimination battle",
-      "wrongAnswers": [
-        "Finale",
-        "Runway",
-        "Singing challenge"
-      ]
-    },
-    {
-      "id": "drag_031",
+      "id": "drag_race_0012",
       "difficulty": "easy",
-      "question": "What is the main goal of Drag Race?",
-      "correctAnswer": "Win the crown",
+      "question": "What's the 'lip sync for the crown' format?",
+      "correctAnswer": "Final 4 face off in tournament-style lipsyncs",
       "wrongAnswers": [
-        "Get followers",
-        "Sing better",
-        "Design clothes"
+        "Top 3 vote each other",
+        "Single-round duel",
+        "Audience-decided final"
       ]
     },
     {
-      "id": "drag_032",
+      "id": "drag_race_0013",
       "difficulty": "easy",
-      "question": "What does \"werk\" mean?",
-      "correctAnswer": "Do well",
+      "question": "Who said 'Miss Vanjie!' on the runway?",
+      "correctAnswer": "Vanessa Vanjie Mateo",
       "wrongAnswers": [
-        "Stop",
-        "Leave",
-        "Sing"
+        "Yvie Oddly",
+        "Plastique Tiara",
+        "Mayhem Miller"
       ]
     },
     {
-      "id": "drag_033",
-      "difficulty": "medium",
-      "question": "What is judged on runway?",
-      "correctAnswer": "Outfit & presentation",
-      "wrongAnswers": [
-        "Singing",
-        "Dancing",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "drag_034",
-      "difficulty": "medium",
-      "question": "What does \"slay\" mean?",
-      "correctAnswer": "Do amazing",
-      "wrongAnswers": [
-        "Fail",
-        "Leave",
-        "Sing"
-      ]
-    },
-    {
-      "id": "drag_035",
-      "difficulty": "medium",
-      "question": "What does \"beat face\" mean?",
-      "correctAnswer": "Strong makeup",
-      "wrongAnswers": [
-        "Weak makeup",
-        "Singing",
-        "Dancing"
-      ]
-    },
-    {
-      "id": "drag_036",
-      "difficulty": "hard",
-      "question": "What is a \"runway walk\"?",
-      "correctAnswer": "Modeling presentation",
-      "wrongAnswers": [
-        "Dance",
-        "Singing",
-        "Acting"
-      ]
-    },
-    {
-      "id": "drag_037",
-      "difficulty": "hard",
-      "question": "What does \"serve face\" mean?",
-      "correctAnswer": "Strong expression",
-      "wrongAnswers": [
-        "Sing loudly",
-        "Dance hard",
-        "Walk fast"
-      ]
-    },
-    {
-      "id": "drag_038",
+      "id": "drag_race_0014",
       "difficulty": "easy",
-      "question": "What is the elimination song called?",
-      "correctAnswer": "Lip sync song",
+      "question": "Who is RuPaul's most-frequent musical collaborator?",
+      "correctAnswer": "Lucian Piane (RuCo Inc.)",
       "wrongAnswers": [
-        "Final song",
-        "Theme song",
-        "Exit song"
+        "Lady Gaga",
+        "Diplo",
+        "Sia"
       ]
     },
     {
-      "id": "drag_039",
+      "id": "drag_race_0015",
+      "difficulty": "easy",
+      "question": "What does 'reading' mean in drag culture?",
+      "correctAnswer": "Witty insults",
+      "wrongAnswers": [
+        "Studying makeup tutorials",
+        "Practicing scripts",
+        "Gossiping"
+      ]
+    },
+    {
+      "id": "drag_race_0016",
       "difficulty": "medium",
-      "question": "What does \"throw shade\" mean?",
-      "correctAnswer": "Subtle insult",
+      "question": "Who won RuPaul's Drag Race All Stars 3?",
+      "correctAnswer": "Trixie Mattel",
       "wrongAnswers": [
-        "Compliment",
-        "Sing",
-        "Dance"
+        "Shangela",
+        "Kennedy Davenport",
+        "BenDeLaCreme"
       ]
     },
     {
-      "id": "drag_040",
-      "difficulty": "hard",
-      "question": "What does \"snatched\" mean?",
-      "correctAnswer": "Looking amazing",
+      "id": "drag_race_0017",
+      "difficulty": "medium",
+      "question": "Who designed the runway looks for Aquaria's S10 win?",
+      "correctAnswer": "Aquaria herself + various",
       "wrongAnswers": [
-        "Looking tired",
-        "Singing well",
-        "Dancing well"
+        "Jiyong",
+        "Marco Marco",
+        "Acid Betty"
+      ]
+    },
+    {
+      "id": "drag_race_0018",
+      "difficulty": "medium",
+      "question": "Which Drag Race winner co-hosts UNHhhh with Trixie?",
+      "correctAnswer": "Katya",
+      "wrongAnswers": [
+        "Bianca Del Rio",
+        "Aquaria",
+        "Bob the Drag Queen"
+      ]
+    },
+    {
+      "id": "drag_race_0019",
+      "difficulty": "medium",
+      "question": "What's the prize for winning RPDR?",
+      "correctAnswer": "$200,000 (varies by season)",
+      "wrongAnswers": [
+        "$1M",
+        "$50K",
+        "Drag Globe trophy only"
+      ]
+    },
+    {
+      "id": "drag_race_0020",
+      "difficulty": "medium",
+      "question": "Who won All Stars 7 (the all-winners season)?",
+      "correctAnswer": "Jinkx Monsoon",
+      "wrongAnswers": [
+        "Mon?t X Change",
+        "Trinity the Tuck",
+        "Shea Coule?"
+      ]
+    },
+    {
+      "id": "drag_race_0021",
+      "difficulty": "medium",
+      "question": "What franchise originated 'snatch game'?",
+      "correctAnswer": "Saturday Night Live's Match Game parody (RPDR adapted it)",
+      "wrongAnswers": [
+        "The Price Is Right",
+        "Whose Line Is It Anyway",
+        "Hollywood Squares"
+      ]
+    },
+    {
+      "id": "drag_race_0022",
+      "difficulty": "medium",
+      "question": "Who is Trixie Mattel's signature musical genre?",
+      "correctAnswer": "Country/folk",
+      "wrongAnswers": [
+        "Pop",
+        "Hip-hop",
+        "EDM"
+      ]
+    },
+    {
+      "id": "drag_race_0023",
+      "difficulty": "medium",
+      "question": "Which queen won Drag Race UK Series 2?",
+      "correctAnswer": "Lawrence Chaney",
+      "wrongAnswers": [
+        "Bimini",
+        "Tayce",
+        "A'Whora"
+      ]
+    },
+    {
+      "id": "drag_race_0024",
+      "difficulty": "medium",
+      "question": "Who is the only queen to be top 3 on RPDR S9?",
+      "correctAnswer": "(actually 4 queens were)",
+      "wrongAnswers": [
+        "Sasha Velour",
+        "Shea Coule?",
+        "Trinity Taylor"
+      ]
+    },
+    {
+      "id": "drag_race_0025",
+      "difficulty": "medium",
+      "question": "What was Bianca Del Rio's signature insult style?",
+      "correctAnswer": "Comedy roast",
+      "wrongAnswers": [
+        "Sweet southern",
+        "Surrealist",
+        "Silent stares"
+      ]
+    },
+    {
+      "id": "drag_race_0026",
+      "difficulty": "hard",
+      "question": "Who choreographed RuPaul's 'Cover Girl' video?",
+      "correctAnswer": "Vincent Paterson (early RuPaul work)",
+      "wrongAnswers": [
+        "Travis Payne",
+        "Frank Gatson",
+        "Laurieann Gibson"
+      ]
+    },
+    {
+      "id": "drag_race_0027",
+      "difficulty": "hard",
+      "question": "Which season had the 'Pink Table Talk' challenge?",
+      "correctAnswer": "Season 12",
+      "wrongAnswers": [
+        "Season 11",
+        "Season 13",
+        "All Stars 5"
+      ]
+    },
+    {
+      "id": "drag_race_0028",
+      "difficulty": "hard",
+      "question": "Who won the inaugural Drag Race Down Under?",
+      "correctAnswer": "Kita Mean",
+      "wrongAnswers": [
+        "Spankie Jackzon",
+        "Isis Avis Loren",
+        "Scarlet Adams"
+      ]
+    },
+    {
+      "id": "drag_race_0029",
+      "difficulty": "hard",
+      "question": "Which Drag Race judge wrote the Broadway musical Kinky Boots?",
+      "correctAnswer": "Harvey Fierstein (guest judge)",
+      "wrongAnswers": [
+        "Michelle Visage",
+        "Carson Kressley",
+        "Ross Mathews"
+      ]
+    },
+    {
+      "id": "drag_race_0030",
+      "difficulty": "hard",
+      "question": "Who won Miss Congeniality on RPDR Season 9?",
+      "correctAnswer": "Valentina",
+      "wrongAnswers": [
+        "Peppermint",
+        "Aja",
+        "Farrah Moan"
       ]
     }
   ]
