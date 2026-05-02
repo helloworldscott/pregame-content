@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "madonna_001",
+      "id": "madonna_0001",
       "difficulty": "easy",
-      "question": "What is Madonna often called?",
-      "correctAnswer": "Queen of Pop",
+      "question": "What is Madonna's full birth name?",
+      "correctAnswer": "Madonna Louise Ciccone",
       "wrongAnswers": [
-        "Queen of Rock",
-        "Pop Princess",
-        "Diva Supreme"
+        "Madonna Louise Veronica Ciccone",
+        "Madonna Marie Ciccone",
+        "Madonna Catherine Ciccone"
       ]
     },
     {
-      "id": "madonna_002",
+      "id": "madonna_0002",
       "difficulty": "easy",
-      "question": "What was Madonna?s debut hit single?",
-      "correctAnswer": "Holiday",
-      "wrongAnswers": [
-        "Like a Virgin",
-        "Vogue",
-        "Material Girl"
-      ]
-    },
-    {
-      "id": "madonna_003",
-      "difficulty": "easy",
-      "question": "Which Madonna song features the lyric ?Like a virgin??",
+      "question": "Which 1984 single launched her major-fame era?",
       "correctAnswer": "Like a Virgin",
       "wrongAnswers": [
+        "Holiday",
         "Material Girl",
-        "Vogue",
-        "Express Yourself"
+        "Lucky Star"
       ]
     },
     {
-      "id": "madonna_004",
+      "id": "madonna_0003",
       "difficulty": "easy",
-      "question": "Which Madonna song is about fame and dancing?",
-      "correctAnswer": "Vogue",
+      "question": "Who designed the iconic cone bra?",
+      "correctAnswer": "Jean Paul Gaultier",
       "wrongAnswers": [
-        "Ray of Light",
-        "Frozen",
-        "Hung Up"
+        "Donatella Versace",
+        "Vivienne Westwood",
+        "Karl Lagerfeld"
       ]
     },
     {
-      "id": "madonna_005",
+      "id": "madonna_0004",
       "difficulty": "easy",
-      "question": "Which Madonna song features the line ?We are living in a material world??",
-      "correctAnswer": "Material Girl",
-      "wrongAnswers": [
-        "Like a Prayer",
-        "Music",
-        "Sorry"
-      ]
-    },
-    {
-      "id": "madonna_006",
-      "difficulty": "easy",
-      "question": "Which Madonna song includes church imagery and controversy?",
-      "correctAnswer": "Like a Prayer",
-      "wrongAnswers": [
-        "Frozen",
-        "Holiday",
-        "Vogue"
-      ]
-    },
-    {
-      "id": "madonna_007",
-      "difficulty": "easy",
-      "question": "Which Madonna song is named after light?",
-      "correctAnswer": "Ray of Light",
-      "wrongAnswers": [
-        "Frozen",
-        "Music",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_008",
-      "difficulty": "easy",
-      "question": "Which Madonna song repeats the word ?music? in the chorus?",
-      "correctAnswer": "Music",
-      "wrongAnswers": [
-        "Holiday",
-        "Like a Virgin",
-        "Express Yourself"
-      ]
-    },
-    {
-      "id": "madonna_009",
-      "difficulty": "easy",
-      "question": "Which Madonna song features a disco-inspired beat from ABBA?",
-      "correctAnswer": "Hung Up",
-      "wrongAnswers": [
-        "Sorry",
-        "Give It 2 Me",
-        "Ray of Light"
-      ]
-    },
-    {
-      "id": "madonna_010",
-      "difficulty": "easy",
-      "question": "Which Madonna song has the lyric ?Don?t tell me to stop??",
-      "correctAnswer": "Don?t Tell Me",
-      "wrongAnswers": [
-        "Music",
-        "Sorry",
-        "Jump"
-      ]
-    },
-    {
-      "id": "madonna_011",
-      "difficulty": "medium",
-      "question": "Which Madonna album features ?Like a Prayer??",
+      "question": "Which 1989 album courted controversy with 'Like a Prayer'?",
       "correctAnswer": "Like a Prayer",
       "wrongAnswers": [
         "True Blue",
-        "Ray of Light",
-        "Confessions on a Dance Floor"
+        "Erotica",
+        "Bedtime Stories"
       ]
     },
     {
-      "id": "madonna_012",
-      "difficulty": "medium",
-      "question": "Which album includes ?Ray of Light??",
+      "id": "madonna_0005",
+      "difficulty": "easy",
+      "question": "What 1990 song interpolates Harlem ballroom culture?",
+      "correctAnswer": "Vogue",
+      "wrongAnswers": [
+        "Material Girl",
+        "Express Yourself",
+        "Justify My Love"
+      ]
+    },
+    {
+      "id": "madonna_0006",
+      "difficulty": "easy",
+      "question": "Which 1996 film let Madonna play Eva Per?n?",
+      "correctAnswer": "Evita",
+      "wrongAnswers": [
+        "Desperately Seeking Susan",
+        "Body of Evidence",
+        "Truth or Dare"
+      ]
+    },
+    {
+      "id": "madonna_0007",
+      "difficulty": "easy",
+      "question": "Which 1998 album became her Kabbalah-inspired reinvention?",
       "correctAnswer": "Ray of Light",
       "wrongAnswers": [
         "Music",
-        "American Life",
-        "Confessions"
-      ]
-    },
-    {
-      "id": "madonna_013",
-      "difficulty": "medium",
-      "question": "Which Madonna album features ?Hung Up??",
-      "correctAnswer": "Confessions on a Dance Floor",
-      "wrongAnswers": [
-        "Music",
-        "Hard Candy",
+        "Confessions on a Dance Floor",
         "American Life"
       ]
     },
     {
-      "id": "madonna_014",
-      "difficulty": "medium",
-      "question": "Which Madonna song references ballroom culture?",
-      "correctAnswer": "Vogue",
-      "wrongAnswers": [
-        "Material Girl",
-        "Holiday",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_015",
-      "difficulty": "medium",
-      "question": "Which Madonna song features Spanish guitar influences?",
-      "correctAnswer": "La Isla Bonita",
-      "wrongAnswers": [
-        "Holiday",
-        "Frozen",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_016",
-      "difficulty": "medium",
-      "question": "Which Madonna song includes the lyric ?Strike a pose??",
-      "correctAnswer": "Vogue",
-      "wrongAnswers": [
-        "Music",
-        "Sorry",
-        "Jump"
-      ]
-    },
-    {
-      "id": "madonna_017",
-      "difficulty": "medium",
-      "question": "Which Madonna album marked a major electronic shift?",
-      "correctAnswer": "Ray of Light",
-      "wrongAnswers": [
-        "True Blue",
-        "Like a Virgin",
-        "Hard Candy"
-      ]
-    },
-    {
-      "id": "madonna_018",
-      "difficulty": "medium",
-      "question": "Which Madonna song was banned in some countries for religious imagery?",
-      "correctAnswer": "Like a Prayer",
-      "wrongAnswers": [
-        "Holiday",
-        "Material Girl",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_019",
-      "difficulty": "medium",
-      "question": "Which Madonna song features cowgirl imagery?",
-      "correctAnswer": "Don?t Tell Me",
-      "wrongAnswers": [
-        "Music",
-        "Jump",
-        "Sorry"
-      ]
-    },
-    {
-      "id": "madonna_020",
-      "difficulty": "medium",
-      "question": "Which Madonna song includes the lyric ?Time goes by so slowly??",
-      "correctAnswer": "Hung Up",
-      "wrongAnswers": [
-        "Music",
-        "Sorry",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_021",
-      "difficulty": "hard",
-      "question": "Which Madonna album includes ?Like a Virgin??",
-      "correctAnswer": "Like a Virgin",
-      "wrongAnswers": [
-        "True Blue",
-        "Music",
-        "Ray of Light"
-      ]
-    },
-    {
-      "id": "madonna_022",
-      "difficulty": "hard",
-      "question": "Which Madonna album includes ?Material Girl??",
-      "correctAnswer": "Like a Virgin",
-      "wrongAnswers": [
-        "True Blue",
-        "Confessions",
-        "Ray of Light"
-      ]
-    },
-    {
-      "id": "madonna_023",
-      "difficulty": "hard",
-      "question": "Which Madonna album includes ?Frozen??",
-      "correctAnswer": "Ray of Light",
-      "wrongAnswers": [
-        "Music",
-        "American Life",
-        "Confessions"
-      ]
-    },
-    {
-      "id": "madonna_024",
-      "difficulty": "hard",
-      "question": "Which Madonna era featured a disco comeback?",
+      "id": "madonna_0008",
+      "difficulty": "easy",
+      "question": "Which 2005 album included 'Hung Up'?",
       "correctAnswer": "Confessions on a Dance Floor",
       "wrongAnswers": [
         "Music",
-        "Ray of Light",
+        "American Life",
         "Hard Candy"
       ]
     },
     {
-      "id": "madonna_025",
-      "difficulty": "hard",
-      "question": "Which Madonna song includes the lyric ?Only when I?m dancing can I feel this free??",
-      "correctAnswer": "Into the Groove",
+      "id": "madonna_0009",
+      "difficulty": "easy",
+      "question": "What's Madonna's signature concert phrase?",
+      "correctAnswer": "'Are you ready?'",
       "wrongAnswers": [
-        "Holiday",
-        "Music",
-        "Secret"
+        "'Hello, freaks'",
+        "'Madonna in the building'",
+        "'Bow down'"
       ]
     },
     {
-      "id": "madonna_026",
-      "difficulty": "hard",
-      "question": "Which Madonna song references Hollywood fame culture?",
-      "correctAnswer": "Hollywood",
+      "id": "madonna_0010",
+      "difficulty": "easy",
+      "question": "Who duetted with Madonna on \"Me Against the Music\" (2003)?",
+      "correctAnswer": "Britney Spears",
       "wrongAnswers": [
-        "Music",
-        "Jump",
-        "Sorry"
+        "Christina Aguilera",
+        "Pink",
+        "Kylie Minogue"
       ]
     },
     {
-      "id": "madonna_027",
-      "difficulty": "hard",
-      "question": "Which Madonna album includes ?American Life??",
+      "id": "madonna_0011",
+      "difficulty": "easy",
+      "question": "Which 1986 album includes 'Papa Don't Preach'?",
+      "correctAnswer": "True Blue",
+      "wrongAnswers": [
+        "Like a Virgin",
+        "Madonna",
+        "Who's That Girl"
+      ]
+    },
+    {
+      "id": "madonna_0012",
+      "difficulty": "easy",
+      "question": "Which 2008 album was Madonna's last for Warner Bros?",
+      "correctAnswer": "Hard Candy",
+      "wrongAnswers": [
+        "Confessions on a Dance Floor",
+        "MDNA",
+        "Rebel Heart"
+      ]
+    },
+    {
+      "id": "madonna_0013",
+      "difficulty": "easy",
+      "question": "Which Madonna film was the 2008 directorial debut?",
+      "correctAnswer": "Filth and Wisdom",
+      "wrongAnswers": [
+        "W.E.",
+        "Truth or Dare",
+        "Take a Bow"
+      ]
+    },
+    {
+      "id": "madonna_0014",
+      "difficulty": "easy",
+      "question": "Which 1985 film cast Madonna alongside Rosanna Arquette?",
+      "correctAnswer": "Desperately Seeking Susan",
+      "wrongAnswers": [
+        "Body of Evidence",
+        "Who's That Girl",
+        "Shanghai Surprise"
+      ]
+    },
+    {
+      "id": "madonna_0015",
+      "difficulty": "easy",
+      "question": "Which Madonna song's video was banned by MTV?",
+      "correctAnswer": "Justify My Love",
+      "wrongAnswers": [
+        "Like a Virgin",
+        "Express Yourself",
+        "Material Girl"
+      ]
+    },
+    {
+      "id": "madonna_0016",
+      "difficulty": "medium",
+      "question": "Who founded the Maverick label with Madonna in 1992?",
+      "correctAnswer": "Freddy DeMann",
+      "wrongAnswers": [
+        "Seymour Stein",
+        "Tommy Mottola",
+        "L.A. Reid"
+      ]
+    },
+    {
+      "id": "madonna_0017",
+      "difficulty": "medium",
+      "question": "Which 1992 photographic book courted scandal?",
+      "correctAnswer": "Sex",
+      "wrongAnswers": [
+        "Erotica",
+        "Madonna: An Intimate Portrait",
+        "Truth or Dare"
+      ]
+    },
+    {
+      "id": "madonna_0018",
+      "difficulty": "medium",
+      "question": "Who directed In Bed with Madonna / Truth or Dare (1991)?",
+      "correctAnswer": "Alek Keshishian",
+      "wrongAnswers": [
+        "Mary Lambert",
+        "David Fincher",
+        "Spike Jonze"
+      ]
+    },
+    {
+      "id": "madonna_0019",
+      "difficulty": "medium",
+      "question": "Which 1985 Live Aid set didn't have Madonna?",
+      "correctAnswer": "(she did perform ? Philadelphia)",
+      "wrongAnswers": [
+        "UK Wembley",
+        "USA Live for Asia",
+        "USA We Are the World"
+      ]
+    },
+    {
+      "id": "madonna_0020",
+      "difficulty": "medium",
+      "question": "Which 2003 album was politically themed?",
       "correctAnswer": "American Life",
       "wrongAnswers": [
         "Music",
-        "Confessions",
-        "Ray of Light"
+        "Hard Candy",
+        "Confessions on a Dance Floor"
       ]
     },
     {
-      "id": "madonna_028",
-      "difficulty": "hard",
-      "question": "Which Madonna song features a spoken-word rap section?",
-      "correctAnswer": "Vogue",
+      "id": "madonna_0021",
+      "difficulty": "medium",
+      "question": "Whose 1990s remix collection featured 'You Must Love Me'?",
+      "correctAnswer": "Madonna - Something to Remember",
       "wrongAnswers": [
-        "Holiday",
-        "Music",
-        "Secret"
+        "GHV2",
+        "The Immaculate Collection",
+        "Ray of Light remixes"
       ]
     },
     {
-      "id": "madonna_029",
-      "difficulty": "hard",
-      "question": "Which Madonna song includes a children?s choir in the background?",
-      "correctAnswer": "Like a Prayer",
+      "id": "madonna_0022",
+      "difficulty": "medium",
+      "question": "Which song was her 1985 Live Aid setlist closer?",
+      "correctAnswer": "(she performed Holiday + Into the Groove + Love Makes the World Go Round)",
       "wrongAnswers": [
-        "Holiday",
-        "Secret",
-        "Music"
-      ]
-    },
-    {
-      "id": "madonna_030",
-      "difficulty": "hard",
-      "question": "Which Madonna song includes the lyric ?Express yourself??",
-      "correctAnswer": "Express Yourself",
-      "wrongAnswers": [
-        "Holiday",
+        "Like a Virgin",
         "Material Girl",
-        "Secret"
+        "Crazy for You"
       ]
     },
     {
-      "id": "madonna_031",
-      "difficulty": "easy",
-      "question": "Which Madonna song is about dancing all night?",
-      "correctAnswer": "Into the Groove",
+      "id": "madonna_0023",
+      "difficulty": "medium",
+      "question": "Who choreographed Vogue?",
+      "correctAnswer": "Vincent Paterson",
       "wrongAnswers": [
-        "Holiday",
-        "Music",
-        "Secret"
+        "Toni Basil",
+        "Jeffrey Daniel",
+        "Ricky Martin's choreographer"
       ]
     },
     {
-      "id": "madonna_032",
-      "difficulty": "easy",
-      "question": "Which Madonna song mentions prayer in the title?",
+      "id": "madonna_0024",
+      "difficulty": "medium",
+      "question": "Which 2015 album features 'Bitch I'm Madonna'?",
+      "correctAnswer": "Rebel Heart",
+      "wrongAnswers": [
+        "MDNA",
+        "Hard Candy",
+        "Madame X"
+      ]
+    },
+    {
+      "id": "madonna_0025",
+      "difficulty": "medium",
+      "question": "Who is the long-time choreographer of her tours since 2008?",
+      "correctAnswer": "Jamie King",
+      "wrongAnswers": [
+        "Travis Payne",
+        "Frank Gatson",
+        "Brian Friedman"
+      ]
+    },
+    {
+      "id": "madonna_0026",
+      "difficulty": "hard",
+      "question": "Which 2002 Guy Ritchie film starring Madonna won her a Worst Actress Razzie?",
+      "correctAnswer": "Swept Away",
+      "wrongAnswers": [
+        "Body of Evidence",
+        "Shanghai Surprise",
+        "Who's That Girl"
+      ]
+    },
+    {
+      "id": "madonna_0027",
+      "difficulty": "hard",
+      "question": "Who co-wrote 'Beautiful Stranger' for Austin Powers (1999)?",
+      "correctAnswer": "William Orbit",
+      "wrongAnswers": [
+        "Pharrell",
+        "Mark Ronson",
+        "Stuart Price"
+      ]
+    },
+    {
+      "id": "madonna_0028",
+      "difficulty": "hard",
+      "question": "Which 1989 song's lyrics directly reference Catholicism?",
       "correctAnswer": "Like a Prayer",
       "wrongAnswers": [
-        "Holiday",
-        "Music",
-        "Secret"
+        "Express Yourself",
+        "Cherish",
+        "Oh Father"
       ]
     },
     {
-      "id": "madonna_033",
-      "difficulty": "medium",
-      "question": "Which Madonna song includes the lyric ?Life is a mystery??",
-      "correctAnswer": "Like a Prayer",
-      "wrongAnswers": [
-        "Secret",
-        "Music",
-        "Jump"
-      ]
-    },
-    {
-      "id": "madonna_034",
-      "difficulty": "medium",
-      "question": "Which Madonna song has a strong electronic beat and fast tempo?",
-      "correctAnswer": "Ray of Light",
-      "wrongAnswers": [
-        "Music",
-        "Holiday",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_035",
-      "difficulty": "medium",
-      "question": "Which Madonna song features a country-inspired rhythm?",
-      "correctAnswer": "Don?t Tell Me",
-      "wrongAnswers": [
-        "Music",
-        "Sorry",
-        "Jump"
-      ]
-    },
-    {
-      "id": "madonna_036",
+      "id": "madonna_0029",
       "difficulty": "hard",
-      "question": "Which Madonna album includes ?Hung Up? and ?Sorry??",
-      "correctAnswer": "Confessions on a Dance Floor",
+      "question": "Which 2019 album features 'Medell?n' with Maluma?",
+      "correctAnswer": "Madame X",
       "wrongAnswers": [
-        "Music",
-        "American Life",
-        "Ray of Light"
+        "Rebel Heart",
+        "MDNA",
+        "Hard Candy"
       ]
     },
     {
-      "id": "madonna_037",
+      "id": "madonna_0030",
       "difficulty": "hard",
-      "question": "Which Madonna song features the lyric ?Don?t go for second best baby??",
-      "correctAnswer": "Express Yourself",
+      "question": "Who produced most of Confessions on a Dance Floor?",
+      "correctAnswer": "Stuart Price",
       "wrongAnswers": [
-        "Holiday",
-        "Material Girl",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_038",
-      "difficulty": "hard",
-      "question": "Which Madonna song includes a Spanish title?",
-      "correctAnswer": "La Isla Bonita",
-      "wrongAnswers": [
-        "Music",
-        "Holiday",
-        "Secret"
-      ]
-    },
-    {
-      "id": "madonna_039",
-      "difficulty": "hard",
-      "question": "Which Madonna song includes the lyric ?Music makes the people come together??",
-      "correctAnswer": "Music",
-      "wrongAnswers": [
-        "Holiday",
-        "Secret",
-        "Jump"
-      ]
-    },
-    {
-      "id": "madonna_040",
-      "difficulty": "hard",
-      "question": "Which Madonna era focused heavily on spirituality and electronic sound?",
-      "correctAnswer": "Ray of Light era",
-      "wrongAnswers": [
-        "Confessions era",
-        "Like a Virgin era",
-        "American Life era"
+        "William Orbit",
+        "Mirwais",
+        "Pharrell"
       ]
     }
   ]
