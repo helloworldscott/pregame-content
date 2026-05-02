@@ -3,1103 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "music_pop_001",
+      "id": "music_pop_0001",
       "difficulty": "easy",
-      "question": "Finish the lyric: \"I'm a savage classy bougie ____\"",
-      "correctAnswer": "Ratchet",
+      "question": "Who released \"Espresso\" in 2024?",
+      "correctAnswer": "Sabrina Carpenter",
       "wrongAnswers": [
-        "Fancy",
-        "Rich",
-        "Sassy"
+        "Olivia Rodrigo",
+        "Chappell Roan",
+        "Rene? Rapp"
       ]
     },
     {
-      "id": "music_pop_002",
+      "id": "music_pop_0002",
       "difficulty": "easy",
-      "question": "Which album includes \"Bad Romance\"?",
-      "correctAnswer": "The Fame Monster",
+      "question": "Which artist released \"Anti-Hero\" in 2022?",
+      "correctAnswer": "Taylor Swift",
       "wrongAnswers": [
-        "Born This Way",
-        "Artpop",
-        "Chromatica"
-      ]
-    },
-    {
-      "id": "music_pop_003",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"Cause baby you're a ____\"",
-      "correctAnswer": "Firework",
-      "wrongAnswers": [
-        "Diamond",
-        "Star",
-        "Legend"
-      ]
-    },
-    {
-      "id": "music_pop_004",
-      "difficulty": "easy",
-      "question": "Which album includes \"Levitating\"?",
-      "correctAnswer": "Future Nostalgia",
-      "wrongAnswers": [
-        "Confident",
-        1989,
-        "Positions"
-      ]
-    },
-    {
-      "id": "music_pop_005",
-      "difficulty": "easy",
-      "question": "Which artist features on \"Rain On Me\" with Lady Gaga?",
-      "correctAnswer": "Ariana Grande",
-      "wrongAnswers": [
-        "Rihanna",
-        "Dua Lipa",
-        "Nicki Minaj"
-      ]
-    },
-    {
-      "id": "music_pop_006",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"I got that good girl faith and a ____\"",
-      "correctAnswer": "Tight little skirt",
-      "wrongAnswers": [
-        "Big reputation",
-        "Long list of lovers",
-        "Classic thing"
-      ]
-    },
-    {
-      "id": "music_pop_007",
-      "difficulty": "easy",
-      "question": "Which album includes \"Anti-Hero\"?",
-      "correctAnswer": "Midnights",
-      "wrongAnswers": [
-        "Reputation",
-        "Lover",
-        1989
-      ]
-    },
-    {
-      "id": "music_pop_008",
-      "difficulty": "easy",
-      "question": "Which artist features on \"Shallow\" with Lady Gaga?",
-      "correctAnswer": "Bradley Cooper",
-      "wrongAnswers": [
-        "Ed Sheeran",
-        "Drake",
-        "Harry Styles"
-      ]
-    },
-    {
-      "id": "music_pop_009",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"We could be heroes just for ____\"",
-      "correctAnswer": "One day",
-      "wrongAnswers": [
-        "Forever",
-        "Tonight",
-        "A moment"
-      ]
-    },
-    {
-      "id": "music_pop_010",
-      "difficulty": "easy",
-      "question": "Which album includes \"Bad Guy\"?",
-      "correctAnswer": "When We All Fall Asleep...",
-      "wrongAnswers": [
-        "Happier Than Ever",
-        "Melodrama",
-        "Future Nostalgia"
-      ]
-    },
-    {
-      "id": "music_pop_011",
-      "difficulty": "medium",
-      "question": "Which came first?",
-      "correctAnswer": 1989,
-      "wrongAnswers": [
-        "Reputation",
-        "Lover",
-        "Midnights"
-      ]
-    },
-    {
-      "id": "music_pop_012",
-      "difficulty": "medium",
-      "question": "Which song won Record of the Year in 2020?",
-      "correctAnswer": "Everything I Wanted",
-      "wrongAnswers": [
-        "Blinding Lights",
-        "Levitating",
-        "Watermelon Sugar"
-      ]
-    },
-    {
-      "id": "music_pop_013",
-      "difficulty": "medium",
-      "question": "Which artist made a surprise album drop in 2013?",
-      "correctAnswer": "Beyonce",
-      "wrongAnswers": [
-        "Rihanna",
-        "Taylor Swift",
+        "Olivia Rodrigo",
+        "Lorde",
         "Adele"
       ]
     },
     {
-      "id": "music_pop_014",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Kiss Me More\"?",
-      "correctAnswer": "SZA",
+      "id": "music_pop_0003",
+      "difficulty": "easy",
+      "question": "Who is known as the 'Queen of Pop'?",
+      "correctAnswer": "Madonna",
       "wrongAnswers": [
-        "Nicki Minaj",
-        "Rihanna",
-        "Ariana Grande"
+        "Whitney Houston",
+        "Cher",
+        "Mariah Carey"
       ]
     },
     {
-      "id": "music_pop_015",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"I don't wanna keep secrets just to ____\"",
-      "correctAnswer": "Keep you",
+      "id": "music_pop_0004",
+      "difficulty": "easy",
+      "question": "Which group released 'Wannabe' in 1996?",
+      "correctAnswer": "Spice Girls",
       "wrongAnswers": [
-        "Keep you safe",
-        "Keep you mine",
-        "Keep you guessing"
+        "TLC",
+        "Destiny's Child",
+        "All Saints"
       ]
     },
     {
-      "id": "music_pop_016",
-      "difficulty": "medium",
-      "question": "Which album includes \"Thank U Next\"?",
-      "correctAnswer": "Thank U Next",
-      "wrongAnswers": [
-        "Positions",
-        "Sweetener",
-        "Dangerous Woman"
-      ]
-    },
-    {
-      "id": "music_pop_017",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Industry Baby\"?",
-      "correctAnswer": "Jack Harlow",
-      "wrongAnswers": [
-        "Drake",
-        "Post Malone",
-        "DaBaby"
-      ]
-    },
-    {
-      "id": "music_pop_018",
-      "difficulty": "medium",
-      "question": "Which album includes \"Future Nostalgia\"?",
-      "correctAnswer": "Future Nostalgia",
-      "wrongAnswers": [
-        "Chromatica",
-        "Positions",
-        "Planet Her"
-      ]
-    },
-    {
-      "id": "music_pop_019",
-      "difficulty": "medium",
-      "question": "Which artist headlined Coachella 2018 instead of Beyonce?",
-      "correctAnswer": "The Weeknd",
-      "wrongAnswers": [
-        "Drake",
-        "Travis Scott",
-        "Post Malone"
-      ]
-    },
-    {
-      "id": "music_pop_020",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"I'm feeling myself I'm feeling ____\"",
-      "correctAnswer": "Myself again",
-      "wrongAnswers": [
-        "So fly",
-        "My vibe",
-        "My energy"
-      ]
-    },
-    {
-      "id": "music_pop_021",
-      "difficulty": "hard",
-      "question": "Which album includes \"XS\"?",
-      "correctAnswer": "SAWAYAMA",
-      "wrongAnswers": [
-        "Charli",
-        "Melodrama",
-        "Renaissance"
-      ]
-    },
-    {
-      "id": "music_pop_022",
-      "difficulty": "hard",
-      "question": "Which artist performed Super Bowl 2023?",
-      "correctAnswer": "Rihanna",
-      "wrongAnswers": [
-        "Beyonce",
-        "Lady Gaga",
-        "Katy Perry"
-      ]
-    },
-    {
-      "id": "music_pop_023",
-      "difficulty": "hard",
-      "question": "Which album includes \"Cellophane\"?",
-      "correctAnswer": "MAGDALENE",
-      "wrongAnswers": [
-        "Melodrama",
-        "Norman Rockwell",
-        "Sawayama"
-      ]
-    },
-    {
-      "id": "music_pop_024",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Fancy\"?",
-      "correctAnswer": "Charli XCX",
-      "wrongAnswers": [
-        "Doja Cat",
-        "SZA",
-        "Rina Sawayama"
-      ]
-    },
-    {
-      "id": "music_pop_025",
-      "difficulty": "hard",
-      "question": "Which album includes \"Oblivion\"?",
-      "correctAnswer": "Visions",
-      "wrongAnswers": [
-        "Currents",
-        "Melodrama",
-        "Art Angels"
-      ]
-    },
-    {
-      "id": "music_pop_026",
-      "difficulty": "hard",
-      "question": "Finish the lyric: \"I got a blank space baby and I'll ____\"",
-      "correctAnswer": "Write your name",
-      "wrongAnswers": [
-        "Call your name",
-        "Say your name",
-        "Keep your name"
-      ]
-    },
-    {
-      "id": "music_pop_027",
-      "difficulty": "hard",
-      "question": "Which artist headlined Glastonbury 2016?",
+      "id": "music_pop_0005",
+      "difficulty": "easy",
+      "question": "Who sings \"Rolling in the Deep\"?",
       "correctAnswer": "Adele",
       "wrongAnswers": [
-        "Rihanna",
-        "Beyonce",
-        "Lady Gaga"
+        "Sam Smith",
+        "Amy Winehouse",
+        "Duffy"
       ]
     },
     {
-      "id": "music_pop_028",
-      "difficulty": "hard",
-      "question": "Which album includes \"Vroom Vroom\"?",
-      "correctAnswer": "Vroom Vroom EP",
-      "wrongAnswers": [
-        "Pop 2",
-        "Charli",
-        "Crash"
-      ]
-    },
-    {
-      "id": "music_pop_029",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Sour Candy\"?",
-      "correctAnswer": "BLACKPINK",
-      "wrongAnswers": [
-        "TWICE",
-        "BTS",
-        "ITZY"
-      ]
-    },
-    {
-      "id": "music_pop_030",
+      "id": "music_pop_0006",
       "difficulty": "easy",
-      "question": "Which album includes \"Roar\"?",
-      "correctAnswer": "Prism",
-      "wrongAnswers": [
-        "Teenage Dream",
-        "Witness",
-        "Smile"
-      ]
-    },
-    {
-      "id": "music_pop_031",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"Hit me baby one more ____\"",
-      "correctAnswer": "Time",
-      "wrongAnswers": [
-        "Call",
-        "Night",
-        "Try"
-      ]
-    },
-    {
-      "id": "music_pop_032",
-      "difficulty": "medium",
-      "question": "Which album includes \"Formation\"?",
-      "correctAnswer": "Lemonade",
-      "wrongAnswers": [
-        "BDay",
-        4,
-        "Renaissance"
-      ]
-    },
-    {
-      "id": "music_pop_033",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Telephone\"?",
-      "correctAnswer": "Beyonce",
-      "wrongAnswers": [
-        "Rihanna",
-        "Adele",
-        "Nicki Minaj"
-      ]
-    },
-    {
-      "id": "music_pop_034",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"I came to dance dance dance ____\"",
-      "correctAnswer": "With my hands",
-      "wrongAnswers": [
-        "On my own",
-        "All night long",
-        "Feel the beat"
-      ]
-    },
-    {
-      "id": "music_pop_035",
-      "difficulty": "hard",
-      "question": "Which album includes \"Genesis\"?",
-      "correctAnswer": "Visions",
-      "wrongAnswers": [
-        "Art Angels",
-        "Melodrama",
-        "Charli"
-      ]
-    },
-    {
-      "id": "music_pop_036",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Stay (Remix)\"?",
-      "correctAnswer": "Justin Bieber",
-      "wrongAnswers": [
-        "Drake",
-        "Post Malone",
-        "Ed Sheeran"
-      ]
-    },
-    {
-      "id": "music_pop_037",
-      "difficulty": "easy",
-      "question": "Which album includes \"Single Ladies\"?",
-      "correctAnswer": "I Am Sasha Fierce",
-      "wrongAnswers": [
-        4,
-        "Lemonade",
-        "BDay"
-      ]
-    },
-    {
-      "id": "music_pop_038",
-      "difficulty": "medium",
-      "question": "Which album includes \"Style\"?",
-      "correctAnswer": 1989,
-      "wrongAnswers": [
-        "Reputation",
-        "Lover",
-        "Midnights"
-      ]
-    },
-    {
-      "id": "music_pop_039",
-      "difficulty": "hard",
-      "question": "Which album includes \"Primadonna\"?",
-      "correctAnswer": "Electra Heart",
-      "wrongAnswers": [
-        "Froot",
-        "Love + Fear",
-        "Melodrama"
-      ]
-    },
-    {
-      "id": "music_pop_040",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"I don't care I love it I don't ____\"",
-      "correctAnswer": "Care",
-      "wrongAnswers": [
-        "Stop",
-        "Think",
-        "Mind"
-      ]
-    },
-    {
-      "id": "music_pop_041",
-      "difficulty": "easy",
-      "question": "Which album includes \"Teenage Dream\"?",
-      "correctAnswer": "Teenage Dream",
-      "wrongAnswers": [
-        "Prism",
-        "Smile",
-        "Witness"
-      ]
-    },
-    {
-      "id": "music_pop_042",
-      "difficulty": "easy",
-      "question": "Which artist features on \"Se?orita\"?",
-      "correctAnswer": "Camila Cabello",
-      "wrongAnswers": [
-        "Dua Lipa",
-        "Ariana Grande",
-        "SZA"
-      ]
-    },
-    {
-      "id": "music_pop_043",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"I'm walking on ____\"",
-      "correctAnswer": "Sunshine",
-      "wrongAnswers": [
-        "Air",
-        "Fire",
-        "Clouds"
-      ]
-    },
-    {
-      "id": "music_pop_044",
-      "difficulty": "easy",
-      "question": "Which album includes \"Shake It Off\"?",
-      "correctAnswer": 1989,
-      "wrongAnswers": [
-        "Reputation",
-        "Lover",
-        "Red"
-      ]
-    },
-    {
-      "id": "music_pop_045",
-      "difficulty": "easy",
-      "question": "Which song became a viral TikTok dance in 2020?",
-      "correctAnswer": "Savage",
-      "wrongAnswers": [
-        "Roar",
-        "Firework",
-        "Hello"
-      ]
-    },
-    {
-      "id": "music_pop_046",
-      "difficulty": "easy",
-      "question": "Which artist features on \"Stay\" with The Kid LAROI?",
-      "correctAnswer": "Justin Bieber",
-      "wrongAnswers": [
-        "Drake",
-        "Ed Sheeran",
-        "Post Malone"
-      ]
-    },
-    {
-      "id": "music_pop_047",
-      "difficulty": "easy",
-      "question": "Finish the lyric: \"Cause you know I'm all about that ____\"",
-      "correctAnswer": "Bass",
-      "wrongAnswers": [
-        "Beat",
-        "Money",
-        "Love"
-      ]
-    },
-    {
-      "id": "music_pop_048",
-      "difficulty": "easy",
-      "question": "Which album includes \"Drivers License\"?",
-      "correctAnswer": "SOUR",
-      "wrongAnswers": [
-        "GUTS",
-        "Positions",
-        "Lover"
-      ]
-    },
-    {
-      "id": "music_pop_049",
-      "difficulty": "easy",
-      "question": "Which artist features on \"Unholy\"?",
-      "correctAnswer": "Kim Petras",
-      "wrongAnswers": [
-        "Doja Cat",
-        "SZA",
-        "Rina Sawayama"
-      ]
-    },
-    {
-      "id": "music_pop_050",
-      "difficulty": "medium",
-      "question": "Which album came first?",
-      "correctAnswer": "Red",
-      "wrongAnswers": [
-        1989,
-        "Reputation",
-        "Lover"
-      ]
-    },
-    {
-      "id": "music_pop_051",
-      "difficulty": "medium",
-      "question": "Which song won Song of the Year in 2019?",
-      "correctAnswer": "This Is America",
-      "wrongAnswers": [
-        "Shallow",
-        "Thank U Next",
-        "Old Town Road"
-      ]
-    },
-    {
-      "id": "music_pop_052",
-      "difficulty": "medium",
-      "question": "Which artist made headlines for a visual album in 2016?",
-      "correctAnswer": "Beyonce",
-      "wrongAnswers": [
-        "Rihanna",
-        "Taylor Swift",
-        "Adele"
-      ]
-    },
-    {
-      "id": "music_pop_053",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Cold Heart\" with Elton John?",
-      "correctAnswer": "Dua Lipa",
-      "wrongAnswers": [
-        "Lady Gaga",
-        "Ariana Grande",
-        "Kylie Minogue"
-      ]
-    },
-    {
-      "id": "music_pop_054",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"I'm feeling myself I'm feeling ____\"",
-      "correctAnswer": "Myself again",
-      "wrongAnswers": [
-        "So good",
-        "So fly",
-        "My vibe"
-      ]
-    },
-    {
-      "id": "music_pop_055",
-      "difficulty": "medium",
-      "question": "Which album includes \"We Found Love\"?",
-      "correctAnswer": "Talk That Talk",
-      "wrongAnswers": [
-        "Unapologetic",
-        "Anti",
-        "Loud"
-      ]
-    },
-    {
-      "id": "music_pop_056",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Bang Bang\"?",
-      "correctAnswer": "Jessie J",
-      "wrongAnswers": [
-        "Ariana Grande",
-        "Nicki Minaj",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "music_pop_057",
-      "difficulty": "medium",
-      "question": "Which album includes \"Call Me Maybe\"?",
-      "correctAnswer": "Kiss",
-      "wrongAnswers": [
-        "E?MO?TION",
-        "Emotion Side B",
-        "Curiosity"
-      ]
-    },
-    {
-      "id": "music_pop_058",
-      "difficulty": "medium",
-      "question": "Which artist replaced Beyonce at Coachella 2017?",
-      "correctAnswer": "Lady Gaga",
-      "wrongAnswers": [
-        "The Weeknd",
-        "Drake",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "music_pop_059",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"We can't stop and we won't ____\"",
-      "correctAnswer": "Stop",
-      "wrongAnswers": [
-        "Quit",
-        "Pause",
-        "Wait"
-      ]
-    },
-    {
-      "id": "music_pop_060",
-      "difficulty": "hard",
-      "question": "Which album includes \"Green Light\"?",
-      "correctAnswer": "Melodrama",
-      "wrongAnswers": [
-        "Heroine",
-        "Norman Rockwell",
-        "SOUR"
-      ]
-    },
-    {
-      "id": "music_pop_061",
-      "difficulty": "hard",
-      "question": "Which artist headlined Super Bowl 2017?",
+      "question": "Whose debut album was 'The Fame' in 2008?",
       "correctAnswer": "Lady Gaga",
       "wrongAnswers": [
         "Katy Perry",
-        "Beyonce",
-        "Rihanna"
+        "Kesha",
+        "Britney Spears"
       ]
     },
     {
-      "id": "music_pop_062",
-      "difficulty": "hard",
-      "question": "Which album includes \"Run Away With Me\"?",
-      "correctAnswer": "EMOTION",
-      "wrongAnswers": [
-        "Kiss",
-        "Future Nostalgia",
-        "Charli"
-      ]
-    },
-    {
-      "id": "music_pop_063",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Scream & Shout\"?",
-      "correctAnswer": "Britney Spears",
-      "wrongAnswers": [
-        "Nicki Minaj",
-        "Rihanna",
-        "Doja Cat"
-      ]
-    },
-    {
-      "id": "music_pop_064",
-      "difficulty": "hard",
-      "question": "Which album includes \"Electric Feel\"?",
-      "correctAnswer": "Oracular Spectacular",
-      "wrongAnswers": [
-        "Currents",
-        "Hot Fuss",
-        "Plastic Beach"
-      ]
-    },
-    {
-      "id": "music_pop_065",
-      "difficulty": "hard",
-      "question": "Finish the lyric: \"I'm on top of the world ____\"",
-      "correctAnswer": "Hey",
-      "wrongAnswers": [
-        "Hey hey hey",
-        "Right now",
-        "All day"
-      ]
-    },
-    {
-      "id": "music_pop_066",
-      "difficulty": "hard",
-      "question": "Which artist headlined Glastonbury 2019?",
-      "correctAnswer": "Stormzy",
-      "wrongAnswers": [
-        "Adele",
-        "Beyonce",
-        "Ed Sheeran"
-      ]
-    },
-    {
-      "id": "music_pop_067",
-      "difficulty": "hard",
-      "question": "Which album includes \"Habits (Stay High)\"?",
-      "correctAnswer": "Queen of the Clouds",
-      "wrongAnswers": [
-        "Sunshine Kitty",
-        "SOUR",
-        "Future Nostalgia"
-      ]
-    },
-    {
-      "id": "music_pop_068",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Telephone\"?",
-      "correctAnswer": "Beyonce",
-      "wrongAnswers": [
-        "Rihanna",
-        "Adele",
-        "Doja Cat"
-      ]
-    },
-    {
-      "id": "music_pop_069",
+      "id": "music_pop_0007",
       "difficulty": "easy",
-      "question": "Which album includes \"Firework\"?",
-      "correctAnswer": "Teenage Dream",
+      "question": "Which Rihanna song spent 10 weeks at #1 in 2007?",
+      "correctAnswer": "Umbrella",
       "wrongAnswers": [
-        "Prism",
-        "Witness",
-        "Smile"
+        "Disturbia",
+        "Diamonds",
+        "We Found Love"
       ]
     },
     {
-      "id": "music_pop_070",
+      "id": "music_pop_0008",
       "difficulty": "easy",
-      "question": "Finish the lyric: \"Oops I did it ____\"",
-      "correctAnswer": "Again",
+      "question": "Beyonc? and Jay-Z released which joint album in 2018?",
+      "correctAnswer": "Everything Is Love",
       "wrongAnswers": [
-        "Once more",
-        "Too much",
-        "Another time"
-      ]
-    },
-    {
-      "id": "music_pop_071",
-      "difficulty": "medium",
-      "question": "Which album includes \"Bad Romance\"?",
-      "correctAnswer": "The Fame Monster",
-      "wrongAnswers": [
-        "Chromatica",
-        "Born This Way",
-        "Artpop"
-      ]
-    },
-    {
-      "id": "music_pop_072",
-      "difficulty": "medium",
-      "question": "Which artist features on \"Side to Side\"?",
-      "correctAnswer": "Nicki Minaj",
-      "wrongAnswers": [
-        "Cardi B",
-        "SZA",
-        "Doja Cat"
-      ]
-    },
-    {
-      "id": "music_pop_073",
-      "difficulty": "medium",
-      "question": "Finish the lyric: \"Cause I'm ____ and I'm feeling good\"",
-      "correctAnswer": "Alive",
-      "wrongAnswers": [
-        "Free",
-        "Happy",
-        "Strong"
-      ]
-    },
-    {
-      "id": "music_pop_074",
-      "difficulty": "hard",
-      "question": "Which album includes \"Genesis\"?",
-      "correctAnswer": "Visions",
-      "wrongAnswers": [
-        "Art Angels",
-        "Melodrama",
-        "Pop 2"
-      ]
-    },
-    {
-      "id": "music_pop_075",
-      "difficulty": "hard",
-      "question": "Which artist features on \"Iggy Azalea's Fancy\"?",
-      "correctAnswer": "Charli XCX",
-      "wrongAnswers": [
-        "SZA",
-        "Doja Cat",
-        "Rina Sawayama"
-      ]
-    },
-    {
-      "id": "music_pop_076",
-      "difficulty": "easy",
-      "question": "Which album includes \"Single Ladies\"?",
-      "correctAnswer": "I Am Sasha Fierce",
-      "wrongAnswers": [
-        4,
         "Lemonade",
-        "BDay"
+        "4:44",
+        "On the Run"
       ]
     },
     {
-      "id": "music_pop_077",
-      "difficulty": "medium",
-      "question": "Which album includes \"New Rules\"?",
-      "correctAnswer": "Dua Lipa",
+      "id": "music_pop_0009",
+      "difficulty": "easy",
+      "question": "Whose debut single was 'Drivers License' in 2021?",
+      "correctAnswer": "Olivia Rodrigo",
       "wrongAnswers": [
-        "Future Nostalgia",
-        "Confident",
+        "Doja Cat",
+        "Conan Gray",
+        "Tate McRae"
+      ]
+    },
+    {
+      "id": "music_pop_0010",
+      "difficulty": "easy",
+      "question": "Which boy band was Harry Styles in?",
+      "correctAnswer": "One Direction",
+      "wrongAnswers": [
+        "The Wanted",
+        "5SOS",
+        "Big Time Rush"
+      ]
+    },
+    {
+      "id": "music_pop_0011",
+      "difficulty": "easy",
+      "question": "Who released 'Bad Habit' in 2022?",
+      "correctAnswer": "Steve Lacy",
+      "wrongAnswers": [
+        "Frank Ocean",
+        "Brent Faiyaz",
+        "Daniel Caesar"
+      ]
+    },
+    {
+      "id": "music_pop_0012",
+      "difficulty": "easy",
+      "question": "Whose 2010s anthem opens 'I knew you were trouble when you walked in'?",
+      "correctAnswer": "Taylor Swift",
+      "wrongAnswers": [
+        "Carly Rae Jepsen",
+        "Selena Gomez",
+        "Demi Lovato"
+      ]
+    },
+    {
+      "id": "music_pop_0013",
+      "difficulty": "easy",
+      "question": "Which Dua Lipa album includes 'Levitating'?",
+      "correctAnswer": "Future Nostalgia",
+      "wrongAnswers": [
+        "Radical Optimism",
+        "Dua Lipa",
+        "Club Future Nostalgia"
+      ]
+    },
+    {
+      "id": "music_pop_0014",
+      "difficulty": "easy",
+      "question": "Who released the breakout EP 'Slime Season' as a teen?",
+      "correctAnswer": "Billie Eilish",
+      "wrongAnswers": [
+        "Lorde",
+        "Halsey",
+        "Lana Del Rey"
+      ]
+    },
+    {
+      "id": "music_pop_0015",
+      "difficulty": "easy",
+      "question": "Whose mid-2000s hits include 'SOS' and 'Pon de Replay'?",
+      "correctAnswer": "Rihanna",
+      "wrongAnswers": [
+        "Beyonc?",
+        "Ciara",
+        "M?a"
+      ]
+    },
+    {
+      "id": "music_pop_0016",
+      "difficulty": "medium",
+      "question": "Which 1991 Mariah Carey ballad spent 11 weeks at #1?",
+      "correctAnswer": "One Sweet Day",
+      "wrongAnswers": [
+        "Hero",
+        "Vision of Love",
+        "We Belong Together"
+      ]
+    },
+    {
+      "id": "music_pop_0017",
+      "difficulty": "medium",
+      "question": "Who produced most of Frank Ocean's 'Blonde'?",
+      "correctAnswer": "Frank Ocean",
+      "wrongAnswers": [
+        "Pharrell",
+        "Malay",
+        "Om'Mas Keith"
+      ]
+    },
+    {
+      "id": "music_pop_0018",
+      "difficulty": "medium",
+      "question": "Which Drake project introduced 'Hotline Bling'?",
+      "correctAnswer": "If You're Reading This It's Too Late",
+      "wrongAnswers": [
+        "Views",
+        "Nothing Was the Same",
+        "More Life"
+      ]
+    },
+    {
+      "id": "music_pop_0019",
+      "difficulty": "medium",
+      "question": "Robyn's 2010 'Body Talk Pt. 1' lead single?",
+      "correctAnswer": "Dancing On My Own",
+      "wrongAnswers": [
+        "Call Your Girlfriend",
+        "Hang with Me",
+        "Indestructible"
+      ]
+    },
+    {
+      "id": "music_pop_0020",
+      "difficulty": "medium",
+      "question": "Which Chappell Roan song interpolates \"Lay All Your Love on Me\"?",
+      "correctAnswer": "Hot To Go!",
+      "wrongAnswers": [
+        "Pink Pony Club",
+        "Good Luck, Babe!",
+        "Red Wine Supernova"
+      ]
+    },
+    {
+      "id": "music_pop_0021",
+      "difficulty": "medium",
+      "question": "What was Beyonc?'s first solo album?",
+      "correctAnswer": "Dangerously in Love",
+      "wrongAnswers": [
+        "B'Day",
+        "I Am... Sasha Fierce",
+        "4"
+      ]
+    },
+    {
+      "id": "music_pop_0022",
+      "difficulty": "medium",
+      "question": "Who collaborated with Lady Gaga on 'Rain On Me' in 2020?",
+      "correctAnswer": "Ariana Grande",
+      "wrongAnswers": [
+        "Beyonc?",
+        "Dua Lipa",
+        "Lana Del Rey"
+      ]
+    },
+    {
+      "id": "music_pop_0023",
+      "difficulty": "medium",
+      "question": "Which Kacey Musgraves album won Album of the Year in 2019?",
+      "correctAnswer": "Golden Hour",
+      "wrongAnswers": [
+        "Same Trailer Different Park",
+        "Pageant Material",
+        "Star-Crossed"
+      ]
+    },
+    {
+      "id": "music_pop_0024",
+      "difficulty": "medium",
+      "question": "Which 2018 Ariana Grande album was a surprise drop after a tough year?",
+      "correctAnswer": "Sweetener",
+      "wrongAnswers": [
+        "Thank U, Next",
+        "Dangerous Woman",
         "Positions"
       ]
     },
     {
-      "id": "music_pop_078",
+      "id": "music_pop_0025",
+      "difficulty": "medium",
+      "question": "Who released 'good kid, m.A.A.d city' in 2012?",
+      "correctAnswer": "Kendrick Lamar",
+      "wrongAnswers": [
+        "J. Cole",
+        "Big Sean",
+        "Drake"
+      ]
+    },
+    {
+      "id": "music_pop_0026",
       "difficulty": "hard",
-      "question": "Which album includes \"Primadonna\"?",
-      "correctAnswer": "Electra Heart",
+      "question": "Which producer scored most of FKA twigs' 'LP1' (2014)?",
+      "correctAnswer": "Arca",
       "wrongAnswers": [
-        "Froot",
-        "Love + Fear",
-        "Melodrama"
+        "Sophie",
+        "Boots",
+        "Clams Casino"
       ]
     },
     {
-      "id": "music_pop_079",
-      "difficulty": "easy",
-      "question": "Which album artwork features a baby underwater chasing a dollar bill?",
-      "correctAnswer": "Nevermind",
+      "id": "music_pop_0027",
+      "difficulty": "hard",
+      "question": "Who duetted with David Bowie on 'Under Pressure'?",
+      "correctAnswer": "Queen",
       "wrongAnswers": [
-        "In Utero",
-        "Toxicity",
-        "Hybrid Theory"
+        "Mick Jagger",
+        "Iggy Pop",
+        "Tina Turner"
       ]
     },
     {
-      "id": "music_pop_080",
-      "difficulty": "easy",
-      "question": "Which album artwork features Taylor Swift with Polaroid aesthetic?",
-      "correctAnswer": 1989,
+      "id": "music_pop_0028",
+      "difficulty": "hard",
+      "question": "Which Madonna album was a Kabbalah-influenced reinvention in 1998?",
+      "correctAnswer": "Ray of Light",
       "wrongAnswers": [
-        "Red",
-        "Lover",
-        "Midnights"
+        "Music",
+        "Confessions on a Dance Floor",
+        "American Life"
       ]
     },
     {
-      "id": "music_pop_081",
-      "difficulty": "easy",
-      "question": "Which album artwork shows a black-and-white close-up of Adele?s face?",
-      "correctAnswer": 25,
-      "wrongAnswers": [
-        21,
-        30,
-        19
-      ]
-    },
-    {
-      "id": "music_pop_082",
-      "difficulty": "easy",
-      "question": "Which album cover shows Billie Eilish sitting on a bed in a dark room?",
-      "correctAnswer": "When We All Fall Asleep...",
-      "wrongAnswers": [
-        "Happier Than Ever",
-        "Melodrama",
-        "SOUR"
-      ]
-    },
-    {
-      "id": "music_pop_083",
-      "difficulty": "easy",
-      "question": "Which album artwork features a pink desert and surreal objects?",
-      "correctAnswer": "Future Nostalgia",
-      "wrongAnswers": [
-        "Chromatica",
-        "Planet Her",
-        "Renaissance"
-      ]
-    },
-    {
-      "id": "music_pop_084",
-      "difficulty": "medium",
-      "question": "Which pop star made surprise album drops mainstream in the 2010s?",
-      "correctAnswer": "Beyonce",
-      "wrongAnswers": [
-        "Rihanna",
-        "Taylor Swift",
-        "Adele"
-      ]
-    },
-    {
-      "id": "music_pop_085",
-      "difficulty": "medium",
-      "question": "Which pop era is known for neon colors and 80s nostalgia?",
-      "correctAnswer": "Future Nostalgia",
-      "wrongAnswers": [
-        "Reputation",
-        "Lemonade",
-        "Midnights"
-      ]
-    },
-    {
-      "id": "music_pop_086",
-      "difficulty": "medium",
-      "question": "Which pop album is known for a snake imagery era?",
-      "correctAnswer": "Reputation",
-      "wrongAnswers": [
-        "Red",
-        "Lover",
-        1989
-      ]
-    },
-    {
-      "id": "music_pop_087",
-      "difficulty": "medium",
-      "question": "Which pop moment involved a meat dress?",
-      "correctAnswer": "Lady Gaga",
+      "id": "music_pop_0029",
+      "difficulty": "hard",
+      "question": "Who is the only artist with #1 albums in five consecutive decades (US)?",
+      "correctAnswer": "Barbra Streisand",
       "wrongAnswers": [
         "Madonna",
-        "Rihanna",
-        "Beyonce"
+        "Mariah Carey",
+        "Cher"
       ]
     },
     {
-      "id": "music_pop_088",
-      "difficulty": "medium",
-      "question": "Which pop performance included a flying entrance at the Super Bowl?",
-      "correctAnswer": "Lady Gaga",
-      "wrongAnswers": [
-        "Katy Perry",
-        "Beyonce",
-        "Rihanna"
-      ]
-    },
-    {
-      "id": "music_pop_089",
-      "difficulty": "medium",
-      "question": "Which song?s choreography includes the \"Single Ladies\" hand flip?",
-      "correctAnswer": "Single Ladies",
-      "wrongAnswers": [
-        "Formation",
-        "Run the World",
-        "Partition"
-      ]
-    },
-    {
-      "id": "music_pop_090",
-      "difficulty": "medium",
-      "question": "Which song popularized the \"TikTok Savage dance\"?",
-      "correctAnswer": "Savage",
-      "wrongAnswers": [
-        "WAP",
-        "Levitating",
-        "Blinding Lights"
-      ]
-    },
-    {
-      "id": "music_pop_091",
-      "difficulty": "medium",
-      "question": "Which album is known for a house music revival?",
-      "correctAnswer": "Renaissance",
-      "wrongAnswers": [
-        "Chromatica",
-        "Future Nostalgia",
-        "Planet Her"
-      ]
-    },
-    {
-      "id": "music_pop_092",
-      "difficulty": "medium",
-      "question": "Which pop album features a pink cowboy hat aesthetic?",
-      "correctAnswer": "Joanne",
-      "wrongAnswers": [
-        "Golden Hour",
-        "Lover",
-        "Midnights"
-      ]
-    },
-    {
-      "id": "music_pop_093",
+      "id": "music_pop_0030",
       "difficulty": "hard",
-      "question": "Which pop era used glitchy chrome visuals and hyperpop influence?",
-      "correctAnswer": "Chromatica",
+      "question": "Which producer ghost-wrote much of early M.I.A.?",
+      "correctAnswer": "Diplo",
       "wrongAnswers": [
-        "Reputation",
-        "Future Nostalgia",
-        "Artpop"
-      ]
-    },
-    {
-      "id": "music_pop_094",
-      "difficulty": "hard",
-      "question": "Which album artwork features a mirrored disco ball helmet?",
-      "correctAnswer": "Random Access Memories",
-      "wrongAnswers": [
-        "Future Nostalgia",
-        "After Hours",
-        "Planet Her"
-      ]
-    },
-    {
-      "id": "music_pop_095",
-      "difficulty": "hard",
-      "question": "Which album is associated with the phrase \"sad girl summer\"?",
-      "correctAnswer": "Norman Fucking Rockwell",
-      "wrongAnswers": [
-        "Melodrama",
-        "SOUR",
-        30
-      ]
-    },
-    {
-      "id": "music_pop_096",
-      "difficulty": "hard",
-      "question": "Which pop album features robotic vocals and EDM dominance?",
-      "correctAnswer": "Purpose",
-      "wrongAnswers": [
-        "Confessions",
-        "Future Nostalgia",
-        "Chromatica"
-      ]
-    },
-    {
-      "id": "music_pop_097",
-      "difficulty": "hard",
-      "question": "Which music video features a one-take hallway fight scene?",
-      "correctAnswer": "Bad Blood",
-      "wrongAnswers": [
-        "Telephone",
-        "Oops I Did It Again",
-        "Toxic"
-      ]
-    },
-    {
-      "id": "music_pop_098",
-      "difficulty": "hard",
-      "question": "Which pop song?s video features a burning house symbolizing heartbreak?",
-      "correctAnswer": "We Are Never Ever Getting Back Together",
-      "wrongAnswers": [
-        "Stay",
-        "Shallow",
-        "Firework"
-      ]
-    },
-    {
-      "id": "music_pop_099",
-      "difficulty": "hard",
-      "question": "Which pop album includes a visual film accompanying every song?",
-      "correctAnswer": "Lemonade",
-      "wrongAnswers": [
-        25,
-        "Midnights",
-        "Future Nostalgia"
-      ]
-    },
-    {
-      "id": "music_pop_100",
-      "difficulty": "hard",
-      "question": "Which pop performance included a massive chessboard stage design?",
-      "correctAnswer": "Coachella Lady Gaga",
-      "wrongAnswers": [
-        "Super Bowl Rihanna",
-        "Coachella Beyonce",
-        "Grammys Adele"
+        "Switch",
+        "Skrillex",
+        "Mark Ronson"
       ]
     }
   ]
