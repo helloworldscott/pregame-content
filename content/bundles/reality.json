@@ -3,443 +3,333 @@
   "version": 1,
   "questions": [
     {
-      "id": "reality_001",
+      "id": "reality_0001",
       "difficulty": "easy",
-      "question": "Finish the quote: \"I said what I ____\"",
-      "correctAnswer": "Said",
+      "question": "Which family stars in 'Keeping Up with the Kardashians'?",
+      "correctAnswer": "The Kardashians/Jenners",
       "wrongAnswers": [
-        "Did",
-        "Meant",
-        "Thought"
+        "The Hiltons",
+        "The Osbournes",
+        "The Real Housewives"
       ]
     },
     {
-      "id": "reality_002",
+      "id": "reality_0002",
       "difficulty": "easy",
-      "question": "Which show features the Kardashian family?",
-      "correctAnswer": "Keeping Up with the Kardashians",
+      "question": "Who hosts Survivor (US)?",
+      "correctAnswer": "Jeff Probst",
       "wrongAnswers": [
-        "Real Housewives",
-        "Love Island",
+        "Phil Keoghan",
+        "Mark Burnett",
+        "Tyra Banks"
+      ]
+    },
+    {
+      "id": "reality_0003",
+      "difficulty": "easy",
+      "question": "Which show pairs singles in a Spanish villa?",
+      "correctAnswer": "Love Island",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Too Hot to Handle",
+        "Are You The One?"
+      ]
+    },
+    {
+      "id": "reality_0004",
+      "difficulty": "easy",
+      "question": "Who hosts The Bachelor US?",
+      "correctAnswer": "Jesse Palmer (current)",
+      "wrongAnswers": [
+        "Chris Harrison (former)",
+        "Tess Daly",
+        "Cat Deeley"
+      ]
+    },
+    {
+      "id": "reality_0005",
+      "difficulty": "easy",
+      "question": "Which dance reality show is hosted by Cat Deeley?",
+      "correctAnswer": "So You Think You Can Dance",
+      "wrongAnswers": [
+        "Dancing with the Stars",
+        "Strictly",
+        "World of Dance"
+      ]
+    },
+    {
+      "id": "reality_0006",
+      "difficulty": "easy",
+      "question": "Which Real Housewives city is OG?",
+      "correctAnswer": "Orange County (2006)",
+      "wrongAnswers": [
+        "NYC",
+        "Atlanta",
+        "Beverly Hills"
+      ]
+    },
+    {
+      "id": "reality_0007",
+      "difficulty": "easy",
+      "question": "Who is RHOA's 'Mama Joyce'?",
+      "correctAnswer": "Joyce Jones",
+      "wrongAnswers": [
+        "NeNe's mom",
+        "Cynthia's mom",
+        "Kandi's mom"
+      ]
+    },
+    {
+      "id": "reality_0008",
+      "difficulty": "easy",
+      "question": "Who hosts Top Chef?",
+      "correctAnswer": "Padma Lakshmi (longtime), Kristen Kish (current)",
+      "wrongAnswers": [
+        "Tom Colicchio (judge)",
+        "Gail Simmons",
+        "Anthony Bourdain"
+      ]
+    },
+    {
+      "id": "reality_0009",
+      "difficulty": "easy",
+      "question": "Which show features Selling Sunset agents?",
+      "correctAnswer": "Selling Sunset",
+      "wrongAnswers": [
+        "Million Dollar Listing",
+        "Selling Tampa",
+        "Bling Empire"
+      ]
+    },
+    {
+      "id": "reality_0010",
+      "difficulty": "easy",
+      "question": "Which competition show has 'Heidi Klum' as a longtime host?",
+      "correctAnswer": "Project Runway",
+      "wrongAnswers": [
+        "America's Next Top Model",
+        "Making the Cut",
+        "AGT"
+      ]
+    },
+    {
+      "id": "reality_0011",
+      "difficulty": "easy",
+      "question": "Which show is built around '90 Day Fianc?'?",
+      "correctAnswer": "90 Day Fianc? (TLC)",
+      "wrongAnswers": [
+        "The Bachelor",
+        "Married at First Sight",
+        "Love is Blind"
+      ]
+    },
+    {
+      "id": "reality_0012",
+      "difficulty": "easy",
+      "question": "Which competition has 'Auf Wiedersehen' as goodbye?",
+      "correctAnswer": "Project Runway (Heidi)",
+      "wrongAnswers": [
+        "Top Chef",
+        "America's Next Top Model",
+        "MasterChef"
+      ]
+    },
+    {
+      "id": "reality_0013",
+      "difficulty": "easy",
+      "question": "Which Real Housewives franchise features Lisa Vanderpump?",
+      "correctAnswer": "Beverly Hills",
+      "wrongAnswers": [
+        "Orange County",
+        "New Jersey",
+        "Atlanta"
+      ]
+    },
+    {
+      "id": "reality_0014",
+      "difficulty": "easy",
+      "question": "Which show features couples who can't see each other?",
+      "correctAnswer": "Love Is Blind",
+      "wrongAnswers": [
+        "Married at First Sight",
+        "Indian Matchmaking",
         "The Bachelor"
       ]
     },
     {
-      "id": "reality_003",
+      "id": "reality_0015",
       "difficulty": "easy",
-      "question": "Finish the quote: \"Don't be ____\"",
-      "correctAnswer": "Tardy",
+      "question": "Which competition crowns America's Next Top Model?",
+      "correctAnswer": "ANTM",
       "wrongAnswers": [
-        "Messy",
-        "Late",
-        "Loud"
+        "Project Runway",
+        "Making the Cut",
+        "Top Chef"
       ]
     },
     {
-      "id": "reality_004",
-      "difficulty": "easy",
-      "question": "Which show features couples pairing up in a villa?",
-      "correctAnswer": "Love Island",
+      "id": "reality_0016",
+      "difficulty": "medium",
+      "question": "Who created The Real World (1992)?",
+      "correctAnswer": "Mary-Ellis Bunim & Jonathan Murray",
       "wrongAnswers": [
-        "The Bachelor",
-        "Too Hot To Handle",
-        "Big Brother"
+        "Mark Burnett",
+        "Andy Cohen",
+        "Chuck Lorre"
       ]
     },
     {
-      "id": "reality_005",
-      "difficulty": "easy",
-      "question": "Which show features weekly rose ceremonies?",
+      "id": "reality_0017",
+      "difficulty": "medium",
+      "question": "Which Survivor season was set in Borneo?",
+      "correctAnswer": "Season 1 (2000)",
+      "wrongAnswers": [
+        "Season 7: Pearl Islands",
+        "Season 4: Marquesas",
+        "Season 9: Vanuatu"
+      ]
+    },
+    {
+      "id": "reality_0018",
+      "difficulty": "medium",
+      "question": "Who is 'NeNe' Leakes from RHOA?",
+      "correctAnswer": "Linnethia Monique Leakes",
+      "wrongAnswers": [
+        "Cynthia Bailey",
+        "Kandi Burruss",
+        "Phaedra Parks"
+      ]
+    },
+    {
+      "id": "reality_0019",
+      "difficulty": "medium",
+      "question": "Which 2023 Netflix dating show featured Love Island and Too Hot to Handle alumni?",
+      "correctAnswer": "Perfect Match",
+      "wrongAnswers": [
+        "The Ultimatum",
+        "Love Is Blind",
+        "Single's Inferno"
+      ]
+    },
+    {
+      "id": "reality_0020",
+      "difficulty": "medium",
+      "question": "Who hosts Drag Race All Stars?",
+      "correctAnswer": "RuPaul",
+      "wrongAnswers": [
+        "Michelle Visage",
+        "Bianca Del Rio",
+        "Carson Kressley"
+      ]
+    },
+    {
+      "id": "reality_0021",
+      "difficulty": "medium",
+      "question": "Which reality show has 'Roses' as elimination tokens?",
       "correctAnswer": "The Bachelor",
       "wrongAnswers": [
         "Love Island",
-        "Too Hot To Handle",
-        "Big Brother"
+        "Indian Matchmaking",
+        "Married at First Sight"
       ]
     },
     {
-      "id": "reality_006",
-      "difficulty": "easy",
-      "question": "Finish the quote: \"You're such a ____\"",
-      "correctAnswer": "Liar",
-      "wrongAnswers": [
-        "Fake",
-        "Mess",
-        "Snake"
-      ]
-    },
-    {
-      "id": "reality_007",
-      "difficulty": "easy",
-      "question": "Which show features contestants living together and being watched 24/7?",
-      "correctAnswer": "Big Brother",
-      "wrongAnswers": [
-        "Survivor",
-        "Love Island",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_008",
-      "difficulty": "easy",
-      "question": "Which show features influencers living in a house rating each other?",
-      "correctAnswer": "The Circle",
-      "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "Survivor"
-      ]
-    },
-    {
-      "id": "reality_009",
-      "difficulty": "easy",
-      "question": "Finish the phrase: \"It's giving ____ energy\"",
-      "correctAnswer": "Main character",
-      "wrongAnswers": [
-        "Bad vibes",
-        "Drama",
-        "Chaos"
-      ]
-    },
-    {
-      "id": "reality_010",
-      "difficulty": "easy",
-      "question": "Which show features luxury lifestyles and drama among wealthy women?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Kardashians",
-        "Love Island",
-        "The Bachelor"
-      ]
-    },
-    {
-      "id": "reality_011",
+      "id": "reality_0022",
       "difficulty": "medium",
-      "question": "Which show features island survival challenges?",
-      "correctAnswer": "Survivor",
+      "question": "Which family hosts a podcast called 'Two Ts in a Pod'?",
+      "correctAnswer": "Tamra & Teddi (RHOC)",
       "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "The Circle"
+        "Caroline & Vicki",
+        "Kim & Kyle",
+        "Lisa & Brandi"
       ]
     },
     {
-      "id": "reality_012",
+      "id": "reality_0023",
       "difficulty": "medium",
-      "question": "Which show features no physical contact rules for prize money?",
-      "correctAnswer": "Too Hot To Handle",
+      "question": "Which 'Vanderpump Rules' scandal exploded in 2023?",
+      "correctAnswer": "Scandoval (Tom Sandoval / Raquel Leviss / Ariana Madix)",
       "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "Big Brother"
+        "Jax cheating",
+        "Kristen drama",
+        "James firing"
       ]
     },
     {
-      "id": "reality_013",
+      "id": "reality_0024",
       "difficulty": "medium",
-      "question": "Which show features contestants creating alliances to win?",
-      "correctAnswer": "Big Brother",
+      "question": "Which agency does Selling Sunset follow?",
+      "correctAnswer": "The Oppenheim Group",
       "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "The Circle"
+        "The Agency",
+        "Douglas Elliman",
+        "Compass"
       ]
     },
     {
-      "id": "reality_014",
+      "id": "reality_0025",
       "difficulty": "medium",
-      "question": "Which show features dramatic recoupling ceremonies?",
-      "correctAnswer": "Love Island",
+      "question": "Which show featured Snooki, JWoww, and The Situation?",
+      "correctAnswer": "Jersey Shore",
       "wrongAnswers": [
-        "The Bachelor",
-        "Too Hot To Handle",
-        "Big Brother"
+        "Real World",
+        "Bad Girls Club",
+        "The Hills"
       ]
     },
     {
-      "id": "reality_015",
-      "difficulty": "medium",
-      "question": "Finish the quote: \"I'm not here to make ____\"",
-      "correctAnswer": "Friends",
-      "wrongAnswers": [
-        "Drama",
-        "Enemies",
-        "Mistakes"
-      ]
-    },
-    {
-      "id": "reality_016",
-      "difficulty": "medium",
-      "question": "Which show includes confessionals where cast speak directly to camera?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "Survivor"
-      ]
-    },
-    {
-      "id": "reality_017",
-      "difficulty": "medium",
-      "question": "Which show features eliminations via weekly voting?",
-      "correctAnswer": "Big Brother",
-      "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "Survivor"
-      ]
-    },
-    {
-      "id": "reality_018",
-      "difficulty": "medium",
-      "question": "Which show features dramatic reunion episodes after the season?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "Big Brother"
-      ]
-    },
-    {
-      "id": "reality_019",
-      "difficulty": "medium",
-      "question": "Which show includes luxury vacations with drama?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_020",
-      "difficulty": "medium",
-      "question": "Finish the quote: \"You're fake ____\"",
-      "correctAnswer": "AF",
-      "wrongAnswers": [
-        "Forever",
-        "Again",
-        "Always"
-      ]
-    },
-    {
-      "id": "reality_021",
+      "id": "reality_0026",
       "difficulty": "hard",
-      "question": "Which show popularized \"table flip\" moments in reality TV?",
-      "correctAnswer": "Real Housewives",
+      "question": "Who won Survivor: Heroes vs. Villains (2010)?",
+      "correctAnswer": "Sandra Diaz-Twine",
       "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "Survivor"
+        "Russell Hantz",
+        "Parvati Shallow",
+        "Jerri Manthey"
       ]
     },
     {
-      "id": "reality_022",
+      "id": "reality_0027",
       "difficulty": "hard",
-      "question": "Which show features contestants blocked instead of eliminated?",
-      "correctAnswer": "The Circle",
+      "question": "Who created Big Brother (the original Dutch show)?",
+      "correctAnswer": "John de Mol",
       "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "Survivor"
+        "Mark Burnett",
+        "Bunim/Murray",
+        "Chuck Lorre"
       ]
     },
     {
-      "id": "reality_023",
+      "id": "reality_0028",
       "difficulty": "hard",
-      "question": "Which show includes dramatic proposal finales?",
-      "correctAnswer": "The Bachelor",
+      "question": "Which 1973 PBS series is considered the first reality show?",
+      "correctAnswer": "An American Family",
       "wrongAnswers": [
-        "Love Island",
-        "Too Hot To Handle",
-        "Big Brother"
+        "The Real World",
+        "An American Story",
+        "Camera Three"
       ]
     },
     {
-      "id": "reality_024",
+      "id": "reality_0029",
       "difficulty": "hard",
-      "question": "Which show includes \"bombshell\" contestants entering mid-season?",
-      "correctAnswer": "Love Island",
+      "question": "Who ran the original 'Bachelor Pad'?",
+      "correctAnswer": "Chris Harrison",
       "wrongAnswers": [
-        "The Bachelor",
-        "Big Brother",
-        "The Circle"
+        "Jesse Palmer",
+        "Sean Lowe",
+        "Andy Cohen"
       ]
     },
     {
-      "id": "reality_025",
+      "id": "reality_0030",
       "difficulty": "hard",
-      "question": "Which show features jury members deciding the winner?",
-      "correctAnswer": "Survivor",
+      "question": "Which 1948 series featured Allen Funt's hidden cameras?",
+      "correctAnswer": "Candid Camera",
       "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "The Bachelor"
-      ]
-    },
-    {
-      "id": "reality_026",
-      "difficulty": "hard",
-      "question": "Which show includes secret alliances and betrayals as core gameplay?",
-      "correctAnswer": "Big Brother",
-      "wrongAnswers": [
-        "Love Island",
-        "The Bachelor",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_027",
-      "difficulty": "hard",
-      "question": "Which show includes a ?rose ceremony? elimination?",
-      "correctAnswer": "The Bachelor",
-      "wrongAnswers": [
-        "Love Island",
-        "Too Hot To Handle",
-        "Big Brother"
-      ]
-    },
-    {
-      "id": "reality_028",
-      "difficulty": "hard",
-      "question": "Which show features influencers competing for popularity ratings?",
-      "correctAnswer": "The Circle",
-      "wrongAnswers": [
-        "Love Island",
-        "Big Brother",
-        "Survivor"
-      ]
-    },
-    {
-      "id": "reality_029",
-      "difficulty": "hard",
-      "question": "Which show features luxury glam squads and styling drama?",
-      "correctAnswer": "Kardashians",
-      "wrongAnswers": [
-        "Real Housewives",
-        "Love Island",
-        "The Bachelor"
-      ]
-    },
-    {
-      "id": "reality_030",
-      "difficulty": "hard",
-      "question": "Finish the quote: \"I'm done with this ____\"",
-      "correctAnswer": "Drama",
-      "wrongAnswers": [
-        "Show",
-        "Mess",
-        "Energy"
-      ]
-    },
-    {
-      "id": "reality_031",
-      "difficulty": "easy",
-      "question": "Which show features dramatic breakups and recouplings?",
-      "correctAnswer": "Love Island",
-      "wrongAnswers": [
-        "The Bachelor",
-        "Too Hot To Handle",
-        "Big Brother"
-      ]
-    },
-    {
-      "id": "reality_032",
-      "difficulty": "easy",
-      "question": "Which show features contestants living in a luxury villa?",
-      "correctAnswer": "Love Island",
-      "wrongAnswers": [
-        "The Bachelor",
-        "Big Brother",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_033",
-      "difficulty": "medium",
-      "question": "Which show features high-stakes social gameplay and eviction nights?",
-      "correctAnswer": "Big Brother",
-      "wrongAnswers": [
-        "Love Island",
-        "Survivor",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_034",
-      "difficulty": "medium",
-      "question": "Which show features island tribal councils?",
-      "correctAnswer": "Survivor",
-      "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_035",
-      "difficulty": "medium",
-      "question": "Finish the quote: \"This is so ____\"",
-      "correctAnswer": "Messy",
-      "wrongAnswers": [
-        "Fake",
-        "Wild",
-        "Chaotic"
-      ]
-    },
-    {
-      "id": "reality_036",
-      "difficulty": "hard",
-      "question": "Which show features strategic immunity challenges?",
-      "correctAnswer": "Survivor",
-      "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "The Circle"
-      ]
-    },
-    {
-      "id": "reality_037",
-      "difficulty": "hard",
-      "question": "Which show features dramatic fashion and lifestyle feuds?",
-      "correctAnswer": "Real Housewives",
-      "wrongAnswers": [
-        "Kardashians",
-        "Love Island",
-        "The Bachelor"
-      ]
-    },
-    {
-      "id": "reality_038",
-      "difficulty": "easy",
-      "question": "Which show includes dramatic dating eliminations?",
-      "correctAnswer": "The Bachelor",
-      "wrongAnswers": [
-        "Love Island",
-        "Too Hot To Handle",
-        "Big Brother"
-      ]
-    },
-    {
-      "id": "reality_039",
-      "difficulty": "medium",
-      "question": "Which show includes cast members rating each other anonymously?",
-      "correctAnswer": "The Circle",
-      "wrongAnswers": [
-        "Big Brother",
-        "Love Island",
-        "Survivor"
-      ]
-    },
-    {
-      "id": "reality_040",
-      "difficulty": "hard",
-      "question": "Which show blends romance",
-      "correctAnswer": "competition",
-      "wrongAnswers": [
-        "and social strategy?",
-        "Love Island",
-        "Big Brother"
+        "The Tonight Show",
+        "Truth or Consequences",
+        "What's My Line?"
       ]
     }
   ]
