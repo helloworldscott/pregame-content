@@ -1,6 +1,10 @@
 {
   "id": "lgbtq_icons",
-  "version": 2,
+  "version": 1,
+  "displayName": "LGBTQ Icons",
+  "icon": "lgbtq_icons",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "lgbtq_icons_0001",
