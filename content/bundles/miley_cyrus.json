@@ -1,6 +1,10 @@
 {
   "id": "miley_cyrus",
-  "version": 2,
+  "version": 1,
+  "displayName": "Miley Cyrus",
+  "icon": "miley_cyrus",
+  "unlockLevel": 20,
+  "locale": "en-US",
   "questions": [
     {
       "id": "miley_cyrus_0001",
