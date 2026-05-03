@@ -1,6 +1,10 @@
 {
   "id": "music_videos",
-  "version": 2,
+  "version": 1,
+  "displayName": "Music Videos",
+  "icon": "music_videos",
+  "unlockLevel": 7,
+  "locale": "en-US",
   "questions": [
     {
       "id": "music_videos_0001",
