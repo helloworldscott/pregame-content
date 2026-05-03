@@ -1,6 +1,10 @@
 {
   "id": "music_hits",
-  "version": 2,
+  "version": 1,
+  "displayName": "Music Hits",
+  "icon": "music_hits",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "music_hits_0001",
