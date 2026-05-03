@@ -1,6 +1,10 @@
 {
   "id": "drag_race",
-  "version": 2,
+  "version": 1,
+  "displayName": "Drag Race",
+  "icon": "drag_race",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "drag_race_0001",
