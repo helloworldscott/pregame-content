@@ -1,6 +1,10 @@
 {
   "id": "reality",
-  "version": 2,
+  "version": 1,
+  "displayName": "Reality TV",
+  "icon": "reality",
+  "unlockLevel": 5,
+  "locale": "en-US",
   "questions": [
     {
       "id": "reality_0001",
