@@ -1,6 +1,10 @@
 {
   "id": "music_pop",
-  "version": 2,
+  "version": 1,
+  "displayName": "Pop Music",
+  "icon": "music_pop",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "music_pop_0001",
