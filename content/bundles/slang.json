@@ -1,6 +1,10 @@
 {
   "id": "slang",
-  "version": 2,
+  "version": 1,
+  "displayName": "Slang",
+  "icon": "slang",
+  "unlockLevel": 7,
+  "locale": "en-US",
   "questions": [
     {
       "id": "slang_0001",
