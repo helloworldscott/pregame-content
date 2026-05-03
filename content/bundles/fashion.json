@@ -1,6 +1,10 @@
 {
   "id": "fashion",
-  "version": 2,
+  "version": 1,
+  "displayName": "Fashion",
+  "icon": "fashion",
+  "unlockLevel": 13,
+  "locale": "en-US",
   "questions": [
     {
       "id": "fashion_0001",
