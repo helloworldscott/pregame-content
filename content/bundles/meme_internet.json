@@ -1,6 +1,10 @@
 {
   "id": "meme_internet",
-  "version": 2,
+  "version": 1,
+  "displayName": "Memes & Internet",
+  "icon": "meme_internet",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "meme_internet_0001",
