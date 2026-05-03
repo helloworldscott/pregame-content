@@ -1,6 +1,10 @@
 {
   "id": "horror",
-  "version": 2,
+  "version": 1,
+  "displayName": "Horror",
+  "icon": "horror",
+  "unlockLevel": 15,
+  "locale": "en-US",
   "questions": [
     {
       "id": "horror_0001",
