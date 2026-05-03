@@ -1,6 +1,10 @@
 {
   "id": "movies",
-  "version": 2,
+  "version": 1,
+  "displayName": "Movies",
+  "icon": "movies",
+  "unlockLevel": 3,
+  "locale": "en-US",
   "questions": [
     {
       "id": "movies_0001",
