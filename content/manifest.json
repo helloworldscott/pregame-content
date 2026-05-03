@@ -23,23 +23,9 @@
       "questionCount": 30
     },
     {
-      "id": "lady_gaga",
-      "version": 2,
-      "url": "bundles/lady_gaga.json",
-      "sha256": "",
-      "questionCount": 30
-    },
-    {
       "id": "drag_race",
       "version": 2,
       "url": "bundles/drag_race.json",
-      "sha256": "",
-      "questionCount": 30
-    },
-    {
-      "id": "slang",
-      "version": 2,
-      "url": "bundles/slang.json",
       "sha256": "",
       "questionCount": 30
     },
@@ -51,20 +37,6 @@
       "questionCount": 30
     },
     {
-      "id": "movies",
-      "version": 2,
-      "url": "bundles/movies.json",
-      "sha256": "",
-      "questionCount": 30
-    },
-    {
-      "id": "scandal",
-      "version": 2,
-      "url": "bundles/scandal.json",
-      "sha256": "",
-      "questionCount": 30
-    },
-    {
       "id": "music_hits",
       "version": 2,
       "url": "bundles/music_hits.json",
@@ -72,23 +44,23 @@
       "questionCount": 30
     },
     {
-      "id": "madonna",
+      "id": "movies",
       "version": 2,
-      "url": "bundles/madonna.json",
+      "url": "bundles/movies.json",
       "sha256": "",
       "questionCount": 30
     },
     {
-      "id": "fashion",
+      "id": "reality",
       "version": 2,
-      "url": "bundles/fashion.json",
+      "url": "bundles/reality.json",
       "sha256": "",
       "questionCount": 30
     },
     {
-      "id": "horror",
+      "id": "slang",
       "version": 2,
-      "url": "bundles/horror.json",
+      "url": "bundles/slang.json",
       "sha256": "",
       "questionCount": 30
     },
@@ -100,9 +72,37 @@
       "questionCount": 30
     },
     {
-      "id": "reality",
+      "id": "lady_gaga",
       "version": 2,
-      "url": "bundles/reality.json",
+      "url": "bundles/lady_gaga.json",
+      "sha256": "",
+      "questionCount": 30
+    },
+    {
+      "id": "fashion",
+      "version": 2,
+      "url": "bundles/fashion.json",
+      "sha256": "",
+      "questionCount": 30
+    },
+    {
+      "id": "madonna",
+      "version": 2,
+      "url": "bundles/madonna.json",
+      "sha256": "",
+      "questionCount": 30
+    },
+    {
+      "id": "horror",
+      "version": 2,
+      "url": "bundles/horror.json",
+      "sha256": "",
+      "questionCount": 30
+    },
+    {
+      "id": "scandal",
+      "version": 2,
+      "url": "bundles/scandal.json",
       "sha256": "",
       "questionCount": 30
     },
