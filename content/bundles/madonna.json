@@ -1,6 +1,10 @@
 {
   "id": "madonna",
-  "version": 2,
+  "version": 1,
+  "displayName": "Madonna",
+  "icon": "madonna",
+  "unlockLevel": 15,
+  "locale": "en-US",
   "questions": [
     {
       "id": "madonna_0001",
