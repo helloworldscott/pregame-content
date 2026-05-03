@@ -1,6 +1,10 @@
 {
   "id": "lady_gaga",
-  "version": 2,
+  "version": 1,
+  "displayName": "Lady Gaga",
+  "icon": "lady_gaga",
+  "unlockLevel": 10,
+  "locale": "en-US",
   "questions": [
     {
       "id": "lady_gaga_0001",
