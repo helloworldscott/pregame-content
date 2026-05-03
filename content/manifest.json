@@ -4,112 +4,112 @@
     {
       "id": "music_pop",
       "version": 2,
-      "path": "bundles/music_pop.json",
+      "url": "bundles/music_pop.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "lgbtq_icons",
       "version": 2,
-      "path": "bundles/lgbtq_icons.json",
+      "url": "bundles/lgbtq_icons.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "tv",
       "version": 2,
-      "path": "bundles/tv.json",
+      "url": "bundles/tv.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "lady_gaga",
       "version": 2,
-      "path": "bundles/lady_gaga.json",
+      "url": "bundles/lady_gaga.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "drag_race",
       "version": 2,
-      "path": "bundles/drag_race.json",
+      "url": "bundles/drag_race.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "slang",
       "version": 2,
-      "path": "bundles/slang.json",
+      "url": "bundles/slang.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "meme_internet",
       "version": 2,
-      "path": "bundles/meme_internet.json",
+      "url": "bundles/meme_internet.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "movies",
       "version": 2,
-      "path": "bundles/movies.json",
+      "url": "bundles/movies.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "scandal",
       "version": 2,
-      "path": "bundles/scandal.json",
+      "url": "bundles/scandal.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "music_hits",
       "version": 2,
-      "path": "bundles/music_hits.json",
+      "url": "bundles/music_hits.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "madonna",
       "version": 2,
-      "path": "bundles/madonna.json",
+      "url": "bundles/madonna.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "fashion",
       "version": 2,
-      "path": "bundles/fashion.json",
+      "url": "bundles/fashion.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "horror",
       "version": 2,
-      "path": "bundles/horror.json",
+      "url": "bundles/horror.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "music_videos",
       "version": 2,
-      "path": "bundles/music_videos.json",
+      "url": "bundles/music_videos.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "reality",
       "version": 2,
-      "path": "bundles/reality.json",
+      "url": "bundles/reality.json",
       "sha256": "",
       "questionCount": 30
     },
     {
       "id": "miley_cyrus",
       "version": 2,
-      "path": "bundles/miley_cyrus.json",
+      "url": "bundles/miley_cyrus.json",
       "sha256": "",
       "questionCount": 30
     }
