@@ -1,6 +1,10 @@
 {
   "id": "tv",
-  "version": 2,
+  "version": 1,
+  "displayName": "TV & Film",
+  "icon": "tv",
+  "unlockLevel": 1,
+  "locale": "en-US",
   "questions": [
     {
       "id": "tv_0001",
