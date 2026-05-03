@@ -1,6 +1,10 @@
 {
   "id": "scandal",
-  "version": 2,
+  "version": 1,
+  "displayName": "Scandal",
+  "icon": "scandal",
+  "unlockLevel": 18,
+  "locale": "en-US",
   "questions": [
     {
       "id": "scandal_0001",
